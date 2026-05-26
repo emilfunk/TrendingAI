@@ -1,0 +1,43 @@
+{
+  "feature_id": "fr-e46d28eec380",
+  "overall_sentiment": "positive",
+  "dominant_pattern": "news",
+  "summary_sentence": "OpenAI's Databricks enterprise tie-up arrived inside a broader GPT-5.5 favorable cycle: Theo's 187k-engagement podcast highlights GPT-5.5 medium's ~10x token efficiency over Sonnet/Gemini, Marc Andreessen on Rogan named GPT-5.5 as part of the AGI-is-here cluster, and Lenny's guest writes most strategy docs and email with GPT-5.5 and Codex; the looming counter is Cursor Composer 2.5 hitting near-parity at 60x lower cost per task.",
+  "praises": [
+    "Theo's 187k-engagement video frames GPT-5.5 medium as 10x more token-efficient than Sonnet on the same task (22M tokens vs 200M)",
+    "Lenny's guest reports doing most strategy documents and email writing through GPT-5.5 and Codex",
+    "Marc Andreessen on Rogan named GPT-5.5 alongside Claude 4.6, Gemini 3, Grok 4.3 as the cluster that crossed the AGI line ~3 months ago"
+  ],
+  "complaints": [
+    "AI Daily Brief surfaces Cursor Composer 2.5 hitting near-parity on Terminal Bench and SWE-bench at a fraction of the cost, framing GPT-5.5's $4.10-per-task pricing as the soft spot",
+    "steady_ai breaks down a 60x cost gap ($0.07 vs $4.10 per task) where Composer 2.5 wins on new feature coding and agent loops while Opus 4.7 stays ahead on big refactors and complex debugging"
+  ],
+  "notable_quotes": [
+    {"author": "@Theo - t3.gg", "source": "youtube", "quote": "Token efficiency is a very underrated aspect of all of the things that we're doing nowadays, and Open AI seems to be the only company taking it very seriously."},
+    {"author": "@theo", "source": "x", "quote": "The Codex/GPT-5.5 experience I have today would have met my definition in 2024."},
+    {"author": "@itsolelehmann", "source": "x", "quote": "AGI is here. he thinks the line was crossed about 3 months ago with the new GPT-5.5, claude 4.6, gemini 3, and grok 4.3 models."}
+  ],
+  "podcast_synth": [
+    {"video_id": "1p334v40npw", "show_name": "Theo - t3.gg", "synth_line": "Theo argues OpenAI is the only lab taking token efficiency seriously, citing GPT-5.5 medium at 22M tokens for a task where Sonnet burned 200M."},
+    {"video_id": "G2HX30CelNk", "show_name": "AI Daily Brief", "synth_line": "AI Daily Brief surfaces Theo's cost critique: Gemini 3.5 Flash runs 2x more expensive than Gemini 3.1 Pro and more expensive than GPT-5.5 medium for similar tasks."},
+    {"video_id": "dB-Kbylgrdk", "show_name": "AI Daily Brief", "synth_line": "AI Daily Brief positions Cursor Composer 2.5 near GPT-5.5 and Opus 4.7 benchmark scores while pricing at $0.50/$2.50 per million tokens."},
+    {"video_id": "4D3hDmGhFhA", "show_name": "Lenny's Podcast", "synth_line": "Lenny's guest reports their team's strategy documents and most email are now written by GPT-5.5 and Codex, claiming the AI output beats most human-written equivalents."}
+  ],
+  "cited_items_why": {
+    "https://www.youtube.com/watch?v=1p334v40npw": "Theo's 187k video makes the token-efficiency case for GPT-5.5 medium that directly supports the enterprise-cost story Databricks integration needs.",
+    "https://www.youtube.com/watch?v=G2HX30CelNk": "AI Daily Brief surfaces enterprise-relevant GPT-5.5 medium pricing as the comparison point against Gemini 3.5 Flash's cost overhead.",
+    "https://www.youtube.com/watch?v=dB-Kbylgrdk": "AI Daily Brief positions Cursor Composer 2.5 benchmarks directly against GPT-5.5 — the same comparison enterprise buyers running on Databricks will make.",
+    "https://www.youtube.com/watch?v=4D3hDmGhFhA": "Lenny's guest details how strategy docs and email writing are now production GPT-5.5 workloads, the same daily-use enterprise pattern Databricks targets.",
+    "https://x.com/itsolelehmann/status/2057909733491937555": "Marc Andreessen's Rogan list naming GPT-5.5 as part of the AGI-crossed cluster gives the enterprise sales pitch top-of-funnel framing.",
+    "https://x.com/theo/status/2059121546556571694": "Theo's testimony that Codex/GPT-5.5 already meets his 2024 AGI definition supports the enterprise viability claim.",
+    "https://www.instagram.com/p/DYyQy42EuMB/": "steady_ai's detailed Cursor Composer 2.5 vs Opus 4.7 vs GPT-5.5 breakdown is the cost-vs-quality enterprise procurement framework."
+  },
+  "counter_narratives": [
+    "Cursor Composer 2.5 hits near-parity on Terminal Bench (69.3 vs 69.4 Opus) and SWE-bench (79.8 vs 80.5) at 60x lower per-task cost ($0.07 vs $4.10 per steady_ai's breakdown); for enterprise agent-loop and new-feature work this is the budget-displacing comparison Databricks-GPT-5.5 will face."
+  ],
+  "creator_recommendation": {
+    "angle": "Run a real enterprise agent workflow on Databricks-with-GPT-5.5 and the same workflow on Cursor Composer 2.5; report per-task cost, latency, and quality with screenshots so procurement teams can see the 60x cost gap and where it does and does not matter.",
+    "format": "comparison",
+    "hook": "Databricks just put GPT-5.5 in front of every enterprise data team. Cursor's Composer 2.5 hits 95% of its benchmarks at 1/60th the cost. I ran a real procurement workflow on both. Here is when the cheaper one breaks."
+  }
+}

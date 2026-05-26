@@ -1,0 +1,129 @@
+Surface 5-8 themes that are discussed by 2+ DIFFERENT podcasts in the supplied set. EXCLUDE themes that are essentially one of these already-confirmed feature launches:
+- @AnthropicAI: Anthropic co-founder Chris Olah was invited to speak at today's presentation of Pope Leo XIV's encyclical "Magnifica hum… (entities: s presentation of Pope Leo XIV, Chris Olah, Pope Leo)
+- @OpenAI: Listen to the OpenAI Podcast on— Spotify https://t.co/hLcRdGrfUX Apple https://t.co/0AdZ1ZteOV YouTube https://t.co/hDMl… (entities: YouTube)
+- [Anthropic] Introducing the Model Context Protocol (entities: model context protocol, mcp)
+- [OpenAI] Databricks brings GPT-5.5 to enterprise agent workflows (entities: GPT-5.5)
+- Claude Skills — reusable instruction sets Claude loads on demand (entities: claude skills)
+- @xai: Grok Build is now available in Beta for all SuperGrok and X Premium+ users. Use Plan Mode, create images and videos with… (entities: Grok Build, SuperGrok, Use Plan)
+- @AnthropicAI: Last month we launched Project Glasswing, our collaborative AI cybersecurity initiative. Since then, we and our partners… (entities: Project Glasswing)
+- @GoogleDeepMind: Build your next story with Gemini Omni. https://t.co/0Gd5Nlw26U (entities: Gemini Omni)
+- @GeminiApp: Gemini Spark is your new 24/7 personal AI agent. Give it a task and it works autonomously in the background, even if you… (entities: Gemini Spark)
+
+23 podcast transcript chunks below.
+
+[V1] show="BG2 Pod" video_id=jA8ZQfq_Hzs
+URL: https://www.youtube.com/watch?v=jA8ZQfq_Hzs
+TITLE: AI Enterprise - Databricks & Glean
+TRANSCRIPT (first 700 chars): I think we have AGI. I think we have artificial general intelligence. We really have. You you hear these 95% of projects fail, but like you know, like that's that's that's actually what you want. I I think the LLM is a commodity. People are not saying that, but it is a commodity. Like you can get gas from this gas station, you can get gas from that gas station, it doesn't matter. Just compare price. Is AI in a bubble? There is an AI bubble. Okay, so then Glean is also in the bubble. Everybody's in the bubble. No, I would I would say there is a bubble. I I would say those three camps. Yeah, there is a super intelligence quest camp. I would be very worried there. There's a second the researche
+
+[V2] show="No Priors" video_id=jeop9wfb9jU
+URL: https://www.youtube.com/watch?v=jeop9wfb9jU
+TITLE: The Story Behind Cerebras’ $63 Billion IPO with Founder and CEO Andrew Feldman
+TRANSCRIPT (first 700 chars): Netflix used to deliver DVDs and envelopes and [music] when the internet got fast they became a movie studio right it opened up an entirely new business something fundamentally different that's what happens with speed [music] and I think that's what fast AI does right now we're replacing things that everybody can see like coding design the SAS tools but once we start sort of fundamentally reorganizing around this you're going to see this sort of new business [music] models and fundamental jumps in productivity and I'm eager for that That's so cool. >> Today on No Prize, we have Andrew Feldman, the co-founder and CEO of Sarah Brass. Sarah Bros was founded in the mid 2010s to focus on new work
+
+[V3] show="All-In Podcast" video_id=jJRAvZNGUvI
+URL: https://www.youtube.com/watch?v=jJRAvZNGUvI
+TITLE: Trump-Xi Summit, Benioff: "Not My First SaaSpocalypse," OpenAI vs Apple, Multi-Sensory AI, El Niño
+TRANSCRIPT (first 700 chars): All right, everybody. Welcome back to the number one podcast in the world, the allin podcast. Episode 273. It's a huge week. Saxs is our show. We got to get Mark Beni off, CEO of Salesforce. >> I'm the only one left here. You're the only one left. That's why that's how I made it on. >> No software CEOs, right, to China. >> There's no software uh CEOs in China. >> Interesting. But did you get the invite? What's your what's your status with this administration because you were obviously very famous for, you know, being a Democrat on the left? Um, and >> I'm not a Democrat on the left. I never have been. >> What are you talking about? You donated to all these folks and now you're kind of in Tru
+
+[V4] show="Latent Space" video_id=kaX43RRRUKY
+URL: https://www.youtube.com/watch?v=kaX43RRRUKY
+TITLE: AI Agents Need Computers: 74% MoM Growth, 850K/Day Runs, & New Agent Cloud — Ivan Burazin, Daytona
+TRANSCRIPT (first 700 chars): I've never experienced this that people literally call you if you do not give them access. Like they want access right now. And so it's like, okay, they don't want this. The thing that they want doesn't seem to exist or they have not found it and they really really want what what we want. And then when we understood that we're on to something. And then when you think about the size of the market, like the market for every single agent that will exist ever in the future is just like what is that market? How big is that? Before we get into today's episode, I just have a small message for listeners. Thank you. We would not be able to bring you the AI engineering, science, and entertainment cont
+
+[V5] show="Lex Fridman" video_id=KGVpKPNUdzA
+URL: https://www.youtube.com/watch?v=KGVpKPNUdzA
+TITLE: Khabib vs Lex: Training with Khabib
+TRANSCRIPT (first 700 chars): All right, we're training with Khabib today. One of the greatest fighters of all time, a great human being. It's honestly unbelievable that I have the honor to be able to train with these guys today. I trained with the team yesterday as well. Feel a bit beat up. I actually before this texted George, GSP, asking if he has any advice. I told him I'm training with Khabib. He said uh if you die, you die. Uh thank you very much for that advice, George. I love you, brother. You can tell on these mats has been champion after champion after champion. You can feel the history. I'm going to do a podcast with Khabib tomorrow, so this is epic. I'm uh I'm the luckiest kid in the world, so. All right, now
+
+[V6] show="BG2 Pod" video_id=KX6q6lvoYtM
+URL: https://www.youtube.com/watch?v=KX6q6lvoYtM
+TITLE: AI Bubble, Stablecoin Boom, and Runnin' Down a Dream
+TRANSCRIPT (first 700 chars): I'm applauding the innovation. I'm I'm I'm jumping on board the crypto train and I hope I hope the incumbents aren't able to strangle this thing in Washington. Hey man, great to see you. Good to see you, Brad. What an incredible weekend of college sports. You know, I have to bring this up. I mean Okay. Texas had that big upset of number six Oklahoma. You had to be pretty stoked about that. It was a good game. It was fun. >> People that haven't been to a neutral site game, so like Florida does with Georgia, Texas OU, they meet every year in the middle of the Texas Fair. So the stadium's got several hundred thousand people outside of it. Oh my god. And when you get inside right on the 50, on b
+
+[V7] show="Latent Space" video_id=LzCUYNP5UTI
+URL: https://www.youtube.com/watch?v=LzCUYNP5UTI
+TITLE: The Agent-Native Cloud: 3M Users, 100K Signups/Wk, Data Centers, & Death PRs — Jake Cooper, Railway
+TRANSCRIPT (first 700 chars): If you are writing code by hand, you are doing this wrong, right? Like your code, the tools are good enough at this point like that you can move extremely extremely quickly and like yes, there are issues and pain points and all these other things. Um, but you should be reviewing the code that you are writing instead of trying to go and write it by hand. Like all of those architectural patterns, all of those other things like you're not just don't like you're not going to throw them in the garbage or whatever. Actually, they matter more now than than than any other time. But you just shouldn't spend your time generating code that you would write. Like if you know how to go in and write it, ju
+
+[V8] show="Theo - t3.gg" video_id=M_HxHr7du5M
+URL: https://www.youtube.com/watch?v=M_HxHr7du5M
+TITLE: AI Is Hacking Everything Now...
+TRANSCRIPT (first 700 chars): Copy fail, 732 bytes to root on every major Linux distro. Copy fail two, electric boogaloo, unprivileged Linux LPE via XFirm. 30 frag, universal Linux LPE. Breaking, 84 TanStack NPM packages were compromised in an ongoing supply chain attack. Damned OAB, a publicly disclosed yet to be patched attack that lets you break out of slab memory. Mythos finds a curl vulnerability. Wiz research discovers remote code execution on github.com with a single get push. The flaw in GitHub allowed unauthorized access to millions of repos belonging to other users and organizations. I told you guys the security Armageddon was coming. I did not expect it to be this brutal though. The rate at which we started se
+
+[V9] show="Lenny's Podcast" video_id=mCO-D3pkviM
+URL: https://www.youtube.com/watch?v=mCO-D3pkviM
+TITLE: AI era skills: Why cultivating agency matters more than job titles
+TRANSCRIPT (first 700 chars): Before it was very easy to always say, well, I will never be able to do this because insert skill issue. We're realizing that even if you have the skills at your fingertips, the thing that matters is agency. I don't think agency is very evenly distributed in the world. >> Do you have a piece of advice for someone that wants to develop this within themselves? >> I tell this to myself. Could you drive notion like it's stolen? One day you wake up and you realize the world is made up by people no smarter than you. It just really awakens you to the idea that you can just change things. If you think about your job a couple years ago, what's most changed? >> The first 10% of every project are now f
+
+[V10] show="Cognitive Revolution" video_id=nSssFWw-kxc
+URL: https://www.youtube.com/watch?v=nSssFWw-kxc
+TITLE: "Descript Isn't a Slop Machine": Laura Burkhauser on the AI Tools Creators Love and Hate
+TRANSCRIPT (first 700 chars): Hello and welcome back to the cognitive revolution. Today my guest is Laura Burkhouser, CEO of the pioneering video editing platform Descript, which originally burst onto the scene in 2017 with its revolutionary AI [clears throat] powered word processor-like editing paradigm. And as you'll hear, has continued to push the boundaries of what AI can do for creators ever since. Laura took over for Descript founder Andrew Mason, who was my guest on the show back in August 2024. After serving as VP of product for several years, and as a longtime Descript customer and early adopter of their new underlord API, I've been impressed both by their customer obsession and product velocity. And so, I was g
+
+[V11] show="Cognitive Revolution" video_id=nsWdSaKVbIY
+URL: https://www.youtube.com/watch?v=nsWdSaKVbIY
+TITLE: Three Kinds of Software Survive: Tasklet's Andrew Lee on Competing to be a Horizontal Platform
+TRANSCRIPT (first 700 chars): Hello, and welcome back to the Cognitive Revolution. Today, I'm pleased to welcome audience favorite Andrew Lee, CEO of Tasklet, back for his fourth appearance on the podcast. Andrew has always been extremely transparent and candid. His belief that speed is the only moat has made him comfortable sharing intimate details of Tasklet's agent architecture. And as you'll hear, in the 6 months since we last spoke, Tasklet has indeed once again entirely rewritten their stack. Today, there's much more use of file system context and agentic search to leverage available information while conserving tokens. Plus, a huge new emphasis on summarization at several levels of resolution. This time around, we
+
+[V12] show="BG2 Pod" video_id=pE6sw_E9Gh0
+URL: https://www.youtube.com/watch?v=pE6sw_E9Gh0
+TITLE: NVIDIA: OpenAI, Future of Compute, and the American Dream
+TRANSCRIPT (first 700 chars): I think that OpenAI is likely going to be the next multi- trillion dollar hypers scale company. Okay, [Music] [Applause] >> Jensen. Great to be back, of course, with my partner Clark Tang. You know, I can't believe it's >> Welcome to Invidia. Uh, oh, and nice glasses. >> Um, those actually look really good on you. The problem is now everybody's going to want you to wear them all the time. They're going to say, "Where are the red glasses?" >> I can vouch for that. So, it's been over a year since we did the last pod. >> Yeah. >> Over 40% of your revenue today is inference, but inference is about ready because of chain of reasoning. Yeah. >> Right. It's about >> It's about to go up by a billion
+
+[V13] show="Lenny's Podcast" video_id=PplmzlgE0kg
+URL: https://www.youtube.com/watch?v=PplmzlgE0kg
+TITLE: How Anthropic’s product team moves faster than anyone else
+TRANSCRIPT (first 700 chars): I think it is very hard to be the right amount of AGI piled. It's very easy to build a product for the super AGI strong model. The hard thing is figuring out for the current model, how do you elicit the maximum capability? >> I've never seen anything like the pace you folks at Anthropic are shipping at. >> We want to remove every single barrier to shipping things. The timelines for a lot of our product features have gone down from 6 months to 1 month and sometimes to even 1 day. >> You're interviewing hundreds of PMs and you just keep feeling like they're approaching it very incorrectly. >> The PM role is changing a lot. It's changing really quickly. The thing that is extremely important for
+
+[V14] show="AI Daily Brief" video_id=q9t1XCnHcM0
+URL: https://www.youtube.com/watch?v=q9t1XCnHcM0
+TITLE: AI’s New Acceleration Phase
+TRANSCRIPT (first 700 chars): Today on the AI Daily Brief, a week of surprise AI acceleration. The AI Daily Brief is a daily podcast and video about the most important news and discussions in AI. All right, friends. Quick announcements before we dive in. One specific one to note is that Cohort 3 of Enterprise Claw is closing very soon. So, if you are interested in that, check that out at enterpriseclaw.ai. Now, this week, once again, we are using this Friday episode to do a bit of a recap. And I think that this week gets particularly relevant in the sense that some weeks, the big stories represent so obviously a change that it barely needs to be pointed out how much has shifted. But, this week was instead a week of surpr
+
+[V15] show="Latent Space" video_id=rlM_fAKxB3Q
+URL: https://www.youtube.com/watch?v=rlM_fAKxB3Q
+TITLE: Senior Dev: This "Grill Me" Prompt Is Going Viral Among Top Engineers
+TRANSCRIPT (first 700 chars): Okay, we're here in the AI engineer Europe podcast booth with Matt Pocock of AI Hero. Hey man, how you doing? Good, man. It's nice to be in your neck of the woods for once. >> [laughter] >> Yeah. You do a lot of SF stuff, but nice so nice that you come to London. >> Yeah. How do we stack up versus your other London event experiences? >> [sighs] >> It's the worst I've ever been to. >> [laughter] >> By far the worst. Absolutely astonishing. Astonishing location, great stuff. You and I first connected when you were about to start your sort of creator journey and your developer journey. You started total TypeScript, which did very well. And then now you're running AI Hero. You're just about to f
+
+[V16] show="Latent Space" video_id=UmCZBwsibgs
+URL: https://www.youtube.com/watch?v=UmCZBwsibgs
+TITLE: The Next War Is Already Here — Yaroslav Azhnyuk, The Fourth Law & Noah Smith, Noahpinion
+TRANSCRIPT (first 700 chars): So, think about this. Last year, Ukraine produced 4 million FPV drones. Ukraine is not the most industrious nation in the world. China can produce 4 billion of these FPV drones. Would you say that right now, China is now the supreme conventional military power on Earth given its ability to manufacture and deploy drones in the quantity and quality that you just described? >> I don't think we have all the information to claim that, but we cannot count it out. And that alone should be, you know, a big warning sign. And yeah, as I say, some point in my life, I went from making cameras that uh fling treats to pets to cameras that fling explosives to the occupiers. Um, so that's the short story. A
+
+[V17] show="Theo - t3.gg" video_id=UvUzpSlXKtg
+URL: https://www.youtube.com/watch?v=UvUzpSlXKtg
+TITLE: Cursor just crushed Claude Code
+TRANSCRIPT (first 700 chars): Last week there was a really cool release I'm afraid people are sleeping on. It came from a company with a lot of compute and it was focused on being a small model that is very effective at solving code tasks. And no, it wasn't Gemini 3.5 Flash, even though it probably should have been. It was Composer 2.5 by Codium. This is a crazy drop. The rate at which Codium has caught up to state of the art is pretty absurd, but there are catches here that we need to talk about as well. If you're not familiar with the Composer line of models from Codium, this has been their attempt to distill good open weight models into a great coding model for usage within Codium. That said, it's only really for use 
+
+[V18] show="Lex Fridman" video_id=vif8NQcjVf0
+URL: https://www.youtube.com/watch?v=vif8NQcjVf0
+TITLE: Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution
+TRANSCRIPT (first 700 chars): The following is a conversation with Jensen Huang, CEO of Nvidia, one of the most important and influential companies in the history of human civilization. Nvidia is the engine powering the AI revolution, and a lot of its success can be directly attributed to Jensen's sheer force of will and his many brilliant bets and decisions as a leader, engineer, and innovator. This is the Lex Freedman podcast. And now, dear friends, here's Jensen Huang. You've propelled Nvidia into a uh new era in AI, moving beyond his focus on chip scale design to now rack scale design. And I think it's fair to say that uh winning for Nvidia for a long time used to be about building the best GPU possible. and you stil
+
+[V19] show="Latent Space" video_id=vUARtyOvh5U
+URL: https://www.youtube.com/watch?v=vUARtyOvh5U
+TITLE: Inside Abridge: The AI Listening to 100 Million Doctor Visits — Abridge's Janie Lee & Chai Asawa
+TRANSCRIPT (first 700 chars): The first and most important thing is context is everything as Chai alluded to and I also think about how do we go from being reactive alerting to really proactive intelligence at the point at which it matters most. One thing we like to say is we want our product to feel like air conditioning. It should be in the background just making things better and maybe if and if there is something that has great clinical risk and we're acutely aware that intervening now and not later is incredibly important and we should decide to act. Before we get into today's episode, I just have a small message for listeners. Thank you. We would not be able to bring you the AI engineering, science, and entertainme
+
+[V20] show="Lenny's Podcast" video_id=xCd9ykretlg
+URL: https://www.youtube.com/watch?v=xCd9ykretlg
+TITLE: Hard truths about building in the AI era
+TRANSCRIPT (first 700 chars): idea of a PM makes no sense in the future. The skill is more like being a CEO now, which is what are we building and why? >> There's a lot of anxiety in the job market. >> AI is going to radically reorient lots of people's careers, maybe including mine. What I've noticed in some of the best organizations is the number one consumer of tokens is the CMO. They don't need to rely upon deputies and deputies and deputies to get actual work product. >> I want to hit on some contrarian takes that you have your advice. don't actually want to be talking to customers. >> I hate talking to customers. I refuse to allow colleagues of mine to talk to customers. >> You have this idea of criticizing in publi
+
+[V21] show="No Priors" video_id=xjlYpGaxIPA
+URL: https://www.youtube.com/watch?v=xjlYpGaxIPA
+TITLE: Pax Silica: Inside the Trump Administration’s Tech Strategy with Jacob Helberg
+TRANSCRIPT (first 700 chars): we're not going to do government operated supply chains because that's not how we shine as a country. Our superpower is really our private sector and our companies. The old Steve Jobs quote that American products enchant and delight users around the world by the billions. That is really is our edge as a country. And so the answer's been trying to work in lockstep with our private companies and our builders to build platforms >> [music] >> that are commercially viable and that will can ultimately live outside of the government as a private service. The General Purpose are joined by Jacob Helberg, the Under Secretary of State for Economic Affairs. We spoke with Jacob before he was confirmed in
+
+[V22] show="Lex Fridman" video_id=YFjfBk8HI5o
+URL: https://www.youtube.com/watch?v=YFjfBk8HI5o
+TITLE: OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger
+TRANSCRIPT (first 700 chars): I watched my agent happily click the I'm not a robot button. I made the agent very aware. Like it knows what its source code is. It understands the how it sits and runs in its own harness. It knows where the documentation is. It knows which model it runs. It understands its own system. That made it very easy for an agent to Oh, you don't like anything? You just prompt it into existence. And then the agent would just modify its own software. People talk about self-modifying software. I just built it. I actually think web coding is a slur. You prefer agentic engineering. >> Yeah, I always tell people I'd I do agentic engineering and then maybe after 3:00 a.m. I switch to web coding and then I 
+
+[V23] show="BG2 Pod" video_id=yLTSqBzKG2s
+URL: https://www.youtube.com/watch?v=yLTSqBzKG2s
+TITLE: Inside OpenAI Enterprise: Forward Deployed Engineering, GPT-5, and More
+TRANSCRIPT (first 700 chars): We literally had to bring the weights of the the model physically into their supercomput. >> In San Francisco, you could take a car from one part of SF to the other fully autonomously. As opposed to the digital world, I can't book a ticket online right now. Physical autonomy is ahead of digital autonomy in 2025. >> I think AI agents are like really in day one here. Like Chad GBT only came out in 2022. The slope, I think, is incredibly steep. >> I actually do think self-driving cars have a good amount of scaffolding in the world. You have roads. Roads exist. They're pretty standardized. You have stop AI agents are just kind of dropped in the middle of nowhere. >> We'll start with long short g
+
+Return JSON only matching the schema. Empty themes array acceptable if no cross-podcast convergence exists in this chunk.

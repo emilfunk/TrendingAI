@@ -1,0 +1,47 @@
+[
+  {
+    "title": "[Last Week in AI] LWiAI Podcast #246 - Gemini 3.5 + Omni, Musk Loses, OpenAI vs Erdős",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-246-gemini-35-omni",
+    "source": "editorial",
+    "ts": "2026-05-26T05:10:23.000Z",
+    "engagement": 97,
+    "raw_text": "LWiAI Podcast #246 - Gemini 3.5 + Omni, Musk Loses, OpenAI vs Erdős — Google unveils AI model Gemini 3.5 and AI agent Gemini Spark, Omni turns images, audio, and text into video, Musk loses OpenAI court battle",
+    "meta": {
+      "publisher": "last-week-in-ai",
+      "label": "Last Week in AI",
+      "summary": "Google unveils AI model Gemini 3.5 and AI agent Gemini Spark, Omni turns images, audio, and text into video, Musk loses OpenAI court battle",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Last Week in AI] LWiAI Podcast #245 - TML-Interaction, Claude For Legal, Sam Altman on Stand",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-245-tml-interaction",
+    "source": "editorial",
+    "ts": "2026-05-20T07:45:49.000Z",
+    "engagement": 26,
+    "raw_text": "LWiAI Podcast #245 - TML-Interaction, Claude For Legal, Sam Altman on Stand — OpenAI launches new voice intelligence features in its API, Thinking Machines drops a new, highly responsive model designed for humanlike interactions in real time, and more!",
+    "meta": {
+      "publisher": "last-week-in-ai",
+      "label": "Last Week in AI",
+      "summary": "OpenAI launches new voice intelligence features in its API, Thinking Machines drops a new, highly responsive model designed for humanlike interactions in real time, and more!",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Import AI] Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment",
+    "url": "https://jack-clark.net/2026/05/18/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
+    "source": "editorial",
+    "ts": "2026-05-18T13:31:17.000Z",
+    "engagement": 5,
+    "raw_text": "Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment — Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Stuxnet before Stuxnet:…Fast16 bugs software likely used in weapons programs…Here’s a fascinating ",
+    "meta": {
+      "publisher": "import-ai",
+      "label": "Import AI",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Stuxnet before Stuxnet:…Fast16 bugs software likely used in weapons programs…Here’s a fascinating ",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  }
+]

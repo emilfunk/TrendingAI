@@ -1,0 +1,25 @@
+{
+  "feature_id": "seed-claude-skills",
+  "overall_sentiment": "positive",
+  "dominant_pattern": "adoption",
+  "summary_sentence": "Claude Skills is showing real cross-platform pickup this cycle: a top-10-fastest-growing-AI-repos Reddit roundup lists it alongside Claude-Code memory tools and codegraph indexers, and agentic.james's 6.1k-engagement TikTok positions Skills as the modular-context-engineering primitive that loads task-specific prompts, scripts, and API connections on demand.",
+  "praises": [
+    "agentic.james frames Claude Skills as the dynamic-loading mechanism for full workflow context: prompts, scripts, custom API calls",
+    "Reddit's fastest-growing-repo roundup names Claude Skills as one of the active build areas alongside Claude-Code memory and browser-automation tooling"
+  ],
+  "complaints": [],
+  "notable_quotes": [
+    {"author": "@agentic.james", "source": "tiktok", "quote": "Cloud Skills is a new feature that allows you to dynamically load a folder that's full of prompts, scripts, custom API calls, or any specific instructions for a specific task."}
+  ],
+  "podcast_synth": [],
+  "cited_items_why": {
+    "https://www.reddit.com/r/artificial/comments/1tnjhts/top_10_fastest_growing_ai_repos_this_week/": "Reddit's top-10 fastest-growing AI repos roundup includes Claude Skills as one of the active build areas this week.",
+    "https://www.tiktok.com/@agentic.james/video/7562250551602253111": "agentic.james's 6k-engagement single-feature deep-dive surfaces Claude Skills as the modular-context-engineering primitive for dynamic workflow loading."
+  },
+  "counter_narratives": [],
+  "creator_recommendation": {
+    "angle": "Build one production Claude Skill end-to-end (say, a security-review skill that loads OWASP context + a custom check script) and show it being invoked across three real codebases. Compare against the same workflow done with custom system prompts or Cursor rules so reviewers can see when Skills earn their abstraction.",
+    "format": "tutorial",
+    "hook": "Everyone is naming-dropping Claude Skills. Almost nobody is shipping one. I built a real production skill and ran it across three repos. Here is exactly what goes in the folder, and when it breaks."
+  }
+}

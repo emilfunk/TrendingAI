@@ -1,0 +1,66 @@
+FEATURE: OpenAI — @OpenAI: Listen to the OpenAI Podcast on— Spotify https://t.co/hLcRdGrfUX Apple https://t.co/0AdZ1ZteOV YouTube https://t.co/hDMl…
+LAB ANCHOR URL: https://x.com/OpenAI/status/2056849160704503961
+ENTITIES MATCHED: YouTube
+HYPE-DOMINANT: no (deterministic count: 1 of 14 top items match tutorial-hype regex indicators)
+
+14 creator items below. Tags: [LAB-AFFILIATED] = handle works at the lab; their "praise" is internal storytelling, not validation. [PODCAST] = YT podcast/video item, generate one podcast_synth entry. [REPLY SIGNAL] = aggregated comment-sentiment on the post; pos%/neg% are reply distribution, RATIOED means high-engagement post with negative-dominant replies (contradiction signal).
+
+[1] @Machine Learning Street Talk · youtube  (20607 eng) [PODCAST video_id=AREWYbVtX64 show="Machine Learning Street Talk"]
+  URL: https://www.youtube.com/watch?v=AREWYbVtX64
+[transcript window]  huge. Of course, the underlying thing is that people expect things for free. All right? And so Google couldn't kind of make payments, but I think they made a mistake at some point. I think like with YouTube, when they acquired YouTube, YouTube is more than just pointing to people to a website. you know, YouTube is uh incentivizing creators to create things that people will watch. At that point, I think a socially responsible Google to critique them a little bit would have said, "Oh, we've created a market here. We've created a producer consumer relationship." We've got to 
+
+[2] @larreth · tiktok  (11970 eng)
+  URL: https://www.tiktok.com/@larreth/video/7643885351324454164
+Let’s cut through the noise. If your entire operational strategy in 2026 relies on typing everything out by hand and using basic, first-generation chatbots, you are actively being out-competed. The market doesn't reward raw manual labor anymore—it rewards execution velocity. It’s time for the definitive, unfiltered AI Tool Ecosystem Tier List. Here is how the modern tools actually rank when it comes to multiplying your daily output: The S-Tier Absolute King: Claude AI (No. 1). Without a single shadow of a doubt, the undisputed GOAT of AI right now. It handles heavy-duty logical reasoning, adva
+
+[3] @cc_ehijames_offic · tiktok  (920 eng)
+  URL: https://www.tiktok.com/@cc_ehijames_offic/video/7642736475599047958
+Create AI Videos for FREE Using These 3 Apps (Step-by-Step) Want to create amazing AI videos without spending money or having editing skills? In this video, I’ll show you 3 powerful FREE apps you can use to generate high-quality AI videos in minutes! Whether you're creating YouTube content, TikTok videos, storytelling clips, or faceless channels, these tools will save you time and boost your creativity. #AIVideos #AIContent #FreeAItools #YouTubeAutomation #AIVideoGenerator
+
+[4] @(no author) · reddit  (558 eng)
+  URL: https://www.reddit.com/r/singularity/comments/1tlu4gv/generative_ai_kling_is_now_used_in_actual_tv/
+[r/singularity] Generative AI (Kling) is now used in actual tv shows and movies.
+
+[5] @(no author) · enterprise  (55 eng)
+  URL: https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan
+[The Verge AI] Spotify says its AI remix tool is for superfans, but I’m not convinced
+
+[6] @synapse_daily_07 · instagram  (2 eng)
+  URL: https://www.instagram.com/p/DYyyax8EcUt/
+10 GitHub repos are quietly destroying billion-dollar companies. ⚠️ Not “cheap alternatives.” Better. Faster. More private. More powerful. • yt-dlp → YouTube Premium • n8n → Zapier • Whisper → expensive transcription tools • Penpot → Figma • Bitwarden → 1Password • AppFlowy → Notion • Cal.com → Calendly And the craziest part? Most are: ✓ Open source ✓ Self-hostable ✓ Free forever ✓ Used by millions Big tech built subscriptions. Open source is replacing them. 🔥 Save this before these tools blow Follow for more elite AI + open-source tools. #ai #aitools #opensource #github #devtools automation 
+
+[7] @mushtaq_m_a · instagram  (2 eng)
+  URL: https://www.instagram.com/p/DYwzPzmGoxj/
+🚀 Build Native Android Apps Using Google AI Studio 🤖🔥 Now you can create, test, debug, and even publish Android apps using AI-powered vibe coding! 💯 ✅ AI-generated native Android apps ✅ Smart UI suggestions ✅ Real-time testing on your phone ✅ USB debugging support ✅ Publish directly to Play Store ✅ Faster development workflow In this demo, I created an AI-powered Expense Tracker app completely using Google AI Studio 🚀 📲 Scan the QR code in the post to watch the full YouTube video! Video Link: https://youtu.be/_gSCEwOOk30 Follow for more AI & developer content 👇 📸 @mushtaq_m_a 📸 @dude_
+
+[8] @kazuma_nakatani · instagram  (1 eng)
+  URL: https://www.instagram.com/p/DYy0nKNxl1M/
+【政治対談】 #東京新聞 • #望月衣塑子 記者と語る#高市早苗 政権の行方！ ネガキャン誹謗中傷動画疑惑をどう見る？ リベラルは再起可能？ #ChatGPT (チャッピー)などAIの進化に関する所感は？ 巨人•#阿部慎之助 監督家族事件の受け止めは？ 【しゃべりBAR】 5月27日(水)20時よりLIVE！ https://www.youtube.com/live/2V1Tx9Tw6iw?si=tMV7nLhR5Wf_U-EU
+
+[9] @everydaywai · instagram  (1 eng)
+  URL: https://www.instagram.com/p/DYxdPT8FoRS/
+This ex-optician proved you don't need a degree, a co-founder, or investors to build a software business. Samuel Rondot taught himself to code from a single 15-hour YouTube course, found underserved niches, and used AI tools to ship faster than entire teams. Today he runs three SaaS products pulling in $35,000 a month — completely solo. His secret? He never tries to reinvent the wheel — he finds what's already selling and makes it 1% better. If you've been waiting for a sign to start, this is it. #aitools #artificialintelligence #chatgpt #futureofwork #aiapps #machinelearning #techtools #works
+
+[10] @omlidivine · instagram  (0 eng)
+  URL: https://www.instagram.com/p/DYy0ZlRGVBv/
+✨ குரு பெயர்ச்சி 2026: இந்த 4 ராசிகளுக்கு அதிர்ஷ்ட மழை! ✨ குரு பகவானின் இடமாற்றத்தால் கோடி நன்மைகளை பெறப்போகும் ராசிகள் இவைதானா? உங்கள் ராசி இதில் இருக்கிறதா என்று பாருங்கள்! 👇 ♈ மேஷம் (Aries) - 4ஆம் வீடு (சுக ஸ்தானம்) ♊ மிதுனம் (Gemini) - 2ஆம் வீடு (தன, வாக்கு ஸ்தானம்) ♑ மகரம் (Capricorn) - 7ஆம் வீடு (களத்திர ஸ்தானம்) ♓ மீனம் (Pisces) - 5ஆம் வீடு (புத்திர ஸ்தானம்) படங்களை ஸ்வைப் (Swipe ⬅️) செய்து உங்கள் ராசிக்கு கிடைக்கப்போகும் சுப பலன்களை தெரிந்து கொள்ளுங்கள்! விரிவான பலன்களுக்கு நமது YouTube சேனலை காணுங்கள் #GuruPeyarchi2026 #GuruPeyarchi #OmliDivine #Mesham #Midhunam #Magaram #Meenam #Tam
+
+[11] @hiro_yanai · instagram  (0 eng)
+  URL: https://www.instagram.com/p/DYyzrtWDxcp/
+そのAI、 まだ“答えるだけ”で終わってませんか？🤖 会議・メール・資料作成… 今まで何時間もかかっていた作業が、 Claudeを使うだけで一気に爆速化します。 今回の投稿では、 私が実際に毎日使っている 「Claudeの神活用」をまとめました👇 ✅ メール返信を秒速化 ✅ 議事録を自動生成 ✅ 競合リサーチを時短 ✅ SNS投稿を構成ごと作成 ✅ アイデア出しの壁打ち などなど… AIを“検索”として使う時代から、 AIを“作業パートナー”として使う時代へ。 「もっと早く知りたかった…」 と思う内容を詰め込んでいます🔥 さらに今回は、 AI集客の教科書など 豪華5大特典もセットでお届け📚 🎁特典内容 ① NotebookLM教科書（今回のメイン！） ② ナノバナナ デザイン教科書 ③ ビジュアルで集客する教科書 ④ NotebookLM ✖️ YouTube集客の教科書 ⑤ インスタ・カルーセル投稿を5分で完結する教科書 受け取りたい方は コメント欄に【AI】とコメントしてください✨ 「AI」と送ってくれた方に 特典をお届けします📩 役立ったら いいね・コメント嬉しいです🔥 #Claude #AI活用 #AI初心者 #仕事効率化 #ai集客
+
+[12] @Lenny's Podcast · youtube  (0 eng) [PODCAST video_id=xCd9ykretlg show="Lenny's Podcast"]
+  URL: https://www.youtube.com/watch?v=xCd9ykretlg
+Hard truths about building in the AI era — 20260412|Keith Rabois was an early executive at PayPal (part of the famous PayPal Mafia), COO at Square, VP of Corporate Development at LinkedIn, and an early investor in Stripe, DoorDash, Airbnb, YouTube, Ramp, and Palantir. Currently he’s managing director at Khosla Ventures. A — idea of a PM makes no sense in the future. The skill is more like being a CEO now, which is what are we building and why? >> There's a lot of anxiety in the job market. >> AI is going to radically reorient lots of people's careers, maybe including mine. What I've noticed in
+
+[13] @andreysuperior · x  (2890 eng)
+  URL: https://x.com/andreysuperior/status/2058905027121381778
+She said she was kind of stupid, but she made $20,000 and her face was never on screen. She opened YouTube and found a kids' show with millions of views. Went to the description. Found the transcript. Copied it into Claude. Asked it to make a prompt for a similar video. Pasted that prompt into an AI generator. A few minutes later she had a video. She posted it. Then did the same thing the next day. And every day after for 30 days. Nobody knew who she was. YouTube paid her anyway. By the end of the month, YouTube was paying her. The system didn't require talent. It just required repetition.
+
+[14] @(no author) · reddit  (1217 eng)
+  URL: https://www.reddit.com/r/singularity/comments/1tmb7mz/inaudible_sounds_to_humans_can_be_hidden_in/
+[r/singularity] Inaudible sounds to humans can be hidden in YouTube videos, podcasts, or music and used to secretly trigger AI voice assistants into carrying out unauthorized commands without the user noticing, exposing a new class of “auditory prompt injection” attacks against popular tools
+
+Synthesize per schema. Apply the rules above — especially the spade-a-spade clause when HYPE-DOMINANT is yes, the competitor-recommendation clause when a reply names a competitor, and the RATIOED clause when reply-signal contradicts post engagement.
+
+Return JSON only.

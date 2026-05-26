@@ -1,0 +1,93 @@
+{
+  "generated_at": "2026-05-26T12:50:00Z",
+  "source_transcript_count": 49,
+  "events": [
+    {
+      "headline": "Andrej Karpathy joins Anthropic in the cycle's biggest talent move",
+      "category": "executive",
+      "context": "Three shows surfaced Karpathy's move to Anthropic as the cycle's biggest non-product event, framed alongside the company's first profitable quarter. AI Daily Brief called it bigger news than Google's entire I/O slate; All-In's Gavin Baker positioned it as the talent-layer signal that pushes Anthropic ahead of OpenAI heading into the IPO window.",
+      "labs_involved": ["Anthropic", "OpenAI"],
+      "shows": ["AI Daily Brief", "All-In Podcast"],
+      "episode_count": 3,
+      "coverage_sentiment": "consensus",
+      "excerpts": [
+        {"show": "AI Daily Brief", "video_id": "9N3jEavj5Ps", "url": "https://www.youtube.com/watch?v=9N3jEavj5Ps", "quote": "huge news out of Anthropic as the company hires a former OpenAI co-founder and has their first ever quarter of profitability."},
+        {"show": "AI Daily Brief", "video_id": "G2HX30CelNk", "url": "https://www.youtube.com/watch?v=G2HX30CelNk", "quote": "that certainly didn't account for former OpenAI co-founder Andrej Karpathy announcing that he had joined Anthropic."},
+        {"show": "All-In Podcast", "video_id": "HGbA6ze0_3M", "url": "https://www.youtube.com/watch?v=HGbA6ze0_3M", "quote": "We've got Andrej Karpathy joining Anthropic... Karpathy is only 39 years old. He's already a legend in the tech industry."}
+      ]
+    },
+    {
+      "headline": "OpenAI engages investment bankers and prepares confidential IPO filing",
+      "category": "funding",
+      "context": "AI Daily Brief reported the Wall Street Journal's scoop that OpenAI engaged investment bankers and expects to file IPO paperwork as soon as Friday confidentially, meaning full financial disclosures stay sealed for now. All-In paired the story with SpaceX's $2T case, framing the convergence of the two biggest private companies heading public-market as the macro event of the cycle.",
+      "labs_involved": ["OpenAI"],
+      "shows": ["AI Daily Brief", "All-In Podcast"],
+      "episode_count": 2,
+      "coverage_sentiment": "neutral",
+      "excerpts": [
+        {"show": "AI Daily Brief", "video_id": "9N3jEavj5Ps", "url": "https://www.youtube.com/watch?v=9N3jEavj5Ps", "quote": "the Wall Street Journal reports that OpenAI has engaged investment bankers and expects to file IPO paperwork as soon as Friday. They will file confidentially."},
+        {"show": "All-In Podcast", "video_id": "HGbA6ze0_3M", "url": "https://www.youtube.com/watch?v=HGbA6ze0_3M", "quote": "We can start with the SpaceX and OpenAI IPOs. We've got Andrej Karpathy joining Anthropic, Nvidia crushing it."}
+      ]
+    },
+    {
+      "headline": "Cerebras's $63B IPO debuts strong on Wall Street",
+      "category": "funding",
+      "context": "AI Daily Brief flagged Cerebras's strong first day on Wall Street. No Priors landed an extended interview with CEO Andrew Feldman covering how the IPO reshapes Cerebras's playbook and the underlying claim that fast inference unlocks entirely new business models, not just faster versions of existing ones.",
+      "labs_involved": [],
+      "shows": ["AI Daily Brief", "No Priors"],
+      "episode_count": 2,
+      "coverage_sentiment": "celebratory",
+      "excerpts": [
+        {"show": "AI Daily Brief", "video_id": "8uCkUyRFUqY", "url": "https://www.youtube.com/watch?v=8uCkUyRFUqY", "quote": "in the headlines, a heck of a first day for Cerebras on Wall Street."},
+        {"show": "No Priors", "video_id": "jeop9wfb9jU", "url": "https://www.youtube.com/watch?v=jeop9wfb9jU", "quote": "Today on No Priors, we have Andrew Feldman, the co-founder and CEO of Cerebras."}
+      ]
+    },
+    {
+      "headline": "Codium's Composer 2.5 reaches near-frontier benchmarks at 60x lower cost",
+      "category": "product-policy",
+      "context": "Theo's video framed Composer 2.5 as the small-effective code model Gemini 3.5 Flash should have been. AI Daily Brief's Codex episode opened by saying the Elon-OpenAI verdict was less interesting than Composer 2.5, surfacing 69.3% Terminal Bench (vs 69.4 Opus), 79.8% SWE-bench multilingual (vs 80.5 Opus), and pricing at $0.50/$2.50 per million tokens.",
+      "labs_involved": [],
+      "shows": ["Theo - t3.gg", "AI Daily Brief"],
+      "episode_count": 2,
+      "coverage_sentiment": "celebratory",
+      "excerpts": [
+        {"show": "Theo - t3.gg", "video_id": "UvUzpSlXKtg", "url": "https://www.youtube.com/watch?v=UvUzpSlXKtg", "quote": "It was Composer 2.5 by Codium. This is a crazy drop. The rate at which Codium has caught up to state of the art is pretty absurd."},
+        {"show": "AI Daily Brief", "video_id": "dB-Kbylgrdk", "url": "https://www.youtube.com/watch?v=dB-Kbylgrdk", "quote": "It scored 69.3% on Terminal Bench 2.0, which is just behind Opus 4.7 69.4%. On SweBench multilingual, it scored 79.8% comparable to both Opus 4.7 at 80.5% and GPT-5.5 at 77.8%."}
+      ]
+    },
+    {
+      "headline": "Long Lake announces $6.3B AI take-private acquisition of Amex Global Business Travel",
+      "category": "funding",
+      "context": "No Priors covered Long Lake Management's intent to acquire Amex GBT for $6.3B, framed as the world's first true AI take-private. BG2 Pod's Databricks-Glean episode positioned the same pattern — buy legacy enterprise, rebuild with AI from inside — as the new private-equity playbook now that LLMs are commodity infrastructure.",
+      "labs_involved": [],
+      "shows": ["No Priors", "BG2 Pod"],
+      "episode_count": 2,
+      "coverage_sentiment": "consensus",
+      "excerpts": [
+        {"show": "No Priors", "video_id": "g5TWnUjbeFM", "url": "https://www.youtube.com/watch?v=g5TWnUjbeFM", "quote": "Long Lake recently announced their intent to acquire American Express Global Business Travel for $6.3 billion in what I believe is the world's first AI take private."},
+        {"show": "BG2 Pod", "video_id": "jA8ZQfq_Hzs", "url": "https://www.youtube.com/watch?v=jA8ZQfq_Hzs", "quote": "I think the LLM is a commodity. People are not saying that, but it is a commodity."}
+      ]
+    },
+    {
+      "headline": "Elon Musk vs OpenAI federal trial reaches verdict",
+      "category": "legal",
+      "context": "AI Daily Brief noted the verdict in the Elon Musk vs OpenAI trial landed alongside the Cursor Composer 2.5 release, framing both as the headline week-of news. Last Week in AI's podcast 246 paired the verdict with the Gemini 3.5 + Omni launches as the multi-axis story dominating cycle coverage.",
+      "labs_involved": ["OpenAI"],
+      "shows": ["AI Daily Brief", "Last Week in AI"],
+      "episode_count": 2,
+      "coverage_sentiment": "neutral",
+      "excerpts": [
+        {"show": "AI Daily Brief", "video_id": "dB-Kbylgrdk", "url": "https://www.youtube.com/watch?v=dB-Kbylgrdk", "quote": "we got a verdict in the Elon OpenAI trial, but that's much less interesting than Composer 2.5."},
+        {"show": "Last Week in AI", "video_id": "", "url": "https://lastweekin.ai/p/lwiai-podcast-246-gemini-35-omni", "quote": "LWiAI Podcast #246 - Gemini 3.5 + Omni, Musk Loses, OpenAI vs Erdős"}
+      ]
+    }
+  ],
+  "dropped": [],
+  "pipeline_stats": {
+    "chunks_run": 1,
+    "chunks_failed": 0,
+    "raw_events_extracted": 10,
+    "events_after_dedup": 10,
+    "events_after_aggregation": 6
+  }
+}

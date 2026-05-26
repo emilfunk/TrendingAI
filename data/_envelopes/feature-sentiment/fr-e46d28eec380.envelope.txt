@@ -1,0 +1,50 @@
+FEATURE: lab — [OpenAI] Databricks brings GPT-5.5 to enterprise agent workflows
+LAB ANCHOR URL: https://openai.com/index/databricks
+ENTITIES MATCHED: GPT-5.5
+HYPE-DOMINANT: no (deterministic count: 0 of 10 top items match tutorial-hype regex indicators)
+
+10 creator items below. Tags: [LAB-AFFILIATED] = handle works at the lab; their "praise" is internal storytelling, not validation. [PODCAST] = YT podcast/video item, generate one podcast_synth entry. [REPLY SIGNAL] = aggregated comment-sentiment on the post; pos%/neg% are reply distribution, RATIOED means high-engagement post with negative-dominant replies (contradiction signal).
+
+[1] @Theo - t3.gg · youtube  (187124 eng) [PODCAST video_id=1p334v40npw show="Theo - t3.gg"]
+  URL: https://www.youtube.com/watch?v=1p334v40npw
+[transcript window]  didn't do much better, roughly around the same. Sonnet did 200 mil, which is absurd. But I want to go further to the right cuz Gemini does perform okay in that regard, but not when you compare it to GPT-5.5 medium, which did 22 million tokens, a tenth as many as V4 flash did and roughly a tenth as many as Sonnet did. Token efficiency is a very underrated aspect of all of the things that we're doing nowadays, and Open AI seems to be the only company taking it very seriously. Everyone else is just inflating the amount of tokens the models are willing to use to solve a proble
+
+[2] @AI Daily Brief · youtube  (7139 eng) [PODCAST video_id=G2HX30CelNk show="AI Daily Brief"]
+  URL: https://www.youtube.com/watch?v=G2HX30CelNk
+[transcript window] lot of the speed gains and it also eats alive any cost gains." Theo from T3 wrote, "The result of this is it costs two times more to run than Gemini 3.1 Pro on similar tasks. It's more expensive than GPT-5.5 medium. And in point of fact, the more that Theo used it, the less he liked the model. He posted a self-admitted crash out video about just how badly it performed on actual agentic tasks that he tested it on, which is certainly the most problematic on top of all these other issues. Tenebrous writes, "So far pretty negative impression of 3.5 flash. It is very fast in ter
+
+[3] @AI Daily Brief · youtube  (4944 eng) [PODCAST video_id=dB-Kbylgrdk show="AI Daily Brief"]
+  URL: https://www.youtube.com/watch?v=dB-Kbylgrdk
+[transcript window] pears competitive on the key benchmarks. It scored 69.3% on Terminal Bench 2.0, which is just behind Opus 4.7 69.4%. On SweBench multilingual, it scored 79.8% comparable to both Opus 4.7 at 80.5% and GPT-5.5 at 77.8%. On Cursor's in-house benchmark, which tests more difficult coding tasks, Composer 2.5 scored 63.2% just about a point behind both 4.7 and 5.5. Now, the coding performance gets Composer 2.5 into the ballpark of usability for serious coders, but the bigger part of the story is the cost. Cursor is serving this model at just 50 cents per million input tokens and 2
+
+[4] @Lenny's Podcast · youtube  (0 eng) [PODCAST video_id=4D3hDmGhFhA show="Lenny's Podcast"]
+  URL: https://www.youtube.com/watch?v=4D3hDmGhFhA
+[transcript window]  clear you have no idea what's in it, like big no-no. Not allowed to do that. Um and I I think we this this aversion to AI-generated stuff that will go away because the kind of strategy document that GPT-5.5 can write when it's directed well by someone on my team is way better than like them just like dinking and dunking like like their fingers on the keyboard. Right. Like most people are really bad at writing strategy documents. So, the bar is low. Yeah. And and same thing with email. Like I most of my email is written by GPT-5.5 and Codex right now. And I would I honestly
+
+[5] @itsolelehmann · x  (35137 eng)
+  URL: https://x.com/itsolelehmann/status/2057909733491937555
+marc andreessen just went on Rogan and casually dropped a TON of AI alpha full pod is 3 hours and 20 minutes, but i pulled out his most interesting takes here: 1. AGI is here. he thinks the line was crossed about 3 months ago with the new GPT-5.5, claude 4.6, gemini 3, and grok 4.3 models. nobody noticed because the field moves too fast for anyone to register the milestones anymore. 2. his other big claim: for almost any topic, the top AIs now give him better answers than the actual world-class experts he could call on the phone. and he can call basically anyone. 3. every doctor is already sec
+
+[6] @(no author) · reddit  (1371 eng)
+  URL: https://www.reddit.com/r/OpenAI/comments/1tm49d0/deepseek_just_popped_the_american_ai_bubble/
+[r/OpenAI] DeepSeek just popped the American AI bubble.
+
+[7] @theo · x  (219 eng)
+  URL: https://x.com/theo/status/2059121546556571694
+I don’t think AGI is well defined. I would argue that current models with sufficient tools/harnesses would get close to most people’s definitions. The Codex/GPT-5.5 experience I have today would have met my definition in 2024. These tools quickly went from “oh that’s a nice autocomplete suggestion” to working seamlessly in massive code bases. Almost every F500 Eng I know is now doing the majority of their work with AI. Everything shifted really fast. I don’t really care about definitions. I just care about how people work, and that changed much quicker than I expected.
+
+[8] @MervinPraison · x  (8 eng)
+  URL: https://x.com/MervinPraison/status/2059174069497389267
+Cursor Composer 2.5 is making waves for coding performance at a surprisingly low cost. According to Cursor Bench: • Near GPT-5.5 &amp; Claude Opus level performance • Optimized for real-world coding workflows • Around $0.55 per task https://t.co/p1MTT2MPve
+
+[9] @steady_ai · instagram  (0 eng)
+  URL: https://www.instagram.com/p/DYyQy42EuMB/
+매달 Claude Code에 $200씩 쓰고 계신가요? 😅 Cursor가 5월 18일에 푼 Composer 2.5, 솔직히 게임체인저입니다. 벤치마크는 Opus 4.7과 0.6~1.6점 차이밖에 안 나는데, 태스크당 비용은 $0.07 vs $4.10. 무려 60배 차이예요. 💸 하루 종일 코딩하는 1인 개발자라면 무조건 한 번 비교해봐야 합니다. ① 발표 사실 (2026-05-18) Cursor 자체 모델, Moonshot Kimi K2.5 베이스에 xAI Colossus 2(20만 GPU)에서 훈련됐어요. Coding Agent Index 62점으로 Opus 4.7(66)·GPT-5.5(65) 바로 뒤 3위. ② 벤치마크 거의 동급 Terminal Bench 69.3 vs 69.4, SWE-bench 79.8 vs 80.5, CursorBench 63.2 vs 64.8. 체감 차이보다 체감 가격이 30배 더 큽니다. ③ 작업별 승자가 다릅니다 새 기능 코딩·에이전트 루프 → Composer 2.5 압승. 대규모 리팩터·복잡 디버깅 → Opus 4.7 여전히 우위. 작업 성격에 따라 골라 쓰는 게 정답. ④ 강점 vs 약점 강점은 가격(input $0.5
+
+[10] @romainhuet · x  (328 eng)
+  URL: https://x.com/romainhuet/status/2059079172870586807
+Pretty special to see this from DHH. Hard not to feel the same when you’re building with GPT-5.5.
+
+Synthesize per schema. Apply the rules above — especially the spade-a-spade clause when HYPE-DOMINANT is yes, the competitor-recommendation clause when a reply names a competitor, and the RATIOED clause when reply-signal contradicts post engagement.
+
+Return JSON only.

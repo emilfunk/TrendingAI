@@ -1,0 +1,62 @@
+[
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 1697,
+    "meta": {
+      "comments": 216,
+      "external_url": "https://v.redd.it/65regapnqi0h1",
+      "score": 1481,
+      "subreddit": "singularity"
+    },
+    "raw_text": "A new video model \"Omni\" from Google is leaked, user notes text coherence — https://x.com/i/status/2053824398503678108",
+    "source": "reddit",
+    "title": "[r/singularity] A new video model \"Omni\" from Google is leaked, user notes text coherence",
+    "ts": "2026-05-11T14:29:30.000Z",
+    "url": "https://www.reddit.com/r/singularity/comments/1ta4zzz/a_new_video_model_omni_from_google_is_leaked_user/"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 1448,
+    "meta": {
+      "comments": 461,
+      "external_url": "https://old.reddit.com/r/artificial/comments/1tax3dz/my_god_there_is_an_enormous_crash_just_waiting_to/",
+      "score": 987,
+      "subreddit": "artificial"
+    },
+    "raw_text": "My god there is an enormous crash just waiting to happen — I had a work version of GPT do a very simple spreadsheet summary task for me yesterday. It took it 5 minutes to do it. I could probably have done it myself in 30 or so minutes. The heavily subsidised token cost of that task? 10 dollars. That's with a 10x subsidy. The actual compu",
+    "source": "reddit",
+    "title": "[r/artificial] My god there is an enormous crash just waiting to happen",
+    "ts": "2026-05-12T10:06:32.000Z",
+    "url": "https://www.reddit.com/r/artificial/comments/1tax3dz/my_god_there_is_an_enormous_crash_just_waiting_to/"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 1367,
+    "meta": {
+      "comments": 85,
+      "external_url": "https://i.redd.it/1hl9id7ghs0h1.jpeg",
+      "score": 1282,
+      "subreddit": "LocalLLaMA"
+    },
+    "raw_text": "I got a real transformer language model running locally on a stock Game Boy Color! — No phone, PC, Wi-Fi, link cable, or cloud inference. \n\n• The cartridge boots a ROM, and the GBC runs the model itself.   \n• The model is Andrej Karpathy’s TinyStories-260K, converted to INT8 weights with fixed-point math so it can run without floating point.   \n• Built with GBDK-",
+    "source": "reddit",
+    "title": "[r/LocalLLaMA] I got a real transformer language model running locally on a stock Game Boy Color!",
+    "ts": "2026-05-12T23:15:42.000Z",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbi2n3/i_got_a_real_transformer_language_model_running/"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 1238,
+    "meta": {
+      "comments": 73,
+      "external_url": "https://v.redd.it/xlsduy2k6s0h1",
+      "score": 1165,
+      "subreddit": "OpenAI"
+    },
+    "raw_text": "Coders in 2030 be like: — \"Bro, I don't code anymore, I just prompt the AI and pray it works.\"\n\n— Coders in 2030 💀",
+    "source": "reddit",
+    "title": "[r/OpenAI] Coders in 2030 be like:",
+    "ts": "2026-05-12T22:14:40.000Z",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tbgklg/coders_in_2030_be_like/"
+  }
+]

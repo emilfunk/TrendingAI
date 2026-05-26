@@ -1,0 +1,70 @@
+[
+  {
+    "captured_at": "2026-05-15T17:25:00.000Z",
+    "engagement": 14620,
+    "meta": {
+      "author": "thealexstudio",
+      "comments": 412,
+      "kind": "Video",
+      "likes": 9750,
+      "media": "https://www.instagram.com/reel/C7q8L4mNvX2/",
+      "plays": 318000
+    },
+    "raw_text": "Claude shipped Excel, Word, and PowerPoint integrations today. I rebuilt my entire weekly report in two minutes. AI for actual work, not demos. #ai #claude #aitools #productivity",
+    "source": "instagram",
+    "title": "@thealexstudio: Claude shipped Excel, Word, and PowerPoint integrations today. I rebuilt my entire weekly report in two minutes. AI for…",
+    "ts": "2026-05-13T16:21:08.000Z",
+    "url": "https://www.instagram.com/reel/C7q8L4mNvX2/"
+  },
+  {
+    "captured_at": "2026-05-15T17:25:00.000Z",
+    "engagement": 8210,
+    "meta": {
+      "author": "buildwith.ai",
+      "comments": 246,
+      "kind": "Video",
+      "likes": 5390,
+      "media": "https://www.instagram.com/reel/C7nW2k1tRzL/",
+      "plays": 192000
+    },
+    "raw_text": "Gemini 2.5 Pro for code review — three pass-through prompts and the latency feels like Sonnet. Walking through the workflow. #ai #gemini #aicoding #llm",
+    "source": "instagram",
+    "title": "@buildwith.ai: Gemini 2.5 Pro for code review — three pass-through prompts and the latency feels like Sonnet. Walking through the …",
+    "ts": "2026-05-12T13:48:55.000Z",
+    "url": "https://www.instagram.com/reel/C7nW2k1tRzL/"
+  },
+  {
+    "captured_at": "2026-05-15T17:25:00.000Z",
+    "engagement": 4280,
+    "meta": {
+      "author": "agenticstudio",
+      "comments": 118,
+      "kind": "Video",
+      "likes": 2940,
+      "media": "https://www.instagram.com/reel/C7kM6JYsBqP/",
+      "plays": 92000
+    },
+    "raw_text": "Spent the weekend building an agentic personal CRM with Claude Code. Demo + the whole prompt library, link in bio. #ai #agenticai #claude #aiapps",
+    "source": "instagram",
+    "title": "@agenticstudio: Spent the weekend building an agentic personal CRM with Claude Code. Demo + the whole prompt library, link in bio. #a…",
+    "ts": "2026-05-11T20:05:42.000Z",
+    "url": "https://www.instagram.com/reel/C7kM6JYsBqP/"
+  },
+  {
+    "captured_at": "2026-05-15T17:25:00.000Z",
+    "engagement": 2340,
+    "meta": {
+      "author": "mlmondays",
+      "comments": 78,
+      "kind": "Sidecar",
+      "likes": 1620,
+      "media": "https://www.instagram.com/p/C7hN9KrtVwq/",
+      "plays": 41000
+    },
+    "raw_text": "Carousel: 6 slides on how attention sinks affect long-context performance. Bookmarking research → repos that fix it. #ai #llm #artificialintelligence #agenticai",
+    "source": "instagram",
+    "title": "@mlmondays: Carousel: 6 slides on how attention sinks affect long-context performance. Bookmarking research → repos that fix it…",
+    "ts": "2026-05-10T09:14:23.000Z",
+    "url": "https://www.instagram.com/p/C7hN9KrtVwq/"
+  }
+]

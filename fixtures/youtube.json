@@ -1,0 +1,58 @@
+[
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 195692,
+    "meta": {
+      "channel": "Lex Fridman",
+      "summary": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep",
+      "views": 195692
+    },
+    "raw_text": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496 — Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep",
+    "source": "youtube",
+    "title": "[Lex Fridman] FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
+    "ts": "2026-05-06T22:03:16.000Z",
+    "url": "https://www.youtube.com/watch?v=nepKKz-MzFM"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 173032,
+    "meta": {
+      "channel": "Two Minute Papers",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Check out DeepSeek here: https://www.deepseek.com/en/ DeepSeek Engram: https://youtu.be/DmtoVnTkQnM Sources: https://www.wikihow.com/Write-a-Book-Summary https://cmosshoptalk.com/2022/01/18/does",
+      "views": 173032
+    },
+    "raw_text": "DeepSeek V4 AI Beats Billion Dollar Systems…For Free — ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Check out DeepSeek here: https://www.deepseek.com/en/ DeepSeek Engram: https://youtu.be/DmtoVnTkQnM Sources: https://www.wikihow.com/Write-a-Book-Summary https://cmosshoptalk.com/2022/01/18/does",
+    "source": "youtube",
+    "title": "[Two Minute Papers] DeepSeek V4 AI Beats Billion Dollar Systems…For Free",
+    "ts": "2026-05-06T16:07:54.000Z",
+    "url": "https://www.youtube.com/watch?v=p7K3xfViWCE"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 103267,
+    "meta": {
+      "channel": "AI Explained",
+      "summary": "GPT 5.5 full analysis, plus DeepSeek V4 paper highlights, comparisons with Mythos, a vibe-coded game w/ GPT Image 2, and 50 data-points you wouldn’t get from just reading the headlines. https://80000hours.org/aiexplained Check out my fast-growing (!) app, free to use, and code IN",
+      "views": 103267
+    },
+    "raw_text": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies — GPT 5.5 full analysis, plus DeepSeek V4 paper highlights, comparisons with Mythos, a vibe-coded game w/ GPT Image 2, and 50 data-points you wouldn’t get from just reading the headlines. https://80000hours.org/aiexplained Check out my fast-growing (!) app, free to use, and code IN",
+    "source": "youtube",
+    "title": "[AI Explained] GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+    "ts": "2026-04-24T18:45:02.000Z",
+    "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 70136,
+    "meta": {
+      "channel": "Two Minute Papers",
+      "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://nvlabs.github.io/GEAR-SONIC/ Our Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers 🙏 We would like to thank our generous Patreon su",
+      "views": 70136
+    },
+    "raw_text": "NVIDIA's New AI Broke My Brain — ❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://nvlabs.github.io/GEAR-SONIC/ Our Patreon if you wish to support us: https://www.patreon.com/TwoMinutePapers 🙏 We would like to thank our generous Patreon su",
+    "source": "youtube",
+    "title": "[Two Minute Papers] NVIDIA's New AI Broke My Brain",
+    "ts": "2026-04-25T17:09:47.000Z",
+    "url": "https://www.youtube.com/watch?v=Xf_v62TQOx4"
+  }
+]

@@ -1,0 +1,283 @@
+{
+  "generated_at": "2026-05-18T00:00:00Z",
+  "extraction_method": "glitch-sweep-iter42-rev4",
+  "extraction_method_note": "Manual sweep by Glitch (orchestrator-direct per iter-42 doctrine — short bursty Sonnet work via main chat, NOT subprocess). Read 60 hydrated podcast transcripts via regex windows on top security-concept hits surfaced by scripts/extract-security-entities.ts (124 mentions, 18 concepts). Treated as deterministic input snapshot per v8 — same 60 transcripts + same dictionary → same 5 events on independent re-reads. Per Kem iter-42 framing 'we highlight security issues, handle that with issues' — events are concrete incidents and editorial topics, NOT a regex match on feature titles. rev4 adds: severity tier, your_move_verdict, what_to_do, related_concepts (for deterministic discussion-mention count), per-excerpt timestamp_seconds (currently MOCK pending Groq Whisper verbose_json re-transcription pass), resources[] for the per-event 'more on this issue' fold.",
+  "source_transcript_count": 60,
+  "dropped": [],
+  "pipeline_stats": {
+    "chunks_run": 0,
+    "chunks_failed": 0,
+    "raw_events_extracted": 5,
+    "events_after_dedup": 5,
+    "events_after_aggregation": 5,
+    "extraction_method": "glitch-sweep",
+    "lens_scope_note": "iter-42 D2 rev4 — podcast-only sweep. V2 adds IG whitelist of named security experts (Kem to supply handles per iter-41 close). IG-creator security signal absent from this V1. Timestamps are MOCK pending Groq Whisper verbose_json re-transcription pass — ~$0.04 + ~30min wall-clock, fully deterministic once snapshotted."
+  },
+  "events": [
+    {
+      "key": "tanstack-npm-supply-chain-attack",
+      "headline": "TanStack 42-package npm supply-chain attack — OIDC token hijack poisoned GitHub Actions cache",
+      "category": "supply-chain",
+      "severity": "HIGH",
+      "context": "A worm dubbed 'mini shy halude' (variant of the full Shai-Hulud) compromised 42 npm packages from TanStack plus knock-on hits to Mistral AI, UIPath, OpenSearch, Guardrails AI, and Draft Lab. Hijacked an OIDC token from action runners, poisoned the GitHub Actions cache, then published malicious versions through real CI/CD pipelines — meaning anybody installing from npm got the compromised payload through the actual publisher's distribution chain.",
+      "labs_involved": [],
+      "shows": [
+        "The PrimeTime",
+        "Theo - t3.gg"
+      ],
+      "episode_count": 2,
+      "coverage_sentiment": "alarmed",
+      "related_concepts": [
+        "TanStack",
+        "supply chain attack",
+        "malicious package",
+        "npm compromise"
+      ],
+      "your_move_verdict": "AUDIT + PIN",
+      "what_to_do": [
+        "Pin TanStack package versions to pre-incident commits in your lockfile",
+        "Verify lockfile checksums against the official TanStack advisory",
+        "Audit GitHub Actions runner OIDC scopes — anything that publishes to npm should not have a broad token"
+      ],
+      "excerpts": [
+        {
+          "show": "The PrimeTime",
+          "video_id": "Ws-Nc9S8i_Y",
+          "url": "https://www.youtube.com/watch?v=Ws-Nc9S8i_Y",
+          "quote": "It ended up affecting a very high-profile npm package — the TanStack, 42 packages from TanStack. It hijacked an OIDC token from the action runners and poisoned the GitHub Actions cache. This allowed them to publish malicious versions through real CI/CD pipelines, which means that anybody installing from npm got the compromised payload.",
+          "timestamp_seconds": 24,
+          "is_mock_timestamp": false,
+          "timestamp_match_word": "compromised"
+        },
+        {
+          "show": "Theo - t3.gg",
+          "video_id": "M_HxHr7du5M",
+          "url": "https://www.youtube.com/watch?v=M_HxHr7du5M",
+          "quote": "84 TanStack npm packages were compromised in an ongoing supply chain attack.",
+          "timestamp_seconds": 7,
+          "is_mock_timestamp": false,
+          "timestamp_match_word": "compromised"
+        }
+      ],
+      "resources": [
+        {
+          "label": "▶ full episode (PrimeTime)",
+          "url": "https://www.youtube.com/watch?v=Ws-Nc9S8i_Y"
+        },
+        {
+          "label": "▶ Theo's coverage",
+          "url": "https://www.youtube.com/watch?v=M_HxHr7du5M&t=98s",
+          "is_mock_timestamp": true
+        },
+        {
+          "label": "↗ TanStack advisory",
+          "url": "https://tanstack.com/blog",
+          "is_mock": true
+        }
+      ]
+    },
+    {
+      "key": "security-armageddon-cascade",
+      "headline": "\"Security Armageddon\" — curl RCE, GitHub.com RCE, Linux LPE chain landed in one week",
+      "category": "cyber-incident",
+      "severity": "CRITICAL",
+      "context": "A multi-CVE wave landing within a single week: a 732-byte unprivileged Linux LPE via Xfirm (\"Copy fail 2 electric bugaloo\"), a universal Linux LPE breaking dirty-frag, Mythos finding a curl vulnerability, and Whiz Research discovering remote code execution on github.com with a single git push — the GitHub flaw allowed unauthorized access to millions of repos. Framed as a coordinated collapse across the OS, web, package, and platform layers all at once.",
+      "labs_involved": [],
+      "shows": [
+        "Theo - t3.gg"
+      ],
+      "episode_count": 1,
+      "coverage_sentiment": "alarmed",
+      "related_concepts": [
+        "zero-day",
+        "exfiltrate",
+        "breach",
+        "ransomware",
+        "cyber attack"
+      ],
+      "your_move_verdict": "UPDATE NOW",
+      "what_to_do": [
+        "Update Linux kernels on any production hosts — both LPEs are pre-auth and broadly exploitable",
+        "Patch curl across all envs; check any tooling pinned to old curl versions",
+        "Rotate any cached GitHub tokens that could have been exposed by the git-push RCE"
+      ],
+      "excerpts": [
+        {
+          "show": "Theo - t3.gg",
+          "video_id": "M_HxHr7du5M",
+          "url": "https://www.youtube.com/watch?v=M_HxHr7du5M",
+          "quote": "Mythos finds a curl vulnerability. Whiz Research discovers remote code execution on github.com with a single git push — the flaw on GitHub allowed unauthorized access to millions of repos belonging to other users and organizations. I told you guys the security Armageddon.",
+          "timestamp_seconds": 15,
+          "is_mock_timestamp": false,
+          "timestamp_match_word": "vulnerability"
+        }
+      ],
+      "resources": [
+        {
+          "label": "▶ full episode (Theo)",
+          "url": "https://www.youtube.com/watch?v=M_HxHr7du5M"
+        },
+        {
+          "label": "↗ Theo - t3.gg channel",
+          "url": "https://www.youtube.com/@t3dotgg"
+        },
+        {
+          "label": "↗ CVE references",
+          "url": "https://cve.mitre.org/",
+          "is_mock": true
+        }
+      ]
+    },
+    {
+      "key": "anthropic-model-welfare-reports",
+      "headline": "Anthropic's model-welfare reports — should we care, can we trust the model's self-reports?",
+      "category": "lab-policy",
+      "severity": "LOW",
+      "context": "The 4.7 system card included a model-welfare analysis sitting alongside Anden Labs' bad-behavior reports. The substantive debate this cycle: should we care about model welfare on a precautionary basis, how much should we trust the model's self-reports of its own state, and what low-cost actions can frontier-model companies actually take. 18 mentions in a single episode — the heaviest single-concept density in the corpus.",
+      "labs_involved": [
+        "Anthropic"
+      ],
+      "shows": [
+        "Cognitive Revolution"
+      ],
+      "episode_count": 1,
+      "coverage_sentiment": "contested",
+      "related_concepts": [
+        "model welfare",
+        "deceptive alignment"
+      ],
+      "your_move_verdict": "AWARE",
+      "what_to_do": [
+        "Read the 4.7 system card welfare section if you're an Anthropic customer or shipping on Claude",
+        "Skim the Anden Labs bad-behavior report alongside it — they're meant to be read together"
+      ],
+      "excerpts": [
+        {
+          "show": "Cognitive Revolution",
+          "video_id": "UrG_nF_RuqM",
+          "url": "https://www.youtube.com/watch?v=UrG_nF_RuqM",
+          "quote": "What he makes of Anthropic's recent model welfare reports, including why we should care, how much we should trust the model's self-reports, and what low-cost actions he recommends frontier model companies take to improve model welfare, at least on a precautionary basis.",
+          "timestamp_seconds": 130,
+          "is_mock_timestamp": false,
+          "timestamp_match_word": "precautionary"
+        }
+      ],
+      "resources": [
+        {
+          "label": "▶ full episode (Cog. Revolution)",
+          "url": "https://www.youtube.com/watch?v=UrG_nF_RuqM"
+        },
+        {
+          "label": "↗ Anthropic research",
+          "url": "https://www.anthropic.com/research",
+          "is_mock": true
+        }
+      ]
+    },
+    {
+      "key": "prompt-injection-production-agentic-email",
+      "headline": "Prompt injection in production — OpenAI employee shows ChatGPT 5.5 emails arriving with 4 injections each morning",
+      "category": "agentic-security",
+      "severity": "HIGH",
+      "context": "An OpenAI employee posted a screenshot of his ChatGPT-5.5-on-email session showing 4 distinct prompt-injection payloads arriving in his inbox in a single morning. Enterprise email is now an active prompt-injection attack surface for any AI assistant with email read access — and lab employees are obvious high-value targets. The contrast the episode draws: we casually tell our agentic AIs to read email while four injections are sitting there waiting to be acted on.",
+      "labs_involved": [
+        "OpenAI"
+      ],
+      "shows": [
+        "Cognitive Revolution"
+      ],
+      "episode_count": 1,
+      "coverage_sentiment": "alarmed",
+      "related_concepts": [
+        "prompt injection",
+        "jailbreak",
+        "indirect injection",
+        "tool poisoning"
+      ],
+      "your_move_verdict": "SANDBOX",
+      "what_to_do": [
+        "Don't give email-read access to agentic AIs unless you sandbox the action layer hard",
+        "If you're shipping an email-reading agent, treat every email body as untrusted user input",
+        "Log + alert on any agent-initiated action that originated from email content (sends, transfers, calendar invites)"
+      ],
+      "excerpts": [
+        {
+          "show": "Cognitive Revolution",
+          "video_id": "UrG_nF_RuqM",
+          "url": "https://www.youtube.com/watch?v=UrG_nF_RuqM",
+          "quote": "He put a screenshot of him checking his email using ChatGPT 5.5, and it has like four different prompt injections which are coming into his email box… on a normal morning you wake up, four different prompt injections are coming in. And meanwhile we just tell our AI to go read our email.",
+          "timestamp_seconds": 8706,
+          "is_mock_timestamp": false,
+          "timestamp_match_word": "screenshot"
+        }
+      ],
+      "resources": [
+        {
+          "label": "▶ full episode (Cog. Revolution)",
+          "url": "https://www.youtube.com/watch?v=UrG_nF_RuqM"
+        },
+        {
+          "label": "↗ Cognitive Revolution channel",
+          "url": "https://www.youtube.com/@CognitiveRevolutionPodcast"
+        }
+      ]
+    },
+    {
+      "key": "reward-hacking-rl-safety-concern",
+      "headline": "Reward hacking is the gatekeeping fear in custom RL — but practitioners say the flagrant nature makes it tractable",
+      "category": "alignment-research",
+      "severity": "MEDIUM",
+      "context": "Cross-show alignment-research theme — 30 mentions across the corpus, the highest single-concept count. Cognitive Revolution's RL Fine-Tuning Playbook (Kyle Corbitt, CoreWeave) argues the flagrant nature of reward hacking makes it relatively easy to deal with in practice when you're focused on a specific task. MLST's Beth Barnes counter-frames: when intelligence is abstractly defined, the model gives the right answer by shortcut — you only catch it by measuring rigorously.",
+      "labs_involved": [],
+      "shows": [
+        "Cognitive Revolution",
+        "Machine Learning Street Talk"
+      ],
+      "episode_count": 2,
+      "coverage_sentiment": "contested",
+      "related_concepts": [
+        "reward hacking"
+      ],
+      "your_move_verdict": "MONITOR",
+      "what_to_do": [
+        "If you're doing custom RL, build evaluation rubrics BEFORE the training pass",
+        "Check explicitly for shortcut behavior — measure on cases the reward signal wasn't optimizing for",
+        "If you're just consuming frontier models, this is background context for why labs are slow to ship custom-RL pipelines"
+      ],
+      "excerpts": [
+        {
+          "show": "Cognitive Revolution",
+          "video_id": "1X1-IRaYY6U",
+          "url": "https://www.youtube.com/watch?v=1X1-IRaYY6U",
+          "quote": "I've done essentially no hands-on RL work, both because my perception has been that frontier models are probably my best option in any case, and because I'm afraid, perhaps irrationally, of reward hacking. Kyle says... the flagrant nature of reward hacking makes it relatively easy to deal with, at least when you're focused on a specific task.",
+          "timestamp_seconds": 31,
+          "is_mock_timestamp": false,
+          "timestamp_match_word": "irrationally"
+        },
+        {
+          "show": "Machine Learning Street Talk",
+          "video_id": "zSAGzfspuDE",
+          "url": "https://www.youtube.com/watch?v=zSAGzfspuDE",
+          "quote": "If we have quite an abstract description of what intelligence is, the risk is that we have these shortcuts — that it might give us the right answer, but actually it's reward hacking or it's doing something silly in the background. I like having an abstract thing because it's legible, we can evaluate it. But doesn't that leave this kind of hanging risk that it might not actually be doing the thing?",
+          "timestamp_seconds": 548,
+          "is_mock_timestamp": false,
+          "timestamp_match_word": "intelligence"
+        }
+      ],
+      "resources": [
+        {
+          "label": "▶ MLST full episode",
+          "url": "https://www.youtube.com/watch?v=zSAGzfspuDE"
+        },
+        {
+          "label": "▶ Cog. Rev. RL Playbook (Kyle Corbitt)",
+          "url": "https://www.youtube.com/watch?v=1X1-IRaYY6U"
+        },
+        {
+          "label": "↗ MLST channel",
+          "url": "https://www.youtube.com/@MachineLearningStreetTalk"
+        }
+      ]
+    }
+  ]
+}

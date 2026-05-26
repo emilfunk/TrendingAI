@@ -1,0 +1,18 @@
+FEATURE: xai — @xai: Grok Build is now available in Beta for all SuperGrok and X Premium+ users. Use Plan Mode, create images and videos with…
+LAB ANCHOR URL: https://x.com/xai/status/2058973760708091907
+ENTITIES MATCHED: Grok Build, SuperGrok, Use Plan
+HYPE-DOMINANT: no (deterministic count: 0 of 2 top items match tutorial-hype regex indicators)
+
+2 creator items below. Tags: [LAB-AFFILIATED] = handle works at the lab; their "praise" is internal storytelling, not validation. [PODCAST] = YT podcast/video item, generate one podcast_synth entry. [REPLY SIGNAL] = aggregated comment-sentiment on the post; pos%/neg% are reply distribution, RATIOED means high-engagement post with negative-dominant replies (contradiction signal).
+
+[1] @All-In Podcast · youtube  (390619 eng) [PODCAST video_id=HGbA6ze0_3M show="All-In Podcast"]
+  URL: https://www.youtube.com/watch?v=HGbA6ze0_3M
+[transcript window]  and obviously SpaceX is extraordinarily well positioned for that. But I do think that composer 2.5 data point is really powerful. Keep an eye on it. Yeah. And then the other thing that's come out is Grok builds. So, what Grok lacked that a lot of other models had and I do think it's important to remember that the newest version of Grok 4.3 is on the Pareto frontier for all frontier models. And you're either on the frontier or you're not. And the the companies on the frontier are xAI with one build of Grok 4.3, which is a 500 billion parameter model, Google 3.1 Pro, and the
+
+[2] @MervinPraison · x  (21 eng)
+  URL: https://x.com/MervinPraison/status/2059132831805194409
+Spun up a full website in minutes from the terminal with Grok Build CLI. Plan → approve → diff → ship. That's the loop for building my @PraisonAI website. Thanks @elonmusk @xai https://t.co/HlE6nWxC1q
+
+Synthesize per schema. Apply the rules above — especially the spade-a-spade clause when HYPE-DOMINANT is yes, the competitor-recommendation clause when a reply names a competitor, and the RATIOED clause when reply-signal contradicts post engagement.
+
+Return JSON only.

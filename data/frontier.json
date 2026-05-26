@@ -1,0 +1,912 @@
+[
+  {
+    "title": "[OpenAI] OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "source": "frontier",
+    "ts": "2026-05-25T00:00:00.000Z",
+    "engagement": 57,
+    "raw_text": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership — OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] How Virgin Atlantic ships faster with Codex",
+    "url": "https://openai.com/index/virgin-atlantic",
+    "source": "frontier",
+    "ts": "2026-05-22T00:00:00.000Z",
+    "engagement": 51,
+    "raw_text": "How Virgin Atlantic ships faster with Codex — How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] OpenAI named a Leader in enterprise coding agents by Gartner",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "source": "frontier",
+    "ts": "2026-05-22T00:00:00.000Z",
+    "engagement": 51,
+    "raw_text": "OpenAI named a Leader in enterprise coding agents by Gartner — OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] AdventHealth advances whole-person care with OpenAI",
+    "url": "https://openai.com/index/adventhealth",
+    "source": "frontier",
+    "ts": "2026-05-21T12:00:00.000Z",
+    "engagement": 50,
+    "raw_text": "AdventHealth advances whole-person care with OpenAI — AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] An OpenAI model has disproved a central conjecture in discrete geometry",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "source": "frontier",
+    "ts": "2026-05-20T00:00:00.000Z",
+    "engagement": 47,
+    "raw_text": "An OpenAI model has disproved a central conjecture in discrete geometry — An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] How Ramp engineers accelerate code review with Codex",
+    "url": "https://openai.com/index/ramp",
+    "source": "frontier",
+    "ts": "2026-05-20T00:00:00.000Z",
+    "engagement": 47,
+    "raw_text": "How Ramp engineers accelerate code review with Codex — How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] The next phase of OpenAI’s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "source": "frontier",
+    "ts": "2026-05-20T00:00:00.000Z",
+    "engagement": 47,
+    "raw_text": "The next phase of OpenAI’s Education for Countries — OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] Introducing OpenAI for Singapore",
+    "url": "https://openai.com/index/introducing-openai-for-singapore",
+    "source": "frontier",
+    "ts": "2026-05-19T20:30:00.000Z",
+    "engagement": 47,
+    "raw_text": "Introducing OpenAI for Singapore — OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] Advancing content provenance for a safer, more transparent AI ecosystem",
+    "url": "https://openai.com/index/advancing-content-provenance",
+    "source": "frontier",
+    "ts": "2026-05-19T10:45:00.000Z",
+    "engagement": 46,
+    "raw_text": "Advancing content provenance for a safer, more transparent AI ecosystem — OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "source": "frontier",
+    "ts": "2026-05-18T10:00:00.000Z",
+    "engagement": 44,
+    "raw_text": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments — OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "source": "frontier",
+    "ts": "2026-05-16T00:00:00.000Z",
+    "engagement": 39,
+    "raw_text": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens — OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] A new personal finance experience in ChatGPT",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "source": "frontier",
+    "ts": "2026-05-15T00:00:00.000Z",
+    "engagement": 37,
+    "raw_text": "A new personal finance experience in ChatGPT — Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
+    "source": "frontier",
+    "ts": "2026-05-15T00:00:00.000Z",
+    "engagement": 37,
+    "raw_text": "Databricks brings GPT-5.5 to enterprise agent workflows — Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] Sea's View on the Future of Agentic Software Development with Codex",
+    "url": "https://openai.com/index/sea-david-chen",
+    "source": "frontier",
+    "ts": "2026-05-14T20:30:00.000Z",
+    "engagement": 37,
+    "raw_text": "Sea's View on the Future of Agentic Software Development with Codex — Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] Work with Codex from anywhere",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere",
+    "source": "frontier",
+    "ts": "2026-05-14T13:00:00.000Z",
+    "engagement": 36,
+    "raw_text": "Work with Codex from anywhere — Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] Helping ChatGPT better recognize context in sensitive conversations",
+    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "source": "frontier",
+    "ts": "2026-05-14T00:00:00.000Z",
+    "engagement": 35,
+    "raw_text": "Helping ChatGPT better recognize context in sensitive conversations — Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] Building a safe, effective sandbox to enable Codex on Windows",
+    "url": "https://openai.com/index/building-codex-windows-sandbox",
+    "source": "frontier",
+    "ts": "2026-05-13T11:00:00.000Z",
+    "engagement": 34,
+    "raw_text": "Building a safe, effective sandbox to enable Codex on Windows — Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[OpenAI] Our response to the TanStack npm supply chain attack",
+    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+    "source": "frontier",
+    "ts": "2026-05-13T00:00:00.000Z",
+    "engagement": 33,
+    "raw_text": "Our response to the TanStack npm supply chain attack — OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI ",
+    "meta": {
+      "lab": "OpenAI",
+      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI ",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[HuggingFace] Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "url": "https://huggingface.co/blog/agent-glossary",
+    "source": "frontier",
+    "ts": "2026-05-25T00:00:00.000Z",
+    "engagement": 57,
+    "raw_text": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right — ",
+    "meta": {
+      "lab": "HuggingFace",
+      "summary": "",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[HuggingFace] Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "source": "frontier",
+    "ts": "2026-05-23T00:02:03.000Z",
+    "engagement": 53,
+    "raw_text": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models — ",
+    "meta": {
+      "lab": "HuggingFace",
+      "summary": "",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[HuggingFace] Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "source": "frontier",
+    "ts": "2026-05-22T15:25:59.000Z",
+    "engagement": 52,
+    "raw_text": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook — ",
+    "meta": {
+      "lab": "HuggingFace",
+      "summary": "",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[HuggingFace] OlmoEarth v1.1: A more efficient family of Earth observation models",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "source": "frontier",
+    "ts": "2026-05-19T18:38:09.000Z",
+    "engagement": 47,
+    "raw_text": "OlmoEarth v1.1: A more efficient family of Earth observation models — ",
+    "meta": {
+      "lab": "HuggingFace",
+      "summary": "",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[HuggingFace] Introducing the Ettin Reranker Family",
+    "url": "https://huggingface.co/blog/ettin-reranker",
+    "source": "frontier",
+    "ts": "2026-05-19T00:00:00.000Z",
+    "engagement": 45,
+    "raw_text": "Introducing the Ettin Reranker Family — ",
+    "meta": {
+      "lab": "HuggingFace",
+      "summary": "",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[HuggingFace] PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "source": "frontier",
+    "ts": "2026-05-18T15:12:46.000Z",
+    "engagement": 44,
+    "raw_text": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend — ",
+    "meta": {
+      "lab": "HuggingFace",
+      "summary": "",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[HuggingFace] The Open Agent Leaderboard",
+    "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "source": "frontier",
+    "ts": "2026-05-18T14:12:58.000Z",
+    "engagement": 44,
+    "raw_text": "The Open Agent Leaderboard — ",
+    "meta": {
+      "lab": "HuggingFace",
+      "summary": "",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[HuggingFace] Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "source": "frontier",
+    "ts": "2026-05-14T18:55:01.000Z",
+    "engagement": 37,
+    "raw_text": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality — ",
+    "meta": {
+      "lab": "HuggingFace",
+      "summary": "",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[HuggingFace] Unlocking asynchronicity in continuous batching",
+    "url": "https://huggingface.co/blog/continuous_async",
+    "source": "frontier",
+    "ts": "2026-05-14T00:00:00.000Z",
+    "engagement": 35,
+    "raw_text": "Unlocking asynchronicity in continuous batching — ",
+    "meta": {
+      "lab": "HuggingFace",
+      "summary": "",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Google AI] Catch up on the Dialogues stage at Google I/O 2026.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+    "source": "frontier",
+    "ts": "2026-05-22T18:00:00.000Z",
+    "engagement": 53,
+    "raw_text": "Catch up on the Dialogues stage at Google I/O 2026. — <img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp\">A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
+    "meta": {
+      "lab": "Google AI",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp\">A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Google AI] 100 things we announced at I/O 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+    "source": "frontier",
+    "ts": "2026-05-20T19:30:00.000Z",
+    "engagement": 49,
+    "raw_text": "100 things we announced at I/O 2026 — <img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp\">This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
+    "meta": {
+      "lab": "Google AI",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp\">This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Google AI] I/O 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+    "source": "frontier",
+    "ts": "2026-05-19T17:45:00.000Z",
+    "engagement": 47,
+    "raw_text": "I/O 2026 — <img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif\">At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+    "meta": {
+      "lab": "Google AI",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif\">At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Google AI] How AI Mode is changing the way people search in the U.S.",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+    "source": "frontier",
+    "ts": "2026-05-19T17:45:00.000Z",
+    "engagement": 47,
+    "raw_text": "How AI Mode is changing the way people search in the U.S. — <img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp\">One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.",
+    "meta": {
+      "lab": "Google AI",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp\">One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Google AI] New ways to create and get things done in Google Workspace",
+    "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+    "source": "frontier",
+    "ts": "2026-05-19T17:45:00.000Z",
+    "engagement": 47,
+    "raw_text": "New ways to create and get things done in Google Workspace — <img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp\">Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
+    "meta": {
+      "lab": "Google AI",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp\">Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Google AI] I/O 2026: Welcome to the agentic Gemini era",
+    "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+    "source": "frontier",
+    "ts": "2026-05-19T17:45:00.000Z",
+    "engagement": 47,
+    "raw_text": "I/O 2026: Welcome to the agentic Gemini era — <img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp\">The latest from Google I/O: See how we’re helping you get more done with Gemini.",
+    "meta": {
+      "lab": "Google AI",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp\">The latest from Google I/O: See how we’re helping you get more done with Gemini.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Google AI] Gemini 3.5: frontier intelligence with action",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "source": "frontier",
+    "ts": "2026-05-19T17:45:00.000Z",
+    "engagement": 47,
+    "raw_text": "Gemini 3.5: frontier intelligence with action — <img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp\">At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+    "meta": {
+      "lab": "Google AI",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp\">At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Google AI] A new era for AI Search",
+    "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+    "source": "frontier",
+    "ts": "2026-05-19T17:45:00.000Z",
+    "engagement": 47,
+    "raw_text": "A new era for AI Search — <img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46.max-600x600.format-webp.webp\">We shared the next step in our journey to bring together the best of a search engine with the best of AI.",
+    "meta": {
+      "lab": "Google AI",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46.max-600x600.format-webp.webp\">We shared the next step in our journey to bring together the best of a search engine with the best of AI.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Google AI] Everything new in our Google AI subscriptions, fresh from I/O 2026",
+    "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+    "source": "frontier",
+    "ts": "2026-05-19T17:45:00.000Z",
+    "engagement": 47,
+    "raw_text": "Everything new in our Google AI subscriptions, fresh from I/O 2026 — <img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/I_O_26_Header_1_AYohnR4.max-600x600.format-webp.webp\">Introducing a $100 AI Ultra plan — plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers.",
+    "meta": {
+      "lab": "Google AI",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/I_O_26_Header_1_AYohnR4.max-600x600.format-webp.webp\">Introducing a $100 AI Ultra plan — plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "source": "frontier",
+    "ts": "2026-05-21T19:46:42.000Z",
+    "engagement": 51,
+    "raw_text": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks — ",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] Fast-tracking genetic leads to reverse cellular aging",
+    "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "source": "frontier",
+    "ts": "2026-05-18T18:21:39.000Z",
+    "engagement": 45,
+    "raw_text": "Fast-tracking genetic leads to reverse cellular aging — Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] Introducing Gemini Omni",
+    "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+    "source": "frontier",
+    "ts": "2026-05-17T19:50:57.000Z",
+    "engagement": 43,
+    "raw_text": "Introducing Gemini Omni — ",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] Introducing Google Antigravity 2.0",
+    "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "source": "frontier",
+    "ts": "2026-05-17T19:43:45.000Z",
+    "engagement": 43,
+    "raw_text": "Introducing Google Antigravity 2.0 — ",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] Gemini for Science: AI experiments and tools for a new era of discovery",
+    "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+    "source": "frontier",
+    "ts": "2026-05-17T13:50:34.000Z",
+    "engagement": 42,
+    "raw_text": "Gemini for Science: AI experiments and tools for a new era of discovery — A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] Making it easier to understand how content was created and edited",
+    "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+    "source": "frontier",
+    "ts": "2026-05-17T13:43:50.000Z",
+    "engagement": 42,
+    "raw_text": "Making it easier to understand how content was created and edited — We're expanding our tools to help you understand how content was created and edited across the web.",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] Strengthening Singapore’s AI Future: A New National Partnership",
+    "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+    "source": "frontier",
+    "ts": "2026-05-16T09:13:34.000Z",
+    "engagement": 40,
+    "raw_text": "Strengthening Singapore’s AI Future: A New National Partnership — Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] Finding the molecular switches behind new infectious diseases",
+    "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+    "source": "frontier",
+    "ts": "2026-05-16T08:16:06.000Z",
+    "engagement": 40,
+    "raw_text": "Finding the molecular switches behind new infectious diseases — Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] Opening new paths in aging research",
+    "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+    "source": "frontier",
+    "ts": "2026-05-16T08:08:44.000Z",
+    "engagement": 40,
+    "raw_text": "Opening new paths in aging research — Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] Accelerating discovery of liver disease mechanisms",
+    "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+    "source": "frontier",
+    "ts": "2026-05-16T08:00:15.000Z",
+    "engagement": 40,
+    "raw_text": "Accelerating discovery of liver disease mechanisms — Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] Uniting biological toolkits for a new approach to ALS",
+    "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+    "source": "frontier",
+    "ts": "2026-05-16T07:53:11.000Z",
+    "engagement": 40,
+    "raw_text": "Uniting biological toolkits for a new approach to ALS — Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] Uncovering repurposed medicines to fight liver fibrosis",
+    "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+    "source": "frontier",
+    "ts": "2026-05-16T07:40:27.000Z",
+    "engagement": 40,
+    "raw_text": "Uncovering repurposed medicines to fight liver fibrosis — Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+    "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+    "source": "frontier",
+    "ts": "2026-05-16T03:14:17.000Z",
+    "engagement": 39,
+    "raw_text": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica — Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of the historic Hurricane Melissa.",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of the historic Hurricane Melissa.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] Gemini 3.5: frontier intelligence with action",
+    "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+    "source": "frontier",
+    "ts": "2026-05-15T22:50:12.000Z",
+    "engagement": 39,
+    "raw_text": "Gemini 3.5: frontier intelligence with action — Gemini 3.5 is built to help you execute complex, agentic workflows.",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[DeepMind] Co-Scientist: A multi-agent AI partner to accelerate research",
+    "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+    "source": "frontier",
+    "ts": "2026-05-12T14:40:07.000Z",
+    "engagement": 32,
+    "raw_text": "Co-Scientist: A multi-agent AI partner to accelerate research — Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
+    "meta": {
+      "lab": "DeepMind",
+      "summary": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Meta] Our AI Wearables Are “Changing the Game” for Disabled People",
+    "url": "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/",
+    "source": "frontier",
+    "ts": "2026-05-18T14:35:42.000Z",
+    "engagement": 44,
+    "raw_text": "Our AI Wearables Are “Changing the Game” for Disabled People — We're rolling out new features on our AI glasses that make the technology more accessible to people with disabilities. The post Our AI Wearables Are “Changing the Game” for Disabled People appeared first on Meta Newsroom .",
+    "meta": {
+      "lab": "Meta",
+      "summary": "We're rolling out new features on our AI glasses that make the technology more accessible to people with disabilities. The post Our AI Wearables Are “Changing the Game” for Disabled People appeared first on Meta Newsroom .",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Meta] Introducing Business AI on WhatsApp for Small Businesses in India",
+    "url": "https://about.fb.com/news/2026/05/introducing-business-ai-on-whatsapp-for-small-businesses-in-india/",
+    "source": "frontier",
+    "ts": "2026-05-15T04:59:51.000Z",
+    "engagement": 37,
+    "raw_text": "Introducing Business AI on WhatsApp for Small Businesses in India — To enable small businesses with AI-powered customer support directly into the WhatsApp Business app, we've launched Business AI in India. The post Introducing Business AI on WhatsApp for Small Businesses in India appeared first on Meta Newsroom .",
+    "meta": {
+      "lab": "Meta",
+      "summary": "To enable small businesses with AI-powered customer support directly into the WhatsApp Business app, we've launched Business AI in India. The post Introducing Business AI on WhatsApp for Small Businesses in India appeared first on Meta Newsroom .",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Meta] From Scroll to Chat to Cart: Trends Reshaping How India Shops",
+    "url": "https://about.fb.com/news/2026/05/from-scroll-to-chat-to-cart-trends-reshaping-how-india-shops/",
+    "source": "frontier",
+    "ts": "2026-05-14T06:27:46.000Z",
+    "engagement": 36,
+    "raw_text": "From Scroll to Chat to Cart: Trends Reshaping How India Shops — On the sidelines of the 2026 Meta Marketing Summit E-Commerce edition, we are sharing key trends shaping the future of shopping in India — from the rise of AI-powered discovery and video-first commerce to the growing role of conversational messaging in driving transactions. The p",
+    "meta": {
+      "lab": "Meta",
+      "summary": "On the sidelines of the 2026 Meta Marketing Summit E-Commerce edition, we are sharing key trends shaping the future of shopping in India — from the rise of AI-powered discovery and video-first commerce to the growing role of conversational messaging in driving transactions. The p",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Meta] Introducing a Completely Private Way to Chat With AI",
+    "url": "https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/",
+    "source": "frontier",
+    "ts": "2026-05-13T14:45:19.000Z",
+    "engagement": 34,
+    "raw_text": "Introducing a Completely Private Way to Chat With AI — Incognito Chat lets you talk to Meta AI in a way that is invisible to anyone else. The post Introducing a Completely Private Way to Chat With AI appeared first on Meta Newsroom .",
+    "meta": {
+      "lab": "Meta",
+      "summary": "Incognito Chat lets you talk to Meta AI in a way that is invisible to anyone else. The post Introducing a Completely Private Way to Chat With AI appeared first on Meta Newsroom .",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Meta] Celebrating African Cinema With the ‘Made by Africa, Loved by the World’ 2026 Campaign",
+    "url": "https://about.fb.com/news/2026/05/celebrating-african-cinema-with-the-made-by-africa-loved-by-the-world-2026-campaign/",
+    "source": "frontier",
+    "ts": "2026-05-13T09:00:35.000Z",
+    "engagement": 34,
+    "raw_text": "Celebrating African Cinema With the ‘Made by Africa, Loved by the World’ 2026 Campaign — In celebration of Africa Day on May 25, Facebook has launched the sixth edition of its pan-African campaign, ‘Made by Africa, loved by the world: Where stories spark community.’ This year’s campaign shifts the spotlight to African cinema. The 2026 campaign features a five-part vo",
+    "meta": {
+      "lab": "Meta",
+      "summary": "In celebration of Africa Day on May 25, Facebook has launched the sixth edition of its pan-African campaign, ‘Made by Africa, loved by the world: Where stories spark community.’ This year’s campaign shifts the spotlight to African cinema. The 2026 campaign features a five-part vo",
+      "date_basis": "feed-pubdate"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Anthropic] Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+    "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+    "source": "frontier",
+    "ts": "2026-05-25T18:41:28.000Z",
+    "engagement": 59,
+    "raw_text": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\" — The full text of Chris Olah's remarks on the Pope's encyclical on AI",
+    "meta": {
+      "lab": "Anthropic",
+      "summary": "The full text of Chris Olah's remarks on the Pope's encyclical on AI",
+      "date_basis": "sitemap-lastmod"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Anthropic] Widening the conversation on frontier AI",
+    "url": "https://www.anthropic.com/news/widening-conversation-ai",
+    "source": "frontier",
+    "ts": "2026-05-20T00:29:29.000Z",
+    "engagement": 28,
+    "raw_text": "Widening the conversation on frontier AI — Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "meta": {
+      "lab": "Anthropic",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "date_basis": "sitemap-lastmod"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Anthropic] Anthropic acquires Stainless",
+    "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+    "source": "frontier",
+    "ts": "2026-05-19T18:06:44.000Z",
+    "engagement": 28,
+    "raw_text": "Anthropic acquires Stainless — Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "meta": {
+      "lab": "Anthropic",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "date_basis": "sitemap-lastmod"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Anthropic] KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+    "url": "https://www.anthropic.com/news/anthropic-kpmg",
+    "source": "frontier",
+    "ts": "2026-05-19T13:30:59.000Z",
+    "engagement": 28,
+    "raw_text": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance — Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "meta": {
+      "lab": "Anthropic",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "date_basis": "sitemap-lastmod"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Anthropic] PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+    "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+    "source": "frontier",
+    "ts": "2026-05-15T17:32:36.000Z",
+    "engagement": 23,
+    "raw_text": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients — Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "meta": {
+      "lab": "Anthropic",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "date_basis": "sitemap-lastmod"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Anthropic] Introducing Claude for Small Business",
+    "url": "https://www.anthropic.com/news/claude-for-small-business",
+    "source": "frontier",
+    "ts": "2026-05-14T16:16:25.000Z",
+    "engagement": 22,
+    "raw_text": "Introducing Claude for Small Business — We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.",
+    "meta": {
+      "lab": "Anthropic",
+      "summary": "We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.",
+      "date_basis": "sitemap-lastmod"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Anthropic] Anthropic forms $200 million partnership with the Gates Foundation",
+    "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+    "source": "frontier",
+    "ts": "2026-05-14T16:05:24.000Z",
+    "engagement": 22,
+    "raw_text": "Anthropic forms $200 million partnership with the Gates Foundation — Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "meta": {
+      "lab": "Anthropic",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "date_basis": "sitemap-lastmod"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Mistral] La Plateforme",
+    "url": "https://mistral.ai/news/la-plateforme",
+    "source": "frontier",
+    "ts": "2026-05-23T10:14:18.179Z",
+    "engagement": 32,
+    "raw_text": "La Plateforme — Our first AI endpoints are available in early access.",
+    "meta": {
+      "lab": "Mistral",
+      "summary": "Our first AI endpoints are available in early access.",
+      "date_basis": "sitemap-lastmod"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[Mistral] Emmi joins Mistral to accelerate the AI-native industry",
+    "url": "https://mistral.ai/news/accelerate-ai-native-industry",
+    "source": "frontier",
+    "ts": "2026-05-23T10:13:03.291Z",
+    "engagement": 32,
+    "raw_text": "Emmi joins Mistral to accelerate the AI-native industry — ",
+    "meta": {
+      "lab": "Mistral",
+      "summary": "",
+      "date_basis": "sitemap-lastmod"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  }
+]

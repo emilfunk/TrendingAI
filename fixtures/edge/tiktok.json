@@ -1,0 +1,36 @@
+[
+  {
+    "captured_at": "2026-05-15T17:25:00.000Z",
+    "engagement": 0,
+    "meta": {
+      "author": "deadaccount",
+      "comments": 0,
+      "likes": 0,
+      "plays": 0,
+      "shares": 0
+    },
+    "raw_text": "test post please ignore",
+    "source": "tiktok",
+    "title": "@deadaccount: test post please ignore",
+    "ts": "2026-05-09T00:00:00.000Z",
+    "url": "https://www.tiktok.com/@deadaccount/video/0000000000000000001"
+  },
+  {
+    "captured_at": "2026-05-15T17:25:00.000Z",
+    "engagement": 12,
+    "meta": {
+      "author": "miscategorized",
+      "comments": 1,
+      "kind": "video",
+      "likes": 8,
+      "media": "https://www.tiktok.com/@miscategorized/video/0000000000000000002",
+      "plays": 300,
+      "shares": 2
+    },
+    "raw_text": "This is unicode-overload 🤖🤖🤖 #ai 🎉 emoji-only-caption-edge-case",
+    "source": "tiktok",
+    "title": "@miscategorized: This is unicode-overload 🤖🤖🤖 #ai 🎉 emoji-only-caption-edge-case",
+    "ts": "2026-05-08T00:00:00.000Z",
+    "url": "https://www.tiktok.com/@miscategorized/video/0000000000000000002"
+  }
+]

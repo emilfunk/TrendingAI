@@ -1,0 +1,3226 @@
+{
+  "schema_version": 3,
+  "doctrine_note": "Deterministic classification per Kem 2026-05-18 'we have to use the real data'. Reads 6 streams (arxiv + frontier + x + tiktok + instagram + github), filters non-anchored items, classifies by stream-based rules + cross-source corroboration. Re-running against unchanged data produces byte-identical output.",
+  "generator": "scripts/classify-one-to-watch.ts",
+  "anchor_ts": "2026-05-26T11:21:18.000Z",
+  "inputs": {
+    "arxiv": 50,
+    "frontier": 65,
+    "x": 360,
+    "tiktok": 385,
+    "instagram": 346,
+    "github": 41,
+    "anchored_excluded": 66
+  },
+  "lab_handles_expanded_iter45": [
+    "Kimi_Moonshot",
+    "deepseek_ai",
+    "MistralAI",
+    "perplexity_ai",
+    "MetaAI",
+    "NVIDIAAI",
+    "runwayml",
+    "midjourney",
+    "cohere",
+    "HuggingFace",
+    "ai21labs",
+    "character_ai",
+    "groqinc",
+    "TogetherCompute",
+    "AIatMeta"
+  ],
+  "tally": {
+    "kept": 30,
+    "predict_ahead": 8,
+    "likely_surface": 12,
+    "today": 8,
+    "hustler": 2,
+    "dropped": 325,
+    "raw_classified_pre_cap": 423,
+    "raw_by_bucket": {
+      "predict-ahead": 111,
+      "likely-surface": 168,
+      "today": 142,
+      "hustler": 2,
+      "dropped": 325
+    },
+    "caps_applied": {
+      "predict-ahead": 8,
+      "likely-surface": 12,
+      "today": 8,
+      "hustler": 4
+    }
+  },
+  "worked_example": {
+    "title": "[Google AI] 100 things we announced at I/O 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+    "author": "",
+    "source": "frontier",
+    "bucket": "predict-ahead",
+    "class_tag": "lab-editorial",
+    "conviction_stake": 5,
+    "corroboration_count": 7,
+    "corroborated_entities": [
+      "Google AI (2-src)",
+      "Gemini Omni (7-src)"
+    ],
+    "propagation_chain_template": [
+      {
+        "stage": 1,
+        "lane": "research",
+        "status": "observed",
+        "note": "this item"
+      },
+      {
+        "stage": 2,
+        "lane": "systems",
+        "status": "predicted",
+        "note": "systems-thinking debate downstream of this paper"
+      },
+      {
+        "stage": 3,
+        "lane": "repos",
+        "status": "predicted",
+        "note": "repos implementing the paper's technique"
+      },
+      {
+        "stage": 4,
+        "lane": "lab-features",
+        "status": "predicted",
+        "note": "lab features adopting the technique"
+      },
+      {
+        "stage": 5,
+        "lane": "tutorials",
+        "status": "predicted",
+        "note": "creator tutorials about the technique"
+      },
+      {
+        "stage": 6,
+        "lane": "hustler",
+        "status": "predicted-terminal",
+        "note": "saturation reframe in playbook format"
+      }
+    ]
+  },
+  "items": [
+    {
+      "bucket": "predict-ahead",
+      "class_tag": "lab-editorial",
+      "author": "",
+      "source": "frontier",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "title": "[Google AI] 100 things we announced at I/O 2026",
+      "title_teaser": "[Google AI] 100 things we announced at I/O 2026",
+      "engagement_at_render": 49,
+      "ts": "2026-05-20T19:30:00.000Z",
+      "classification_reason": "frontier RSS lab editorial",
+      "corroboration_count": 7,
+      "corroborated_entities": [
+        "Google AI (2-src)",
+        "Gemini Omni (7-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "predict-ahead",
+      "class_tag": "lab-editorial",
+      "author": "",
+      "source": "frontier",
+      "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+      "title": "[DeepMind] Gemini 3.5: frontier intelligence with action",
+      "title_teaser": "[DeepMind] Gemini 3.5: frontier intelligence with action",
+      "engagement_at_render": 39,
+      "ts": "2026-05-15T22:50:12.000Z",
+      "classification_reason": "frontier RSS lab editorial",
+      "corroboration_count": 4,
+      "corroborated_entities": [
+        "Gemini 3.5 (4-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "predict-ahead",
+      "class_tag": "lab-editorial",
+      "author": "",
+      "source": "frontier",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "title": "[Google AI] Catch up on the Dialogues stage at Google I/O 2026.",
+      "title_teaser": "[Google AI] Catch up on the Dialogues stage at Google I/O 2026.",
+      "engagement_at_render": 53,
+      "ts": "2026-05-22T18:00:00.000Z",
+      "classification_reason": "frontier RSS lab editorial",
+      "corroboration_count": 2,
+      "corroborated_entities": [
+        "Google AI (2-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "predict-ahead",
+      "class_tag": "lab-editorial",
+      "author": "",
+      "source": "frontier",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "title": "[OpenAI] An OpenAI model has disproved a central conjecture in discrete geometry",
+      "title_teaser": "[OpenAI] An OpenAI model has disproved a central conjecture in discrete geometry",
+      "engagement_at_render": 47,
+      "ts": "2026-05-20T00:00:00.000Z",
+      "classification_reason": "frontier RSS lab editorial",
+      "corroboration_count": 2,
+      "corroborated_entities": [
+        "An OpenAI (2-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "predict-ahead",
+      "class_tag": "lab-editorial",
+      "author": "",
+      "source": "frontier",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "title": "[Google AI] I/O 2026",
+      "title_teaser": "[Google AI] I/O 2026",
+      "engagement_at_render": 47,
+      "ts": "2026-05-19T17:45:00.000Z",
+      "classification_reason": "frontier RSS lab editorial",
+      "corroboration_count": 2,
+      "corroborated_entities": [
+        "Google AI (2-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "predict-ahead",
+      "class_tag": "lab-editorial",
+      "author": "",
+      "source": "frontier",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+      "title": "[Google AI] How AI Mode is changing the way people search in the U.S.",
+      "title_teaser": "[Google AI] How AI Mode is changing the way people search in the U.S.",
+      "engagement_at_render": 47,
+      "ts": "2026-05-19T17:45:00.000Z",
+      "classification_reason": "frontier RSS lab editorial",
+      "corroboration_count": 2,
+      "corroborated_entities": [
+        "Google AI (2-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "predict-ahead",
+      "class_tag": "lab-editorial",
+      "author": "",
+      "source": "frontier",
+      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+      "title": "[Google AI] New ways to create and get things done in Google Workspace",
+      "title_teaser": "[Google AI] New ways to create and get things done in Google Workspace",
+      "engagement_at_render": 47,
+      "ts": "2026-05-19T17:45:00.000Z",
+      "classification_reason": "frontier RSS lab editorial",
+      "corroboration_count": 2,
+      "corroborated_entities": [
+        "Google AI (2-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "predict-ahead",
+      "class_tag": "lab-editorial",
+      "author": "",
+      "source": "frontier",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "title": "[Google AI] I/O 2026: Welcome to the agentic Gemini era",
+      "title_teaser": "[Google AI] I/O 2026: Welcome to the agentic Gemini era",
+      "engagement_at_render": 47,
+      "ts": "2026-05-19T17:45:00.000Z",
+      "classification_reason": "frontier RSS lab editorial",
+      "corroboration_count": 2,
+      "corroborated_entities": [
+        "Google AI (2-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "likely-surface",
+      "class_tag": "cross-source",
+      "author": "maven_hq",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@maven_hq/video/7598993390599982391",
+      "title": "@maven_hq: 3 lectures to learn Agentic AI. Find them all for free on Maven. Link in bio. #maven #ai #llms #agentica",
+      "title_teaser": "@maven_hq: 3 lectures to learn Agentic AI. Find them all for free on Maven. Link in bio. #maven #ai ",
+      "engagement_at_render": 13709,
+      "ts": "2026-01-24T18:15:52.000Z",
+      "classification_reason": "cross-source corroborated (17 sources)",
+      "corroboration_count": 17,
+      "corroborated_entities": [
+        "Agentic AI (17-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "likely-surface",
+      "class_tag": "cross-source",
+      "author": "mannyfernandezsv",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@mannyfernandezsv/video/7635734921205615885",
+      "title": "@mannyfernandezsv: Former Google CEO Eric Schmidt explains why \"Agentic AI\" is the next massive gold mine. He predicts that the next two ye…",
+      "title_teaser": "@mannyfernandezsv: Former Google CEO Eric Schmidt explains why \"Agentic AI\" is the next massive gold",
+      "engagement_at_render": 7933,
+      "ts": "2026-05-03T18:31:46.000Z",
+      "classification_reason": "cross-source corroborated (17 sources)",
+      "corroboration_count": 17,
+      "corroborated_entities": [
+        "Former Google CEO (2-src)",
+        "Eric Schmidt (2-src)",
+        "Agentic AI (17-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "likely-surface",
+      "class_tag": "cross-source",
+      "author": "itvnews",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@itvnews/video/7463516400779316512",
+      "title": "@itvnews: What is Agentic AI that could outdate ChatGPT and how does the emerging artificial intelligence work? @sam__leader expla…",
+      "title_teaser": "@itvnews: What is Agentic AI that could outdate ChatGPT and how does the emerging artificial intelli",
+      "engagement_at_render": 6233,
+      "ts": "2025-01-24T16:15:36.000Z",
+      "classification_reason": "cross-source corroborated (17 sources)",
+      "corroboration_count": 17,
+      "corroborated_entities": [
+        "Agentic AI (17-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "likely-surface",
+      "class_tag": "cross-source",
+      "author": "pro.glitch",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@pro.glitch/video/7634840547777170701",
+      "title": "@pro.glitch: Agentic AI #learnontiktok #agenticai #aiagent",
+      "title_teaser": "@pro.glitch: Agentic AI #learnontiktok #agenticai #aiagent",
+      "engagement_at_render": 571,
+      "ts": "2026-05-01T22:00:00.000Z",
+      "classification_reason": "cross-source corroborated (17 sources)",
+      "corroboration_count": 17,
+      "corroborated_entities": [
+        "Agentic AI (17-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "likely-surface",
+      "class_tag": "cross-source",
+      "author": "phoebekuhn",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@phoebekuhn/video/7570396451222736146",
+      "title": "@phoebekuhn: Heard the buzz around AI agents? Here’s what you need to know. It's called Agentic AI. Where ChatGPT responds to prompts…",
+      "title_teaser": "@phoebekuhn: Heard the buzz around AI agents? Here’s what you need to know. It's called Agentic AI. ",
+      "engagement_at_render": 145,
+      "ts": "2025-11-08T16:44:42.000Z",
+      "classification_reason": "cross-source corroborated (17 sources)",
+      "corroboration_count": 17,
+      "corroborated_entities": [
+        "Agentic AI (17-src)",
+        "An AI Agent (2-src)",
+        "AI Marketing (2-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "likely-surface",
+      "class_tag": "cross-source",
+      "author": "crizzen_ai",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzGOPQmZjf/",
+      "title": "@crizzen_ai: Most enterprise teams we talk to are building AI Agents when they actually need Agentic AI, or they're trying to build A…",
+      "title_teaser": "@crizzen_ai: Most enterprise teams we talk to are building AI Agents when they actually need Agentic",
+      "engagement_at_render": 4,
+      "ts": "2026-05-26T10:23:48.000Z",
+      "classification_reason": "cross-source corroborated (17 sources)",
+      "corroboration_count": 17,
+      "corroborated_entities": [
+        "Agentic AI (17-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "likely-surface",
+      "class_tag": "cross-source",
+      "author": "spotlightbizth",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzLfXfk3SN/",
+      "title": "@spotlightbizth: แรงงานไทยกำลังยืนอยู่หน้าคลื่นลูกใหม่ของ AI ที่อาจเข้ามาเปลี่ยนรูปแบบการทำงานครั้งใหญ่ จากเดิมที่ AI เป็นเพียงผู้ช่วยตอบ…",
+      "title_teaser": "@spotlightbizth: แรงงานไทยกำลังยืนอยู่หน้าคลื่นลูกใหม่ของ AI ที่อาจเข้ามาเปลี่ยนรูปแบบการทำงานครั้งใ",
+      "engagement_at_render": 2,
+      "ts": "2026-05-26T11:09:50.000Z",
+      "classification_reason": "cross-source corroborated (17 sources)",
+      "corroboration_count": 17,
+      "corroborated_entities": [
+        "Agentic AI (17-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "likely-surface",
+      "class_tag": "cross-source",
+      "author": "ntuspms",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzKZ6foNoz/",
+      "title": "@ntuspms: ⚡️AI is changing cybersecurity — but how do we stay ahead of the threats while building the future responsibly? Join us …",
+      "title_teaser": "@ntuspms: ⚡️AI is changing cybersecurity — but how do we stay ahead of the threats while building th",
+      "engagement_at_render": 2,
+      "ts": "2026-05-26T11:00:24.000Z",
+      "classification_reason": "cross-source corroborated (17 sources)",
+      "corroboration_count": 17,
+      "corroborated_entities": [
+        "Agentic AI (17-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "likely-surface",
+      "class_tag": "cross-source",
+      "author": "binus_executive_education",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzKduaD-BE/",
+      "title": "@binus_executive_education: Generative AI vs Agentic AI: Apa Perbedaannya? Keduanya merupakan bagian dari perkembangan kecerdasan buatan, tetapi mem…",
+      "title_teaser": "@binus_executive_education: Generative AI vs Agentic AI: Apa Perbedaannya? Keduanya merupakan bagian",
+      "engagement_at_render": 1,
+      "ts": "2026-05-26T11:00:07.000Z",
+      "classification_reason": "cross-source corroborated (17 sources)",
+      "corroboration_count": 17,
+      "corroborated_entities": [
+        "Generative AI (3-src)",
+        "Agentic AI (17-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "likely-surface",
+      "class_tag": "cross-source",
+      "author": "lamrintechskillsuniversity",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzH5xsFxUz/",
+      "title": "@lamrintechskillsuniversity: 🤖✨ Want to build AI that can think, act & solve problems independently? Welcome to the future of technology with B.Tech…",
+      "title_teaser": "@lamrintechskillsuniversity: 🤖✨ Want to build AI that can think, act & solve problems independently",
+      "engagement_at_render": 1,
+      "ts": "2026-05-26T10:38:47.000Z",
+      "classification_reason": "cross-source corroborated (17 sources)",
+      "corroboration_count": 17,
+      "corroborated_entities": [
+        "Agentic AI (17-src)",
+        "Prompt Engineering (4-src)",
+        "Admissions Open (3-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "likely-surface",
+      "class_tag": "cross-source",
+      "author": "flairtechnologies",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzD3gzyX4E/",
+      "title": "@flairtechnologies: 🚀 Struggling to get placed in IT? Become an AI Engineer in just 60 Days with complete job support from Flair Technologi…",
+      "title_teaser": "@flairtechnologies: 🚀 Struggling to get placed in IT? Become an AI Engineer in just 60 Days with co",
+      "engagement_at_render": 1,
+      "ts": "2026-05-26T10:03:15.000Z",
+      "classification_reason": "cross-source corroborated (17 sources)",
+      "corroboration_count": 17,
+      "corroborated_entities": [
+        "Agentic AI (17-src)",
+        "Prompt Engineering (4-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "likely-surface",
+      "class_tag": "cross-source",
+      "author": "awssbgumt",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzMgTPDSKP/",
+      "title": "@awssbgumt: 🎙️ 𝐁𝐞𝐲𝐨𝐧𝐝 𝐂𝐡𝐚𝐭𝐛𝐨𝐭𝐬: 𝐓𝐡𝐞 𝐑𝐞𝐚𝐥𝐢𝐭𝐲 𝐨𝐟 𝐀𝐠𝐞𝐧𝐭𝐢𝐜 𝐀𝐈 𝐢𝐧 𝟐𝟎𝟐𝟔 What happens when AI mov…",
+      "title_teaser": "@awssbgumt: 🎙️ 𝐁𝐞𝐲𝐨𝐧𝐝 𝐂𝐡𝐚𝐭𝐛𝐨𝐭𝐬: 𝐓𝐡𝐞 𝐑𝐞𝐚𝐥𝐢𝐭𝐲 𝐨𝐟 𝐀𝐠𝐞𝐧𝐭𝐢𝐜 𝐀𝐈 𝐢𝐧 \ud835",
+      "engagement_at_render": 0,
+      "ts": "2026-05-26T11:18:41.000Z",
+      "classification_reason": "cross-source corroborated (17 sources)",
+      "corroboration_count": 17,
+      "corroborated_entities": [
+        "Agentic AI (17-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "today",
+      "class_tag": "today-misc",
+      "author": "adam.digital",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@adam.digital/video/7642698843066322197",
+      "title": "@adam.digital: Google just dropped Gemini Omni. Here’s what you need to know #google #geminiomni #gemini @Google",
+      "title_teaser": "@adam.digital: Google just dropped Gemini Omni. Here’s what you need to know #google #geminiomni #ge",
+      "engagement_at_render": 125,
+      "ts": "2026-05-22T12:54:57.000Z",
+      "classification_reason": "whitelist orphan (uncategorized)",
+      "corroboration_count": 7,
+      "corroborated_entities": [
+        "Gemini Omni (7-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "today",
+      "class_tag": "today-misc",
+      "author": "handlytech",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYwgW_soC6k/",
+      "title": "@handlytech: I sent my AI to film school. Not to copy a random image. To study how a director thinks. This video was made with invide…",
+      "title_teaser": "@handlytech: I sent my AI to film school. Not to copy a random image. To study how a director thinks",
+      "engagement_at_render": 118,
+      "ts": "2026-05-25T10:17:20.000Z",
+      "classification_reason": "whitelist orphan (uncategorized)",
+      "corroboration_count": 7,
+      "corroborated_entities": [
+        "The AI (7-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "today",
+      "class_tag": "today-misc",
+      "author": "tommythings",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@tommythings/video/7642403786949954836",
+      "title": "@tommythings: Google baru aja ngerilis Gemini Omni, dan menurut gw ini salah satu update AI video paling gila tahun ini. Bayangin, sek…",
+      "title_teaser": "@tommythings: Google baru aja ngerilis Gemini Omni, dan menurut gw ini salah satu update AI video pa",
+      "engagement_at_render": 81,
+      "ts": "2026-05-21T17:50:01.000Z",
+      "classification_reason": "whitelist orphan (uncategorized)",
+      "corroboration_count": 7,
+      "corroborated_entities": [
+        "Gemini Omni (7-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "today",
+      "class_tag": "named-voice",
+      "author": "sairahul1",
+      "source": "x",
+      "url": "https://x.com/sairahul1/status/2058833433099641183",
+      "title": "@sairahul1: They quoted him $19,000. He opened Claude instead. Same result. One afternoon. $20/month. The gap between knowing how to…",
+      "title_teaser": "@sairahul1: They quoted him $19,000. He opened Claude instead. Same result. One afternoon. $20/month",
+      "engagement_at_render": 9194,
+      "ts": "Mon May 25 08:51:56 +0000 2026",
+      "classification_reason": "research-named handle",
+      "corroboration_count": 6,
+      "corroborated_entities": [
+        "/month (6-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "today",
+      "class_tag": "today-misc",
+      "author": "rileybrown.ai",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@rileybrown.ai/video/7605369643275963679",
+      "title": "@rileybrown.ai: Oh my.. this shouldn't be possible Creating a full stack mobile app in 117 seconds... > Frontend, Backend, API's, Paymen…",
+      "title_teaser": "@rileybrown.ai: Oh my.. this shouldn't be possible Creating a full stack mobile app in 117 seconds..",
+      "engagement_at_render": 59156,
+      "ts": "2026-02-10T22:38:38.000Z",
+      "classification_reason": "whitelist orphan (uncategorized)",
+      "corroboration_count": 3,
+      "corroborated_entities": [
+        "App Store (3-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "today",
+      "class_tag": "today-misc",
+      "author": "sabrina_ramonov",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@sabrina_ramonov/video/7457297253338828075",
+      "title": "@sabrina_ramonov: Top seven AI tools to build AI agent teams without coding required. These are all low-code platforms for building multi …",
+      "title_teaser": "@sabrina_ramonov: Top seven AI tools to build AI agent teams without coding required. These are all ",
+      "engagement_at_render": 57699,
+      "ts": "2025-01-07T22:02:10.000Z",
+      "classification_reason": "whitelist orphan (uncategorized)",
+      "corroboration_count": 3,
+      "corroborated_entities": [
+        "As AI (3-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "today",
+      "class_tag": "today-misc",
+      "author": "bio_makers1",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@bio_makers1/video/7636225082385353991",
+      "title": "@bio_makers1: Movimientos mas realistas y anatomicos para mis robots Meshy 6 Preview que convierte imágenes en recursos 3D como videos…",
+      "title_teaser": "@bio_makers1: Movimientos mas realistas y anatomicos para mis robots Meshy 6 Preview que convierte i",
+      "engagement_at_render": 36939,
+      "ts": "2026-05-05T02:13:26.000Z",
+      "classification_reason": "whitelist orphan (uncategorized)",
+      "corroboration_count": 2,
+      "corroborated_entities": [
+        "Seedance 2.0 (2-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "today",
+      "class_tag": "today-misc",
+      "author": "therundownai",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYkvl9gk2u8/",
+      "title": "@therundownai: Former Google CEO Eric Schmidt was met with repeated boos while discussing AI during his commencement speech at the Univ…",
+      "title_teaser": "@therundownai: Former Google CEO Eric Schmidt was met with repeated boos while discussing AI during ",
+      "engagement_at_render": 643,
+      "ts": "2026-05-20T20:37:41.000Z",
+      "classification_reason": "whitelist orphan (uncategorized)",
+      "corroboration_count": 2,
+      "corroborated_entities": [
+        "Former Google CEO (2-src)",
+        "Eric Schmidt (2-src)"
+      ],
+      "conviction_stake": 5
+    },
+    {
+      "bucket": "hustler",
+      "class_tag": "hustler",
+      "author": "justinfineberg",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@justinfineberg/video/7332207294224076075",
+      "title": "@justinfineberg: You should stop “asking politely” when using ChatGPT… #artificialintelligence #chatgpt",
+      "title_teaser": "@justinfineberg: You should stop “asking politely” when using ChatGPT… #artificialintelligence #chat",
+      "engagement_at_render": 657115,
+      "ts": "2024-02-05T19:49:49.000Z",
+      "classification_reason": "high-engagement playbook format (saturation)",
+      "corroboration_count": 0,
+      "corroborated_entities": [],
+      "conviction_stake": 2
+    },
+    {
+      "bucket": "hustler",
+      "class_tag": "hustler",
+      "author": "sabrina_ramonov",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@sabrina_ramonov/video/7500591084993645855",
+      "title": "@sabrina_ramonov: 10x better ChatGPT outputs with these simple tricks. You can use these in DeepSeek, Claude, Gemini, etc too I just menti…",
+      "title_teaser": "@sabrina_ramonov: 10x better ChatGPT outputs with these simple tricks. You can use these in DeepSeek",
+      "engagement_at_render": 164412,
+      "ts": "2025-05-04T14:04:48.000Z",
+      "classification_reason": "high-engagement playbook format (saturation)",
+      "corroboration_count": 0,
+      "corroborated_entities": [],
+      "conviction_stake": 2
+    }
+  ],
+  "dropped_as_noise": [
+    {
+      "author": "xai",
+      "source": "x",
+      "url": "https://x.com/xai/status/2058973760708091907",
+      "title_teaser": "@xai: Grok Build is now available in Beta for all SuperGrok and X Premium+ users. Use Plan Mode, cre",
+      "engagement_at_render": 269669,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "karpathy",
+      "source": "x",
+      "url": "https://x.com/karpathy/status/2058584498225467846",
+      "title_teaser": "@karpathy: @yash1_ @shreyansj iirc Geoff Hinton’s official title at Google at one point was “intern”",
+      "engagement_at_render": 5389,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "karpathy",
+      "source": "x",
+      "url": "https://x.com/karpathy/status/2058576120870789173",
+      "title_teaser": "@karpathy: @shreyansj It’s refreshing to see a company of this size successfully call bs on the whol",
+      "engagement_at_render": 12124,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "GoogleDeepMind",
+      "source": "x",
+      "url": "https://x.com/GoogleDeepMind/status/2057898091479527633",
+      "title_teaser": "@GoogleDeepMind: Find out more ↓ https://t.co/QX1u9Sv3os",
+      "engagement_at_render": 268,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "GoogleDeepMind",
+      "source": "x",
+      "url": "https://x.com/GoogleDeepMind/status/2057842131142590512",
+      "title_teaser": "@GoogleDeepMind: Project Genie 🤝 @GoogleMaps Street View You can now take real U.S. places and tran",
+      "engagement_at_render": 3770,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "sama",
+      "source": "x",
+      "url": "https://x.com/sama/status/2057515035472380237",
+      "title_teaser": "@sama: the attack at the mosque in san diego is one of the most chilling i have seen. my deepest con",
+      "engagement_at_render": 31828,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "GoogleDeepMind",
+      "source": "x",
+      "url": "https://x.com/GoogleDeepMind/status/2057256259037131226",
+      "title_teaser": "@GoogleDeepMind: Our teams put it to the test on a real-world puzzle: analyzing a rare genetic disea",
+      "engagement_at_render": 327,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "GoogleDeepMind",
+      "source": "x",
+      "url": "https://x.com/GoogleDeepMind/status/2057191599675961816",
+      "title_teaser": "@GoogleDeepMind: Find out more ↓ https://t.co/fs5hnPSMfF",
+      "engagement_at_render": 266,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "GoogleDeepMind",
+      "source": "x",
+      "url": "https://x.com/GoogleDeepMind/status/2056893982060528016",
+      "title_teaser": "@GoogleDeepMind: Here's how ↓ https://t.co/WX1d9dYZvc",
+      "engagement_at_render": 351,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "sama",
+      "source": "x",
+      "url": "https://x.com/sama/status/2056827105401614656",
+      "title_teaser": "@sama: customers are increasingly asking us for certainty on capacity. as models get better, we expe",
+      "engagement_at_render": 18688,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "GoogleDeepMind",
+      "source": "x",
+      "url": "https://x.com/GoogleDeepMind/status/2056826905505247393",
+      "title_teaser": "@GoogleDeepMind: Find out more → https://t.co/fs5hnPSMfF",
+      "engagement_at_render": 271,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2059223911011930606",
+      "title_teaser": "@iScienceLuvr: QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks \"We release ",
+      "engagement_at_render": 17,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2059221772776665449",
+      "title_teaser": "@iScienceLuvr: abs: https://t.co/uewtLABjmj",
+      "engagement_at_render": 4,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2059220940291191166",
+      "title_teaser": "@iScienceLuvr: @yacineMTB you keep posting this!! https://t.co/qw9y48yHUx",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bcherny",
+      "source": "x",
+      "url": "https://x.com/bcherny/status/2059217407386771911",
+      "title_teaser": "@bcherny: > … [W]e keep finding things that are mysterious, even unsettling. We find structures that",
+      "engagement_at_render": 1162,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2059176188644635078",
+      "title_teaser": "@iScienceLuvr: https://t.co/fGNuXaJPVU",
+      "engagement_at_render": 30,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2059119914510958839",
+      "title_teaser": "@iScienceLuvr: @parmita ❤️🙏 thank you for your support parm!!",
+      "engagement_at_render": 23,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "simonw",
+      "source": "x",
+      "url": "https://x.com/simonw/status/2059069504655933446",
+      "title_teaser": "@simonw: @tharshan_09 I don't particularly care - too many tests is better than too few tests now th",
+      "engagement_at_render": 5,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "simonw",
+      "source": "x",
+      "url": "https://x.com/simonw/status/2059069282844381654",
+      "title_teaser": "@simonw: ... plus a bonus section of transcript from the Oxide and Friends 2026 predictions episode ",
+      "engagement_at_render": 109,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2059046883004498093",
+      "title_teaser": "@iScienceLuvr: @Sentdex Oh yeah I'm never removing it now ;)",
+      "engagement_at_render": 14,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "ylecun",
+      "source": "x",
+      "url": "https://x.com/ylecun/status/2059003922296013112",
+      "title_teaser": "@ylecun: You are mistaken. The entire system of publications and peer review is specifically designe",
+      "engagement_at_render": 115,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "simonw",
+      "source": "x",
+      "url": "https://x.com/simonw/status/2058992461381562382",
+      "title_teaser": "@simonw: Do you have your coding agents include automated tests for the code that they write?",
+      "engagement_at_render": 310,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bcherny",
+      "source": "x",
+      "url": "https://x.com/bcherny/status/2058985598833000778",
+      "title_teaser": "@bcherny: @RicWainwright1 Could you record a video or screenshot what you’re seeing?",
+      "engagement_at_render": 3,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bcherny",
+      "source": "x",
+      "url": "https://x.com/bcherny/status/2058983424338141554",
+      "title_teaser": "@bcherny: @MalikUDraz @vasuman That’s a bummer to hear. Is there something specific we could have do",
+      "engagement_at_render": 4,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2058887286612447734",
+      "title_teaser": "@iScienceLuvr: Appreciate people checking in on me, but dw I can handle this. I've been hated on for",
+      "engagement_at_render": 516,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bcherny",
+      "source": "x",
+      "url": "https://x.com/bcherny/status/2058881983908839844",
+      "title_teaser": "@bcherny: @lotfullah_ Make sure you’re using auto mode. No permission prompts, but much safer than d",
+      "engagement_at_render": 622,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bcherny",
+      "source": "x",
+      "url": "https://x.com/bcherny/status/2058849205993533560",
+      "title_teaser": "@bcherny: @eric_skavinski @alrzasadi The default is 1h for subscription plans and 5m for api plans",
+      "engagement_at_render": 14,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2058843439018775025",
+      "title_teaser": "@iScienceLuvr: Appreciate it :)",
+      "engagement_at_render": 305,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2058842108216430757",
+      "title_teaser": "@iScienceLuvr: @segyges many such cases",
+      "engagement_at_render": 8,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2058833339327643694",
+      "title_teaser": "@iScienceLuvr: @Mathonymics exactly!",
+      "engagement_at_render": 10,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2058832344220566011",
+      "title_teaser": "@iScienceLuvr: @smitamishra4321 @SophontAI @SacBizPublisher thank you ❤️",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2058831518785826868",
+      "title_teaser": "@iScienceLuvr: @RandomRonaldo21 @Singularitarian 🙏🙏❤️❤️",
+      "engagement_at_render": 5,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2058830435581632878",
+      "title_teaser": "@iScienceLuvr: appreciate the support! it was great working with you as well!",
+      "engagement_at_render": 208,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2058830242719142337",
+      "title_teaser": "@iScienceLuvr: @Observer_ofyou where did you even find this lol",
+      "engagement_at_render": 181,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2058827101068005887",
+      "title_teaser": "@iScienceLuvr: @DougCatsby 🤣🤣🤣🤣",
+      "engagement_at_render": 39,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2058826968297332887",
+      "title_teaser": "@iScienceLuvr: @meowbooksj good idea",
+      "engagement_at_render": 38,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2058826671856525591",
+      "title_teaser": "@iScienceLuvr: @AndyHow07099846 oh yeah i have no problem with it :) the problem is my notifications",
+      "engagement_at_render": 67,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2058825851844821482",
+      "title_teaser": "@iScienceLuvr: @tunguz 🤣🤣🤣",
+      "engagement_at_render": 54,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iScienceLuvr",
+      "source": "x",
+      "url": "https://x.com/iScienceLuvr/status/2058707724251410524",
+      "title_teaser": "@iScienceLuvr: @mihirneal Thank you, I'll need it lol",
+      "engagement_at_render": 114,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "simonw",
+      "source": "x",
+      "url": "https://x.com/simonw/status/2058705030262530055",
+      "title_teaser": "@simonw: More details on the Datasette blog: https://t.co/idkvkGECar",
+      "engagement_at_render": 109,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059168113179205678",
+      "title_teaser": "@theo: @chribjel @jullerino @thsottiaux I said $2,000 not $20,000",
+      "engagement_at_render": 55,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059166318646231056",
+      "title_teaser": "@theo: @kran27_ @SnazzyLabs Oh my god",
+      "engagement_at_render": 12,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059164980977758573",
+      "title_teaser": "@theo: @GergelyOrosz Love Dell monitors. Get the XDR because you spend a lot of time looking at a sc",
+      "engagement_at_render": 163,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059163347984212454",
+      "title_teaser": "@theo: @jullerino This is basically what I have with the 10x from the 5/5 event @thsottiaux I think ",
+      "engagement_at_render": 255,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059157228612198783",
+      "title_teaser": "@theo: @zxcodes Sure but it's a funny one",
+      "engagement_at_render": 31,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059153580419162285",
+      "title_teaser": "@theo: @poffyit @unboringtech No, there's a typo with a word missing and two spaces. That's a mistak",
+      "engagement_at_render": 23,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059153304786215109",
+      "title_teaser": "@theo: @ex0t1clol Lines up tbh",
+      "engagement_at_render": 81,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059152525874626597",
+      "title_teaser": "@theo: @RyanJTopps @atmoio This lines up with what my friends at Big Cos have been saying",
+      "engagement_at_render": 4,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059152315425419290",
+      "title_teaser": "@theo: @rykune @atmoio I opened by saying it's hard to define. I gave an example of my old (bad) def",
+      "engagement_at_render": 17,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059149365672075634",
+      "title_teaser": "@theo: @growing_daniel Underrated tweet",
+      "engagement_at_render": 39,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059149280208941222",
+      "title_teaser": "@theo: @thsottiaux Please don’t lose your edge https://t.co/J0UgMVesGa",
+      "engagement_at_render": 45,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059144395082072439",
+      "title_teaser": "@theo: @unboringtech omfg",
+      "engagement_at_render": 109,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059144200021856523",
+      "title_teaser": "@theo: @KorduGG 🙃 100% agree re: 5.5, never seen it outright ignore the instruction files like this",
+      "engagement_at_render": 76,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "OfficialLoganK",
+      "source": "x",
+      "url": "https://x.com/OfficialLoganK/status/2059125027250008231",
+      "title_teaser": "@OfficialLoganK: @quantumaidev something we will explore",
+      "engagement_at_render": 149,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "OfficialLoganK",
+      "source": "x",
+      "url": "https://x.com/OfficialLoganK/status/2059121446195167324",
+      "title_teaser": "@OfficialLoganK: @rvivek yeah wild, this is what we will see more of for the rest of the year and be",
+      "engagement_at_render": 133,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "OfficialLoganK",
+      "source": "x",
+      "url": "https://x.com/OfficialLoganK/status/2059121159921389638",
+      "title_teaser": "@OfficialLoganK: @paytondev ♥️♥️",
+      "engagement_at_render": 32,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059118757012967574",
+      "title_teaser": "@theo: @SnazzyLabs This reply hurt me so much https://t.co/CPLmKxzD3c",
+      "engagement_at_render": 257,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059118377055183315",
+      "title_teaser": "@theo: @Cartidise @cumpisshomosex This is actually the stupidest reply I’ve ever seen on Twitter, co",
+      "engagement_at_render": 134,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059112493864374305",
+      "title_teaser": "@theo: @teej_dv @poteto Like Haskell?",
+      "engagement_at_render": 15,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "trq212",
+      "source": "x",
+      "url": "https://x.com/trq212/status/2059100885188256028",
+      "title_teaser": "@trq212: @0interestrates ty for your creative exploration, resisting the algorithm https://t.co/faB7",
+      "engagement_at_render": 214,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059099924420235659",
+      "title_teaser": "@theo: This video would have went so hard 1 year ago",
+      "engagement_at_render": 1709,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059098667852943717",
+      "title_teaser": "@theo: @erd0xbc 🫡",
+      "engagement_at_render": 27,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theo",
+      "source": "x",
+      "url": "https://x.com/theo/status/2059057664928448966",
+      "title_teaser": "@theo: @srsholmes @netskymusic There’s a lot of us! Netsky is one of us lol he used to skate and als",
+      "engagement_at_render": 12,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "OfficialLoganK",
+      "source": "x",
+      "url": "https://x.com/OfficialLoganK/status/2059012221573984480",
+      "title_teaser": "@OfficialLoganK: @Hiteshdotcom lots of work on our side to make sure these are high quality apps, I ",
+      "engagement_at_render": 193,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "OfficialLoganK",
+      "source": "x",
+      "url": "https://x.com/OfficialLoganK/status/2059011870913417635",
+      "title_teaser": "@OfficialLoganK: @dineshxr @GoogleAIStudio indeed",
+      "engagement_at_render": 32,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "OfficialLoganK",
+      "source": "x",
+      "url": "https://x.com/OfficialLoganK/status/2059011785802527102",
+      "title_teaser": "@OfficialLoganK: @stevencasteelX @giffmana @GoogleAIStudio @Android yes! Lyria 3 in the API availabl",
+      "engagement_at_render": 5,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "OfficialLoganK",
+      "source": "x",
+      "url": "https://x.com/OfficialLoganK/status/2059003211365888318",
+      "title_teaser": "@OfficialLoganK: @AntDX316 @GoogleAIStudio @Android yeah agreed, we can add this!",
+      "engagement_at_render": 5,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "OfficialLoganK",
+      "source": "x",
+      "url": "https://x.com/OfficialLoganK/status/2059003021842174132",
+      "title_teaser": "@OfficialLoganK: @Devoid_5 @GoogleAIStudio @Android the goal is for us to do both of these!",
+      "engagement_at_render": 20,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "OfficialLoganK",
+      "source": "x",
+      "url": "https://x.com/OfficialLoganK/status/2059002849561059512",
+      "title_teaser": "@OfficialLoganK: @shubh19 @GoogleAIStudio @Android yes, we will have people do that next : )",
+      "engagement_at_render": 70,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "steipete",
+      "source": "x",
+      "url": "https://x.com/steipete/status/2059231889924243663",
+      "title_teaser": "@steipete: @AugVivaldelli ajv is gone now! (still in there since transitive dependencies, but at lea",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "steipete",
+      "source": "x",
+      "url": "https://x.com/steipete/status/2059231739621315056",
+      "title_teaser": "@steipete: @nfxDevelopment All of it. Native libs are a PITA.",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "steipete",
+      "source": "x",
+      "url": "https://x.com/steipete/status/2059231504631238708",
+      "title_teaser": "@steipete: @pwk very cool!",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "steipete",
+      "source": "x",
+      "url": "https://x.com/steipete/status/2059231219477254477",
+      "title_teaser": "@steipete: @Dimillian yo u need https://t.co/SEj2XRpaD1 - it includes a parallels adapter + checkpoi",
+      "engagement_at_render": 15,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "mattpocockuk",
+      "source": "x",
+      "url": "https://x.com/mattpocockuk/status/2059186837730558175",
+      "title_teaser": "@mattpocockuk: @m13v_ Clankers get muted",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "mattpocockuk",
+      "source": "x",
+      "url": "https://x.com/mattpocockuk/status/2059185029180215388",
+      "title_teaser": "@mattpocockuk: @hunvreus @badlogicgames @levelsio You might be measuring how productive you are by w",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "mattpocockuk",
+      "source": "x",
+      "url": "https://x.com/mattpocockuk/status/2059179304643146223",
+      "title_teaser": "@mattpocockuk: @brunodagnino Nice idea having usage limits visible too",
+      "engagement_at_render": 33,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2059101533812437164",
+      "title_teaser": "@MatthewBerman: @petergyang @david__booth @nateliason @clairevo Sounds fun",
+      "engagement_at_render": 9,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2059094161215885592",
+      "title_teaser": "@MatthewBerman: @nathan_covey Not a hot take. Facts",
+      "engagement_at_render": 39,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HamelHusain",
+      "source": "x",
+      "url": "https://x.com/HamelHusain/status/2059087546223845738",
+      "title_teaser": "@HamelHusain: @HanchungLee 🤝",
+      "engagement_at_render": 13,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2059066100198134030",
+      "title_teaser": "@MatthewBerman: @beffjezos Roadster all day",
+      "engagement_at_render": 39,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2059059004169728009",
+      "title_teaser": "@MatthewBerman: @lalopenguin i like high effort",
+      "engagement_at_render": 6,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2059031270450151906",
+      "title_teaser": "@MatthewBerman: @venturetwins It’s all about lighting. Remove all natural light, use key lights to l",
+      "engagement_at_render": 17,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2059030576636809452",
+      "title_teaser": "@MatthewBerman: This could have been the Apple Car",
+      "engagement_at_render": 434,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "steipete",
+      "source": "x",
+      "url": "https://x.com/steipete/status/2059018630260560151",
+      "title_teaser": "@steipete: @techgirl1908 clanker wrote the skill, feel free to adapt.",
+      "engagement_at_render": 27,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "mattpocockuk",
+      "source": "x",
+      "url": "https://x.com/mattpocockuk/status/2059016613077115058",
+      "title_teaser": "@mattpocockuk: @TomasJansson @Petzein Yeah I just run Sandcastle inside a GitHub action",
+      "engagement_at_render": 7,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "mattpocockuk",
+      "source": "x",
+      "url": "https://x.com/mattpocockuk/status/2059012951126786492",
+      "title_teaser": "@mattpocockuk: @thememecoach I just meant I needed a bit of elaboration to understand your meaning",
+      "engagement_at_render": 5,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "mattpocockuk",
+      "source": "x",
+      "url": "https://x.com/mattpocockuk/status/2059010609451049285",
+      "title_teaser": "@mattpocockuk: @thememecoach Might need a few more words there",
+      "engagement_at_render": 12,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "mattpocockuk",
+      "source": "x",
+      "url": "https://x.com/mattpocockuk/status/2059009502024753339",
+      "title_teaser": "@mattpocockuk: @Petzein Not interact with it, these are AFK runs. But yeah, it's just on GitHub acti",
+      "engagement_at_render": 13,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "mattpocockuk",
+      "source": "x",
+      "url": "https://x.com/mattpocockuk/status/2059009403655803010",
+      "title_teaser": "@mattpocockuk: @dexhorthy Currently just a trigger in the action itself: https://t.co/MbXbEiph1Y",
+      "engagement_at_render": 32,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2058991801911103750",
+      "title_teaser": "@MatthewBerman: @levelsio He did raise money, those are legit VCs",
+      "engagement_at_render": 33,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2058979509421166875",
+      "title_teaser": "@MatthewBerman: @ScatteraAI He is funny",
+      "engagement_at_render": 9,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2058978860180652184",
+      "title_teaser": "@MatthewBerman: @DenLoginoff @atmoio https://t.co/Bf63nBwBvZ",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2058976253823406542",
+      "title_teaser": "@MatthewBerman: @AaronHorvitz @the_tech_space @atmoio I also enjoy his content",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2058975216110641519",
+      "title_teaser": "@MatthewBerman: @the_tech_space @ThePrimeagen @atmoio 😂",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2058975134384611509",
+      "title_teaser": "@MatthewBerman: @g5p8v8r7s7 @Chrisgpt Isn’t that from a 90s song?",
+      "engagement_at_render": 3,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2058973504759009442",
+      "title_teaser": "@MatthewBerman: @yacinelearning What?",
+      "engagement_at_render": 12,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "mattpocockuk",
+      "source": "x",
+      "url": "https://x.com/mattpocockuk/status/2058971586468642853",
+      "title_teaser": "@mattpocockuk: @sunncynn @hunvreus @badlogicgames @levelsio Not mine, Teddy Roosevelt's",
+      "engagement_at_render": 7,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "mattpocockuk",
+      "source": "x",
+      "url": "https://x.com/mattpocockuk/status/2058970951224582173",
+      "title_teaser": "@mattpocockuk: @hunvreus @badlogicgames @levelsio Develop a more honest relationship with time Also,",
+      "engagement_at_render": 210,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2058970422188855549",
+      "title_teaser": "@MatthewBerman: @atmoio Haha ok that’s a coincidence. Ok then obviously my defenses are extra high t",
+      "engagement_at_render": 24,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MatthewBerman",
+      "source": "x",
+      "url": "https://x.com/MatthewBerman/status/2058969430789603344",
+      "title_teaser": "@MatthewBerman: @the_tech_space Haha it does feel weird arguing about the OTHER getting more views",
+      "engagement_at_render": 9,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "kevinroose",
+      "source": "x",
+      "url": "https://x.com/kevinroose/status/2059049565366743153",
+      "title_teaser": "@kevinroose: took my first Starlink United flight and it’s officially over for me https://t.co/HV4S2",
+      "engagement_at_render": 304,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2059029365002744034",
+      "title_teaser": "@bilawalsidhu: This is pretty cool — basically “creative upscaling” for 3d scans https://t.co/SclNAe",
+      "engagement_at_render": 259,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "dwarkesh_sp",
+      "source": "x",
+      "url": "https://x.com/dwarkesh_sp/status/2058926342943715420",
+      "title_teaser": "@dwarkesh_sp: Watch the full interview:",
+      "engagement_at_render": 118,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "NetworkChuck",
+      "source": "x",
+      "url": "https://x.com/NetworkChuck/status/2058917740472127887",
+      "title_teaser": "@NetworkChuck: @MichaelHyatt @Paperclip_AI @AlexFinn @gregisenberg @dotta Video coming soon on that ",
+      "engagement_at_render": 44,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "NetworkChuck",
+      "source": "x",
+      "url": "https://x.com/NetworkChuck/status/2058666609321939149",
+      "title_teaser": "@NetworkChuck: @MichaelHyatt @Hermes_agentAI @gregisenberg @AlexFinn If you have a spare Mac, that’s",
+      "engagement_at_render": 204,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058664839325651155",
+      "title_teaser": "@bilawalsidhu: @janusch_patas True I really wish it was perfect",
+      "engagement_at_render": 5,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058649809590915201",
+      "title_teaser": "@bilawalsidhu: @gbarthmaron @alexanderchen thanks! \"Gopro camera pov of this camera trajectory in lo",
+      "engagement_at_render": 6,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "dwarkesh_sp",
+      "source": "x",
+      "url": "https://x.com/dwarkesh_sp/status/2058624353965908245",
+      "title_teaser": "@dwarkesh_sp: How did Tensor Cores massively increase the throughput of Nvidia chips? @reinerpope ex",
+      "engagement_at_render": 682,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058612179633377770",
+      "title_teaser": "@bilawalsidhu: @alexanderchen yeah left still image is the input; right is the output",
+      "engagement_at_render": 14,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058608545809973628",
+      "title_teaser": "@bilawalsidhu: @rpnickson Which app are u using Omni in? I’m using it through Google flow and haven’",
+      "engagement_at_render": 7,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058606278839038114",
+      "title_teaser": "@bilawalsidhu: @championswimmer lmfao",
+      "engagement_at_render": 8,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "NetworkChuck",
+      "source": "x",
+      "url": "https://x.com/NetworkChuck/status/2058604578912764194",
+      "title_teaser": "@NetworkChuck: @code_kartik @Athanox_ Nope. Not sponsored by Hermes or Nous Research.",
+      "engagement_at_render": 6,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058603154522988913",
+      "title_teaser": "@bilawalsidhu: actual 3d reconstruction for reference - lodhi garden in new delhi https://t.co/Hykzp",
+      "engagement_at_render": 56,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "kevinroose",
+      "source": "x",
+      "url": "https://x.com/kevinroose/status/2058599098752631214",
+      "title_teaser": "@kevinroose: @MattZeitlin 38 and it’s stressful",
+      "engagement_at_render": 318,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058598879147205035",
+      "title_teaser": "@bilawalsidhu: @bhai_joshi17 i actually wasn't planning on making one but maybe it's a good idea",
+      "engagement_at_render": 7,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058598766387630225",
+      "title_teaser": "@bilawalsidhu: @awesome_visuals yeah omni can mimic the path well - not a perfect transformation but",
+      "engagement_at_render": 3,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058597414055878744",
+      "title_teaser": "@bilawalsidhu: @TheoMediaAI the heroic quest to gaussian splat the world",
+      "engagement_at_render": 10,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "dwarkesh_sp",
+      "source": "x",
+      "url": "https://x.com/dwarkesh_sp/status/2058594173905936765",
+      "title_teaser": "@dwarkesh_sp: On a chip, even something as basic as selecting one input from a register file has to ",
+      "engagement_at_render": 573,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058593677094609228",
+      "title_teaser": "@bilawalsidhu: Gave omni a 3d camera trajectory and asked it to generate gopro style pov footage htt",
+      "engagement_at_render": 939,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058305469765070857",
+      "title_teaser": "@bilawalsidhu: @ronnyvotel @FlowbyGoogle These are really cool!",
+      "engagement_at_render": 13,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "dwarkesh_sp",
+      "source": "x",
+      "url": "https://x.com/dwarkesh_sp/status/2058261868880572835",
+      "title_teaser": "@dwarkesh_sp: Watch Reiner's full lecture:",
+      "engagement_at_render": 188,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "dwarkesh_sp",
+      "source": "x",
+      "url": "https://x.com/dwarkesh_sp/status/2058261856746377528",
+      "title_teaser": "@dwarkesh_sp: .@reinerpope explains the difference between a CPU and a GPU. A huge chunk of a CPU di",
+      "engagement_at_render": 1722,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058231767211835475",
+      "title_teaser": "@bilawalsidhu: @TheoMediaAI Video to video totally bridges the quality gap - very coherent too; nice",
+      "engagement_at_render": 17,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "NetworkChuck",
+      "source": "x",
+      "url": "https://x.com/NetworkChuck/status/2058230271577555055",
+      "title_teaser": "@NetworkChuck: Doing a massive Hermes deployment today. Full team, isolated VMs, @honchodotdev share",
+      "engagement_at_render": 1812,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "dwarkesh_sp",
+      "source": "x",
+      "url": "https://x.com/dwarkesh_sp/status/2058222363951435788",
+      "title_teaser": "@dwarkesh_sp: @yacineMTB 😆",
+      "engagement_at_render": 68,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "dwarkesh_sp",
+      "source": "x",
+      "url": "https://x.com/dwarkesh_sp/status/2058201489924051413",
+      "title_teaser": "@dwarkesh_sp: Higher clock speed sounds like faster performance - but some ways of pushing it actual",
+      "engagement_at_render": 474,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058026162421444617",
+      "title_teaser": "@bilawalsidhu: @nikitabier @Kyrannio Glad to hear this https://t.co/TEbtT0o4LJ",
+      "engagement_at_render": 52,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058006041061622156",
+      "title_teaser": "@bilawalsidhu: @DanielleFong Lmfao",
+      "engagement_at_render": 8,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2058001415046361435",
+      "title_teaser": "@bilawalsidhu: @shrimpala True in Germany Apple got the clean chit sooner circa 2022 iirc… Google on",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2057995461709984239",
+      "title_teaser": "@bilawalsidhu: @kyr_dreamer It’s a tall order that’s for sure",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2057995354767765821",
+      "title_teaser": "@bilawalsidhu: @shrimpala Yeah Apple look around is much more detailed and higher pano density but c",
+      "engagement_at_render": 1,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2057988394496487663",
+      "title_teaser": "@bilawalsidhu: @rezmeram @nikitabier WAI?",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2057939447912509849",
+      "title_teaser": "@bilawalsidhu: @MattNiessner Definitely truth to it",
+      "engagement_at_render": 4,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bilawalsidhu",
+      "source": "x",
+      "url": "https://x.com/bilawalsidhu/status/2057939279586668906",
+      "title_teaser": "@bilawalsidhu: @kvickart Lol unavoidable",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "eladgil",
+      "source": "x",
+      "url": "https://x.com/eladgil/status/2058632285390553431",
+      "title_teaser": "@eladgil: Song hits around second 33 https://t.co/0XUJoWhfGs",
+      "engagement_at_render": 75,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2058572145131765879",
+      "title_teaser": "@HarryStebbings: \"In five years time, companies will spend more on compute than they will headcount.",
+      "engagement_at_render": 246,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2058202858420326594",
+      "title_teaser": "@HarryStebbings: The moment the VC needs to put pressure on the entrepreneur, they have bet on the w",
+      "engagement_at_render": 306,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2058198269684031617",
+      "title_teaser": "@HarryStebbings: @alexfmac Move to Marylebone mate, my commute is 45 seconds!!!",
+      "engagement_at_render": 94,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2057996433811517695",
+      "title_teaser": "@HarryStebbings: Do VCs Truly Add Value to Companies: \"There are three types of people: 1. Those who",
+      "engagement_at_render": 270,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "eladgil",
+      "source": "x",
+      "url": "https://x.com/eladgil/status/2057925249124159869",
+      "title_teaser": "@eladgil: ❤️",
+      "engagement_at_render": 867,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "nateherk",
+      "source": "x",
+      "url": "https://x.com/nateherk/status/2057868433744613614",
+      "title_teaser": "@nateherk: https://t.co/IxA7bHkiRg",
+      "engagement_at_render": 356,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "eladgil",
+      "source": "x",
+      "url": "https://x.com/eladgil/status/2057840806132867553",
+      "title_teaser": "@eladgil: Story Behind @cerebras $63 Billion IPO w Founder &amp; CEO @andrewdfeldman https://t.co/E6",
+      "engagement_at_render": 182,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2057794688283816363",
+      "title_teaser": "@HarryStebbings: Early-stage investing is very simple. 1. Generational defining founders (top 1%). 2",
+      "engagement_at_render": 298,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "saranormous",
+      "source": "x",
+      "url": "https://x.com/saranormous/status/2057665624592240725",
+      "title_teaser": "@saranormous: Our first office mate for @Conviction and awesome friend, founder and company backer!",
+      "engagement_at_render": 419,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2057629012965699751",
+      "title_teaser": "@HarryStebbings: Token Spend is the New Early-Stage Marketing \"At the early stage, token spend becom",
+      "engagement_at_render": 83,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2057553012256616632",
+      "title_teaser": "@HarryStebbings: The New \"Sub-Figma\" IPO Barrier \"Nothing sub-Figma can IPO and have a decent outcom",
+      "engagement_at_render": 200,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "saranormous",
+      "source": "x",
+      "url": "https://x.com/saranormous/status/2057537309646753902",
+      "title_teaser": "@saranormous: Every startup wants frontier chip perf because it allows you to do new things. The cur",
+      "engagement_at_render": 844,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2057521118953488851",
+      "title_teaser": "@HarryStebbings: Wild stat: when Cerebras went public they made 800 millionaires. Incredible. 🤯",
+      "engagement_at_render": 5484,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2057473113156108647",
+      "title_teaser": "@HarryStebbings: @jasonlk I was trying to be elegant my friend 🤣",
+      "engagement_at_render": 32,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2057462156228993419",
+      "title_teaser": "@HarryStebbings: Spotify 👉 https://t.co/Y9jmRqIlgM Youtube 👉 https://t.co/XSR2LJrBjq Apple Podcast",
+      "engagement_at_render": 357,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2057453857702097215",
+      "title_teaser": "@HarryStebbings: The speed of equity funding rounds are doing a disservice to founders. Seeing so ma",
+      "engagement_at_render": 664,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2057451965945090443",
+      "title_teaser": "@HarryStebbings: @nico_laqua If only you had a 20VC that discusses this … 😉",
+      "engagement_at_render": 15,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "nateherk",
+      "source": "x",
+      "url": "https://x.com/nateherk/status/2057450594512654518",
+      "title_teaser": "@nateherk: Full video here: https://t.co/KxgPQwNPKO",
+      "engagement_at_render": 18,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "nateherk",
+      "source": "x",
+      "url": "https://x.com/nateherk/status/2057450555212013627",
+      "title_teaser": "@nateherk: https://t.co/tbQe5AAnAw",
+      "engagement_at_render": 818,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "saranormous",
+      "source": "x",
+      "url": "https://x.com/saranormous/status/2057444378692698430",
+      "title_teaser": "@saranormous: https://t.co/8WWRVacz6O",
+      "engagement_at_render": 48,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2057272665900290297",
+      "title_teaser": "@HarryStebbings: Why Kingmaking Does Exist Within VC and Why You Should Accept Their Term Sheet at 5",
+      "engagement_at_render": 1335,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2057167723881259360",
+      "title_teaser": "@HarryStebbings: VCs Focus Way Too Much on Credentials When Assessing Founders: \"If you back someone",
+      "engagement_at_render": 497,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2057122676842398131",
+      "title_teaser": "@HarryStebbings: \"The biggest benefit of being a Thiel fellow to me is having between 10-20 other yo",
+      "engagement_at_render": 2863,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "nateherk",
+      "source": "x",
+      "url": "https://x.com/nateherk/status/2056923752407892275",
+      "title_teaser": "@nateherk: @antigravity found a typo. please fix. make no mistake. https://t.co/gBlU3Dr0sA",
+      "engagement_at_render": 42,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2056877751794061348",
+      "title_teaser": "@HarryStebbings: @andrewdfeldman @cerebras Insane 🤯",
+      "engagement_at_render": 22,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2056865943347708021",
+      "title_teaser": "@HarryStebbings: @csertoglu @owner @adamguild Fascinated Cem, has a bridge round ever led to a 10x o",
+      "engagement_at_render": 3,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "nateherk",
+      "source": "x",
+      "url": "https://x.com/nateherk/status/2056855040610963960",
+      "title_teaser": "@nateherk: Full video here: https://t.co/Bb51hwQgzk",
+      "engagement_at_render": 14,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "nateherk",
+      "source": "x",
+      "url": "https://x.com/nateherk/status/2056854990090592274",
+      "title_teaser": "@nateherk: https://t.co/RtYdQfMULR",
+      "engagement_at_render": 352,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "HarryStebbings",
+      "source": "x",
+      "url": "https://x.com/HarryStebbings/status/2056851139648238069",
+      "title_teaser": "@HarryStebbings: Does University Carry Less Value Than Ever? Should Founders Just Dropout and Build?",
+      "engagement_at_render": 154,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "MervinPraison",
+      "source": "x",
+      "url": "https://x.com/MervinPraison/status/2059132831805194409",
+      "title_teaser": "@MervinPraison: Spun up a full website in minutes from the terminal with Grok Build CLI. Plan → appr",
+      "engagement_at_render": 25,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2059091648248758578",
+      "title_teaser": "@askalphaxiv: read more: https://t.co/zTPlV8bFe5",
+      "engagement_at_render": 11,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2059091390680670380",
+      "title_teaser": "@askalphaxiv: read more: https://t.co/h5BjsOGPlI",
+      "engagement_at_render": 15,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "fchollet",
+      "source": "x",
+      "url": "https://x.com/fchollet/status/2059078037371793739",
+      "title_teaser": "@fchollet: Creativity feeds on constraints",
+      "engagement_at_render": 766,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2058780094122840424",
+      "title_teaser": "@askalphaxiv: read more: https://t.co/iHqa9CYqKa",
+      "engagement_at_render": 25,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2058780092067610724",
+      "title_teaser": "@askalphaxiv: This new DeepMind research turns LLMs into Lean proof-search agents, so every step mus",
+      "engagement_at_render": 339,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2058779854078652483",
+      "title_teaser": "@askalphaxiv: read more: https://t.co/keYtGrTcCC",
+      "engagement_at_render": 21,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2058243115811557503",
+      "title_teaser": "@askalphaxiv: https://t.co/RGWpu4LSzd",
+      "engagement_at_render": 20,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "fchollet",
+      "source": "x",
+      "url": "https://x.com/fchollet/status/2058211474217328853",
+      "title_teaser": "@fchollet: If you can learn one thing that's genuinely novel to you, you can learn anything.",
+      "engagement_at_render": 1984,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2058082992468230163",
+      "title_teaser": "@askalphaxiv: read more: https://t.co/I9kk0u9dFt",
+      "engagement_at_render": 20,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2058082818643607908",
+      "title_teaser": "@askalphaxiv: read more: https://t.co/TxISX8qSP5",
+      "engagement_at_render": 26,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2057590092089200927",
+      "title_teaser": "@askalphaxiv: read more: https://t.co/HRuhMBN2sW",
+      "engagement_at_render": 20,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2057586702567317625",
+      "title_teaser": "@askalphaxiv: read more: https://t.co/qxF6nTg7Xh",
+      "engagement_at_render": 32,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2057575598109990959",
+      "title_teaser": "@askalphaxiv: @CAISconf Explore ACM CAIS research papers and system demos on alphaXiv here! https://",
+      "engagement_at_render": 26,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "fchollet",
+      "source": "x",
+      "url": "https://x.com/fchollet/status/2057572065251885376",
+      "title_teaser": "@fchollet: I'm very wrong most of the time",
+      "engagement_at_render": 323,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2057565308853137479",
+      "title_teaser": "@askalphaxiv: Special thanks to @heathercmiller for organizing!",
+      "engagement_at_render": 18,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2057565307296993690",
+      "title_teaser": "@askalphaxiv: Explore ACM CAIS research papers and system demos on alphaXiv here! https://t.co/uHEHm",
+      "engagement_at_render": 33,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "_akhaliq",
+      "source": "x",
+      "url": "https://x.com/_akhaliq/status/2057511089126965440",
+      "title_teaser": "@_akhaliq: paper: https://t.co/IqwvZ6N1U4",
+      "engagement_at_render": 80,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "_akhaliq",
+      "source": "x",
+      "url": "https://x.com/_akhaliq/status/2057511086958452825",
+      "title_teaser": "@_akhaliq: Mix-Quant Quantized Prefilling, Precise Decoding for Agentic LLMs https://t.co/Oi3ys7tmQG",
+      "engagement_at_render": 272,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "_akhaliq",
+      "source": "x",
+      "url": "https://x.com/_akhaliq/status/2057494979853877316",
+      "title_teaser": "@_akhaliq: paper: https://t.co/4RKN4YbG5a",
+      "engagement_at_render": 59,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2057321010160975995",
+      "title_teaser": "@askalphaxiv: read more: https://t.co/wAYoSMY7DF",
+      "engagement_at_render": 32,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "askalphaxiv",
+      "source": "x",
+      "url": "https://x.com/askalphaxiv/status/2057320627762037223",
+      "title_teaser": "@askalphaxiv: read more: https://t.co/DgNk311Msi",
+      "engagement_at_render": 22,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "hardmaru",
+      "source": "x",
+      "url": "https://x.com/hardmaru/status/2059108484055224744",
+      "title_teaser": "@hardmaru: Software Engineer Roles @SakanaAILabs https://t.co/YoDRJ74dCu",
+      "engagement_at_render": 24,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059105818260218216",
+      "title_teaser": "@TheAhmadOsman: Agency doesn’t cost much yet it’s the thing the world lacks the most",
+      "engagement_at_render": 93,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "danshipper",
+      "source": "x",
+      "url": "https://x.com/danshipper/status/2059104306268148197",
+      "title_teaser": "@danshipper: @jasonfreedman @brookeleblanc @every Throwback!!",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "hardmaru",
+      "source": "x",
+      "url": "https://x.com/hardmaru/status/2059101717174870241",
+      "title_teaser": "@hardmaru: @james_riney Japan is back 🚀",
+      "engagement_at_render": 15,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059099473192649162",
+      "title_teaser": "@TheAhmadOsman: @Mayhem4Markets 🦾🔥",
+      "engagement_at_render": 1,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059096320594329648",
+      "title_teaser": "@TheAhmadOsman: @Mayhem4Markets Looking forward to this",
+      "engagement_at_render": 7,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "hardmaru",
+      "source": "x",
+      "url": "https://x.com/hardmaru/status/2059093999902917077",
+      "title_teaser": "@hardmaru: @lulumeservey I feel seen 😅",
+      "engagement_at_render": 29,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059091145313947729",
+      "title_teaser": "@TheAhmadOsman: This will be our very soon",
+      "engagement_at_render": 26,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059061986109874492",
+      "title_teaser": "@TheAhmadOsman: @ARomeoSierra @tenstorrent 🤞🤞🤞",
+      "engagement_at_render": 3,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059059660301226193",
+      "title_teaser": "@TheAhmadOsman: @firstadopter I have been trying to warn people about how vile that company is for a",
+      "engagement_at_render": 13,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059058709175717897",
+      "title_teaser": "@TheAhmadOsman: @dreamworks2050 @mr_r0b0t 💯 💯 💯",
+      "engagement_at_render": 4,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059056542112993464",
+      "title_teaser": "@TheAhmadOsman: @LottoLabs Yup https://t.co/ADMJ1lgJGx",
+      "engagement_at_render": 22,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059052865629392903",
+      "title_teaser": "@TheAhmadOsman: Buy a GPU tried to warn you of this in 280 characters or less https://t.co/TuGPKTjvx",
+      "engagement_at_render": 149,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059037207260742125",
+      "title_teaser": "@TheAhmadOsman: Look at this performance https://t.co/9Vho00fweP",
+      "engagement_at_render": 21,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059027352395350175",
+      "title_teaser": "@TheAhmadOsman: @JASONMCNAB Yup, amazing piece of machinery",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059020282778567097",
+      "title_teaser": "@TheAhmadOsman: @BillyFlynt5853 💯",
+      "engagement_at_render": 3,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059019149460811916",
+      "title_teaser": "@TheAhmadOsman: @JoePro RTX PRO 6000 if you can afford it",
+      "engagement_at_render": 8,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059019038806745119",
+      "title_teaser": "@TheAhmadOsman: @tlanderso You",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059018470130426297",
+      "title_teaser": "@TheAhmadOsman: @per_arneng Check this out + read GPU memory and bandwidth articles under the articl",
+      "engagement_at_render": 12,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "danshipper",
+      "source": "x",
+      "url": "https://x.com/danshipper/status/2059014616059879501",
+      "title_teaser": "@danshipper: Good counterpoint from inside @every to After Automation:",
+      "engagement_at_render": 232,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059013240881860907",
+      "title_teaser": "@TheAhmadOsman: @LiberN8 As we get closer and closer to Small &amp; Specialized models, it will all ",
+      "engagement_at_render": 11,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "natolambert",
+      "source": "x",
+      "url": "https://x.com/natolambert/status/2059012621693841515",
+      "title_teaser": "@natolambert: @akshitwt More soon!",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059012575312978258",
+      "title_teaser": "@TheAhmadOsman: @NVIDIAAI I called this collab ;) https://t.co/81luI7QjqT",
+      "engagement_at_render": 15,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059009658187296873",
+      "title_teaser": "@TheAhmadOsman: The single highest-leverage move an individual can still make in 2026 is this: Buy a",
+      "engagement_at_render": 630,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059003174455800150",
+      "title_teaser": "@TheAhmadOsman: \"War is peace. Freedom is slavery. Ignorance is strength.\" https://t.co/p4GxK9oSo5",
+      "engagement_at_render": 61,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059002561957392806",
+      "title_teaser": "@TheAhmadOsman: @wernerk_au 👍",
+      "engagement_at_render": 3,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2059002367899488313",
+      "title_teaser": "@TheAhmadOsman: @0xIlyy https://t.co/xAM94h2Ub9",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2058995961234333855",
+      "title_teaser": "@TheAhmadOsman: @0xIlyy I am here for this ily technical articles arc",
+      "engagement_at_render": 13,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "danshipper",
+      "source": "x",
+      "url": "https://x.com/danshipper/status/2058989758492082567",
+      "title_teaser": "@danshipper: @every sign up to get it tomorrow: https://t.co/9wRhOCUCAk",
+      "engagement_at_render": 13,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2058983928657023205",
+      "title_teaser": "@TheAhmadOsman: @CosmicMonad Majority of my efforts have been focused on this since 2023. Some peopl",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "TheAhmadOsman",
+      "source": "x",
+      "url": "https://x.com/TheAhmadOsman/status/2058981749934162250",
+      "title_teaser": "@TheAhmadOsman: @CosmicMonad There is a full memo I am working on regarding this topic https://t.co/",
+      "engagement_at_render": 6,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "DanielMiessler",
+      "source": "x",
+      "url": "https://x.com/DanielMiessler/status/2058973415634268626",
+      "title_teaser": "@DanielMiessler: @MattTrifilo Of course not. It’ll be different speeds for different industries and ",
+      "engagement_at_render": 1,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "lazymillionaireofficial",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@lazymillionaireofficial/video/7639093371683802398",
+      "title_teaser": "@lazymillionaireofficial: Full article (including prompts + screenshots!) linked in my bio!! #substa",
+      "engagement_at_render": 2971,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "deepweb_tv",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@deepweb_tv/video/7642372523140713761",
+      "title_teaser": "@deepweb_tv: Wir sind offiziell in der Zukunft angekommen. Du kannst jetzt Apps bauen nur mit deinem",
+      "engagement_at_render": 1457,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "sebintel",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@sebintel/video/7643745059044625666",
+      "title_teaser": "@sebintel: Reading code isn’t enough. This tool reveals the thinking behind GitHub repos prompts, de",
+      "engagement_at_render": 156,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "buildingwithmikayla",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@buildingwithmikayla/video/7631391364327984397",
+      "title_teaser": "@buildingwithmikayla: it has NEVER been this easy 😭 #ctonew #vibecoding #buildwithAI #AIbuilds #sid",
+      "engagement_at_render": 90394,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "jazmemas",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@jazmemas/video/7596622575405403414",
+      "title_teaser": "@jazmemas: AI dog dancing like Michael Jackson 🕺🐶 #MichaelJackson #dancingdog #viralvideos #justda",
+      "engagement_at_render": 4267800,
+      "reason": "non-AI noise marker"
+    },
+    {
+      "author": "sofeixph537",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@sofeixph537/video/7644053745491283208",
+      "title_teaser": "@sofeixph537: The Effect of Artificial Intelligence Gymnastics Video With Artificial Intelligence Ba",
+      "engagement_at_render": 4,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "officialradiokaos",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@officialradiokaos/video/7557193201358998814",
+      "title_teaser": "@officialradiokaos: A.I. Artificial Intelligence (or simply A.I.) is a 2001 American science fiction",
+      "engagement_at_render": 775,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "virtual_ai_hub",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@virtual_ai_hub/video/7642395670585855254",
+      "title_teaser": "@virtual_ai_hub: She is not real. The brand deal is. 👆 Learn how → bio #aiinfluencer #ugccreator #b",
+      "engagement_at_render": 8,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "punchd4m0nk3y",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@punchd4m0nk3y/video/7629751488360779015",
+      "title_teaser": "@punchd4m0nk3y: #aiart #aitrend #artificialintelligence",
+      "engagement_at_render": 231,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "midnight.storybook",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@midnight.storybook/video/7612827348781583630",
+      "title_teaser": "@midnight.storybook: They say the forest keeps what it kills. Sometimes… it wears it. ⚡️ Rendered vi",
+      "engagement_at_render": 527090,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "aiteasyuk1",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@aiteasyuk1/video/7595643989760527638",
+      "title_teaser": "@aiteasyuk1: This robot effectively teaches itself how to speak from scratch. It listens to its own ",
+      "engagement_at_render": 45967,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "techwithjeanne",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@techwithjeanne/video/7640295289470962958",
+      "title_teaser": "@techwithjeanne: how are we not talking about this more?! 👀🤭🤯 #Tech #ainews #learnai #aitools",
+      "engagement_at_render": 9393,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "aibot.uk",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@aibot.uk/video/7635634552781770006",
+      "title_teaser": "@aibot.uk: Part 1 | The Simpsons Trapper💰 #fyp #crimestory #foryoupageofficial #aivideo #blowthisup",
+      "engagement_at_render": 3939,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "the.dangersense",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@the.dangersense/video/7639785035121315094",
+      "title_teaser": "@the.dangersense: POV: Michael Jackson was never gone. Just taking the bus through Madrid like nobod",
+      "engagement_at_render": 24206,
+      "reason": "non-AI noise marker"
+    },
+    {
+      "author": "joeangelvaldezjr",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@joeangelvaldezjr/video/7601659805593357598",
+      "title_teaser": "@joeangelvaldezjr: #AICreate The Supergirl we need!!!#supergirl",
+      "engagement_at_render": 1395,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "orlaghbabes",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@orlaghbabes/video/7639453242857884950",
+      "title_teaser": "@orlaghbabes: Obviously had to do this trend #fyp #trend #koreanbaseball #aitrend",
+      "engagement_at_render": 474,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "cloneaiapp",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@cloneaiapp/video/7593733846680505620",
+      "title_teaser": "@cloneaiapp: He slayed this trend❤️‍🔥 #aidance #cloneai #donaldtrump #fyp #aivideo",
+      "engagement_at_render": 75530,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "halo.ios.app",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@halo.ios.app/video/7562270430526999826",
+      "title_teaser": "@halo.ios.app: get me off this app fr #haloai",
+      "engagement_at_render": 20802,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "yyov7",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@yyov7/video/7324775139030240544",
+      "title_teaser": "@yyov7: 7 applications d’intelligences artificielles gratuites qui vont te rendre accro à ton téléph",
+      "engagement_at_render": 300577,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "elonaa675",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@elonaa675/video/7643498576915533088",
+      "title_teaser": "@elonaa675: #merci #chatgpt #love #fyp #pourtoiii",
+      "engagement_at_render": 7730,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "itsdani_g25",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@itsdani_g25/video/7642529339086605598",
+      "title_teaser": "@itsdani_g25: New ChatGPT Trend Please draw the character in the image, “your name” in a free and st",
+      "engagement_at_render": 466,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "jake_dj2",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@jake_dj2/video/7635074539151740167",
+      "title_teaser": "@jake_dj2: #chatgpt #sandwich #premuim #tiktok #fyp",
+      "engagement_at_render": 1177688,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "twoface2525",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@twoface2525/video/7643348151079931153",
+      "title_teaser": "@twoface2525: 半信半疑な気持ちでChatGPTに聞いてみたら予想に反して長文の返事が返って来ました。 遊び半分だったけど目頭が熱くなる様な温かい返事が返って来ました🥹 皆さんにはどんな",
+      "engagement_at_render": 854,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "heyiamjulieta",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@heyiamjulieta/video/7643170397592046868",
+      "title_teaser": "@heyiamjulieta: ChatGPT nos espía todo el tiempo y nosotros ni enterados",
+      "engagement_at_render": 1194700,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "stredd2",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@stredd2/video/7643860990026681608",
+      "title_teaser": "@stredd2: CHATgPT…. #fyp #viral #chatgpt #facts #premium",
+      "engagement_at_render": 142,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "beatrizdicas2",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@beatrizdicas2/video/7502482726545542455",
+      "title_teaser": "@beatrizdicas2: 🤌🏻🤌🏻 #chatgpt",
+      "engagement_at_render": 2558,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "ilovenature643",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@ilovenature643/video/7643910471187221778",
+      "title_teaser": "@ilovenature643: #fyp #chatgpt #🥷🏻",
+      "engagement_at_render": 99,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "iskthx0",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@iskthx0/video/7642821512289946913",
+      "title_teaser": "@iskthx0: @ChatGPT Thanks you for all bro #pov #football #cristiano #ia #school",
+      "engagement_at_render": 1175533,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "legend__147",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@legend__147/video/7640583117937347847",
+      "title_teaser": "@legend__147: relation with Chatgpt 🤣#Chatgpt#fyppppppppppppppppppppppp #foryou #growmyaccount",
+      "engagement_at_render": 6999,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "fukumomo_floraison",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@fukumomo_floraison/video/7641876742877007124",
+      "title_teaser": "@fukumomo_floraison: オススメで流れてきたやつ、私のチャッピーに聞いたらボロ泣きした。 #chatgpt #チャッピー #感動",
+      "engagement_at_render": 6005,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "owentheaiguy1",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@owentheaiguy1/video/7556792342674443534",
+      "title_teaser": "@owentheaiguy1: Copy me #entrepreneur #onlinebusiness #businessmodel #aiagents #chatgpt",
+      "engagement_at_render": 6954,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "mintystrawberryy",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@mintystrawberryy/video/7607859421447769374",
+      "title_teaser": "@mintystrawberryy: let’s talk about agents 🤖 #ailearning #agenticai #ml #techvideos #techtuesday",
+      "engagement_at_render": 1556,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "wtfgioooo",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@wtfgioooo/video/7641769346464894239",
+      "title_teaser": "@wtfgioooo: #fypシ #brothers #rip",
+      "engagement_at_render": 290,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "brandnat",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@brandnat/video/7228570306770636034",
+      "title_teaser": "@brandnat: Chatgpt LAYERING strategy - do this if you want chatgpt to speak in your brand tone of vo",
+      "engagement_at_render": 21410,
+      "reason": "non-AI noise marker"
+    },
+    {
+      "author": "brandnat",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@brandnat/video/7178853797345709314",
+      "title_teaser": "@brandnat: Big problem with Chatgpt + how to \"trick\" the A.I. Detectors 😜 Could this be a viable so",
+      "engagement_at_render": 302207,
+      "reason": "non-AI noise marker"
+    },
+    {
+      "author": "brandnat",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@brandnat/video/7642621249411190037",
+      "title_teaser": "@brandnat: Attending @Google I/O was incredible but the creator day they organised for us the day be",
+      "engagement_at_render": 155,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "adam.digital",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@adam.digital/video/7372555472940911890",
+      "title_teaser": "@adam.digital: Surprise! I really love the Canva swag. Thanks for sending it to me! #gift #unboxing ",
+      "engagement_at_render": 482,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "adam.digital",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@adam.digital/video/7643797982088924437",
+      "title_teaser": "@adam.digital: Link in bio. If you're still Googling your competitors in 2026, there's a better way.",
+      "engagement_at_render": 47,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "justinfineberg",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@justinfineberg/video/7632716687833402655",
+      "title_teaser": "@justinfineberg: How to build a company that actually grows fast… #startup",
+      "engagement_at_render": 79,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bio_makers1",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@bio_makers1/video/7571261160490667272",
+      "title_teaser": "@bio_makers1: Respuesta a @Luis Figueroa cómo iniciar en la robótica y programación #robotica #robot",
+      "engagement_at_render": 11351,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bio_makers1",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@bio_makers1/video/7644024693434944786",
+      "title_teaser": "@bio_makers1: ¿Te imaginas ver el Mundial en una pantalla gigante desde cualquier lugar? 🤯⚽ Hoy pro",
+      "engagement_at_render": 828,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bio_makers1",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@bio_makers1/video/7644004039448956178",
+      "title_teaser": "@bio_makers1: Cubot GT 5 un reloj que puedes descargar mapas y guiarte sin internet Más info: https:",
+      "engagement_at_render": 428,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bio_makers1",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@bio_makers1/video/7643837012981665042",
+      "title_teaser": "@bio_makers1: Si sale de viaje ! Lleva este INIU Magnetic Power Bank de 10,000 mAh MagSafe Qi2 Model",
+      "engagement_at_render": 2016,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bio_makers1",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@bio_makers1/video/7642529896127794440",
+      "title_teaser": "@bio_makers1: Mini cargador para Laptop , Celular y audifonos - UGREEN Nexode Air Cargador de 65W: h",
+      "engagement_at_render": 2787,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bio_makers1",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@bio_makers1/video/7640289660488437010",
+      "title_teaser": "@bio_makers1: Este es el Scooter viral de TikTok con 350W de potencia , Autonomía de 22 a 30km y alc",
+      "engagement_at_render": 2472,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bio_makers1",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@bio_makers1/video/7639930538245065992",
+      "title_teaser": "@bio_makers1: Estoy haciendo en miniatura a los animatronicos de FNAFs 1 #animatronics #robotics #fi",
+      "engagement_at_render": 5467,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bio_makers1",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@bio_makers1/video/7639552186216647943",
+      "title_teaser": "@bio_makers1: Para este Mundial, no te quedes sin batería con este Cargador Anker Pantalla Smart 45W",
+      "engagement_at_render": 2955,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "agentic.james",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@agentic.james/video/7642832733269544206",
+      "title_teaser": "@agentic.james: The easiest way to upgrade the quality of your designs with coding agents #uidesign ",
+      "engagement_at_render": 93,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "tommythings",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@tommythings/video/7509111881324367109",
+      "title_teaser": "@tommythings: TAG TEMEN KAMU YG TERINDIKASI KECANDUAN GAME 💀 Coba bawa aja ke @RSMENUR di surabaya.",
+      "engagement_at_render": 232335,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "tommythings",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@tommythings/video/7641160719899184404",
+      "title_teaser": "@tommythings: GW MILLENNIAL, apakah gw termasuk generasi yg gagal? #genz #millenial #personaldevelop",
+      "engagement_at_render": 41,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "gazi.ai",
+      "source": "tiktok",
+      "url": "https://www.tiktok.com/@gazi.ai/video/6998940397720358150",
+      "title_teaser": "@gazi.ai: ‼️ FULL set-up tour link in bio! (has all the links to products shown) 💜 #fyp #study #stu",
+      "engagement_at_render": 95051,
+      "reason": "non-AI noise marker"
+    },
+    {
+      "author": "ria.dj1002",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzKlvpGmoy/",
+      "title_teaser": "@ria.dj1002: 👧🏻💗 ⁡ ⁡ ずっちゃんと❤️ ⁡ ⁡ #dance #小2 #friend #chatgpt",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "textakademie.de",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzKfLdlEbY/",
+      "title_teaser": "@textakademie.de: Je mehr Kontext Sie liefern, desto besser versteht KI Ihre eigentliche Aufgabe. De",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "kkdjdjdd_4555",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzKfKUCflC/",
+      "title_teaser": "@kkdjdjdd_4555: #账号托管 #买点赞 #抖音视频 #流量 #代理兼職 #ig行銷 #粉丝 #涨粉丝 #交友 #買粉絲香港 #ig刷粉 #代購 #账号 #推广 #ins粉丝 #加赞价格 ",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "guiadeia.ar",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzKb6PFiWT/",
+      "title_teaser": "@guiadeia.ar: Creá tu avatar en minutos sin saber dibujar Con IA ahora podés generar personajes virt",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "adventure_with_vicky_",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzKQ8xBTve/",
+      "title_teaser": "@adventure_with_vicky_: #chatgpt #cartoon #happiness #happyness #vibe",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "mbelvalle",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzKVqyCB4e/",
+      "title_teaser": "@mbelvalle: SEO fez marcas aparecerem. GEO vai decidir quais marcas serão recomendadas pela IA. 👀 O",
+      "engagement_at_render": 1,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "vishnu.flux_01",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzKSQhmedB/",
+      "title_teaser": "@vishnu.flux_01: Trending💀🗡️ #trendingsongs #viralpost #explorepage #chatgpt",
+      "engagement_at_render": -1,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "krishna_sc_9443",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzJwtyk_UI/",
+      "title_teaser": "@krishna_sc_9443: 🥺🥹🫶🥰 #viral #Dr Ambedkar #Chatgpt #Ramabai Ambedkar",
+      "engagement_at_render": -1,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "kalfitcalorie",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzHHV-EjjT/",
+      "title_teaser": "@kalfitcalorie: Results don’t happen by accident 💪 They happen when you stay consistent, track smar",
+      "engagement_at_render": 9,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "kalfitcalorie",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzGYXZEq8o/",
+      "title_teaser": "@kalfitcalorie: Your fitness journey doesn’t need to be complicated anymore 💚 Meet KalFit — the sma",
+      "engagement_at_render": 10,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "gordon.app",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYyyW-ZCPeO/",
+      "title_teaser": "@gordon.app: One app for everything about food. From recipe creation to meal planning, grocery shopp",
+      "engagement_at_render": 18,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "loadable_dev",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYyZVOEiSbe/",
+      "title_teaser": "@loadable_dev: Most builders think they're working on the product. Sometimes they're actually workin",
+      "engagement_at_render": 1,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "knackteam",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYxGMezkf_X/",
+      "title_teaser": "@knackteam: For small medical practices, the right scheduling system can help your team reduce no-sh",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theaimersvoicetelugu",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzLXSngZZ3/",
+      "title_teaser": "@theaimersvoicetelugu: #AITools #ArtificialIntelligence #TechNews #AIRevolution #FutureOfWork #Claud",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "canvasvintage",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYy_qk2DZY0/",
+      "title_teaser": "@canvasvintage: 🚀 VIBE CODING MODE: ON 💻⚡ No limits. No overthinking. Just ideas → code → build. T",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "gemstonecommunications",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYylIcXD9-l/",
+      "title_teaser": "@gemstonecommunications: “Upgrade your future with modern tech skills.” #claudecode #developerjobs #",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "here.yelim",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYx5Hp7k3e0/",
+      "title_teaser": "@here.yelim: I coded 4 interactive experiences into one birthday website 💻 Inside my friend’s birth",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "scientific_world_tv",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzMusRgv9j/",
+      "title_teaser": "@scientific_world_tv: Brains solve new problems by recombining reusable action symbols—turning simpl",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "v3_bluee_1",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzMVJzMYYh/",
+      "title_teaser": "@v3_bluee_1: 💜👀🤌🏼! #fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp #ar",
+      "engagement_at_render": -1,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "stevematt2424",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzMKmFGFMN/",
+      "title_teaser": "@stevematt2424: Call for Research Papers! 12th International Conference on Artificial Intelligence a",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "sammacronotes",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzMubuFX6r/",
+      "title_teaser": "@sammacronotes: My DMs have been flooding with questions about these recent red candles on the NVDA ",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "theindiandream.club",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzG-Y5jyVg/",
+      "title_teaser": "@theindiandream.club: In the booming space economy, everyone wants to build a rocket. But from a bus",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "cravingsbysweety",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzKCmLjAte/",
+      "title_teaser": "@cravingsbysweety: Kabhi kabhi khud pe bhi pyaar aa jata hai♥️🥰😘😍 #traditionallook #trendingreels",
+      "engagement_at_render": 10,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "mystic.kamakshi150226",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzJVLuSr_Y/",
+      "title_teaser": "@mystic.kamakshi150226: “Two months of pure joy and endless cuddles! Our little miracle is growing s",
+      "engagement_at_render": 29,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "celile_ozkan",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzJ8M_jcRf/",
+      "title_teaser": "@celile_ozkan: #yapayzekâ #chatgpt #instagram #kesfet #akımlar 🤍🤎🫂",
+      "engagement_at_render": 1,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "deeksharenukunta",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzJ6jqThSQ/",
+      "title_teaser": "@deeksharenukunta: My Brother ❤ #chatgpt#minime#trending#viral#instalove (Create this image in chatg",
+      "engagement_at_render": 2,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "bookae_kapooklook",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzJ2cjFOhE/",
+      "title_teaser": "@bookae_kapooklook: เธอก็ทำให้เรา ดูสวย...เกินตัวจริง...ไปมากเลยนะ #chatGPT สวยแบบ อยากสวยตามเลย 😁 ",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "ia_actu_fr",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYy77pQlicO/",
+      "title_teaser": "@ia_actu_fr: 🤖 Un modèle d’IA a tourné seul pendant 35 heures pour optimiser du code… pour ses prop",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "mariago.pro",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzKi8RFFhe/",
+      "title_teaser": "@mariago.pro: Connecting two tools the right way does more for a business than buying three new ones",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "skatsadataintegra",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzKhpqgYia/",
+      "title_teaser": "@skatsadataintegra: Ada yang pernah ngalamin kayak pak Tejo? kira-kira kenapa ya? #aitools #worklife",
+      "engagement_at_render": 1,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "exquisitetechnologies_",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYwqFRyl8Cs/",
+      "title_teaser": "@exquisitetechnologies_: Everyone, meet Hamza, our Web & App Developer! He’s the engine room guy tur",
+      "engagement_at_render": 0,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "understandably_explained",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYzMe4uiJ11/",
+      "title_teaser": "@understandably_explained: #bot #botovi #edukacija #znanje #ucenje #artificialintelligence #gamebot ",
+      "engagement_at_render": -1,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "handlytech",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DFC6zh3iZKn/",
+      "title_teaser": "@handlytech: If your iPhone got stolen-DO THIS🙏 #iphone #iphonetricks #iphonetips #stolen #lifehack",
+      "engagement_at_render": 1211020,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "handlytech",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/C9PdusWtkOh/",
+      "title_teaser": "@handlytech: Find your Stolen Phone Easily!✅️ #iphone #iphonetricks #iphonetips #stolen #android #sa",
+      "engagement_at_render": 2864068,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "rpn",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYr5STUtpJK/",
+      "title_teaser": "@rpn: Meta Ray-Ban Display just became a platform. And as we’ve seen time and time again… being earl",
+      "engagement_at_render": 4602,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "handlytech",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYjpja-IPqn/",
+      "title_teaser": "@handlytech: Download anything from a link. 🤯 Videos. Images. Audio. Even social media posts. Copy ",
+      "engagement_at_render": 1735,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "rpn",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DNqBt0JNyRA/",
+      "title_teaser": "@rpn: Wtf… Google cooked.",
+      "engagement_at_render": 114369,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "rpn",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DXwqxDtAL10/",
+      "title_teaser": "@rpn: I got a chance to visit the NEO factory, just unveiled by @1x.technologies — the first true ve",
+      "engagement_at_render": 7351,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "rpn",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DXrtiGWAO8H/",
+      "title_teaser": "@rpn: Freepik just became Magnific. • More than 1 million paid subscribers. • More than 100 million ",
+      "engagement_at_render": 7334,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "alliekmiller",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYSeeGwRRZ0/",
+      "title_teaser": "@alliekmiller: When Marvel decides to make a new series, just tell them we’re ready. (Sorry in advan",
+      "engagement_at_render": 4295,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "danmartell",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DDagmmcyPHZ/",
+      "title_teaser": "@danmartell: No one else has to change for me to win",
+      "engagement_at_render": 196124,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "danmartell",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYxfFw4BaHD/",
+      "title_teaser": "@danmartell: You want to be successful in life?",
+      "engagement_at_render": 276,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "rpn",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYsRz23J6W6/",
+      "title_teaser": "@rpn: Some conversations change the way you see what’s possible. I had the honor to sit down with De",
+      "engagement_at_render": 1195,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "danmartell",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYxfg7XhuG4/",
+      "title_teaser": "@danmartell: Should you go to school?",
+      "engagement_at_render": 3,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "danmartell",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/C6KCp8hyWAm/",
+      "title_teaser": "@danmartell: After coaching over 5000 individuals doing up to 10 figures, I’ve learned the exact thi",
+      "engagement_at_render": 22027,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "danmartell",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DCKDi3QJiKr/",
+      "title_teaser": "@danmartell: I was kicked out of my home at 12 years old...",
+      "engagement_at_render": 141555,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "rpn",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/C9sN8PKJ240/",
+      "title_teaser": "@rpn: Create to serve. I think this message is more relevant now than ever. Which is why I’m re-uplo",
+      "engagement_at_render": 427244,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "yourchatgptguide",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DXGwGAOCIXD/",
+      "title_teaser": "@yourchatgptguide: Here are the prompts: 1. The Viral Concept Engineering “Act as a YouTube strategi",
+      "engagement_at_render": 786,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "yourchatgptguide",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DXJmH-rCG2V/",
+      "title_teaser": "@yourchatgptguide: Here are the prompts: 1. The Full Presentation Builder “Act as a world-class pres",
+      "engagement_at_render": 303,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "yourchatgptguide",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DXd1mtfCAOq/",
+      "title_teaser": "@yourchatgptguide: Here are the prompts: 1. Research Mode Activation “Act as a senior research profe",
+      "engagement_at_render": 639,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "yourchatgptguide",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DXMKi2eCGBI/",
+      "title_teaser": "@yourchatgptguide: Here are the prompts: 1. Personal Birth Insight “Act as an experienced astrology-",
+      "engagement_at_render": 1069,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "yourchatgptguide",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DXn9XZWk6QF/",
+      "title_teaser": "@yourchatgptguide: Here are 7 prompts to access it: 1. Startup Mode Activation “Act as a seasoned en",
+      "engagement_at_render": 444,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "yourchatgptguide",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DXQ_3aBiD3N/",
+      "title_teaser": "@yourchatgptguide: Here are the prompts: 1. Learning Mode Activation “Act as a highly experienced pe",
+      "engagement_at_render": 2381,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "yourchatgptguide",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DXjCY3UiDqV/",
+      "title_teaser": "@yourchatgptguide: Here are the prompts: 1. Syllabus Breakdown “Analyze the full syllabus for [inser",
+      "engagement_at_render": 763,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "danmartell",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DYxQEYahHAh/",
+      "title_teaser": "@danmartell: best morning routine",
+      "engagement_at_render": 406,
+      "reason": "no AI keyword"
+    },
+    {
+      "author": "yourchatgptguide",
+      "source": "instagram",
+      "url": "https://www.instagram.com/p/DXD4VJdiHYG/",
+      "title_teaser": "@yourchatgptguide: Here are the prompts: 1. Complete Life Reality Audit “Act as a high-performance l",
+      "engagement_at_render": 255,
+      "reason": "no AI keyword"
+    }
+  ]
+}

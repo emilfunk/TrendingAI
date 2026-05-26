@@ -1,0 +1,86 @@
+FEATURE: AnthropicAI — @AnthropicAI: Anthropic co-founder Chris Olah was invited to speak at today's presentation of Pope Leo XIV's encyclical "Magnifica hum…
+LAB ANCHOR URL: https://x.com/AnthropicAI/status/2058983299092009421
+ENTITIES MATCHED: s presentation of Pope Leo XIV, Chris Olah, Pope Leo
+HYPE-DOMINANT: no (deterministic count: 0 of 19 top items match tutorial-hype regex indicators)
+
+19 creator items below. Tags: [LAB-AFFILIATED] = handle works at the lab; their "praise" is internal storytelling, not validation. [PODCAST] = YT podcast/video item, generate one podcast_synth entry. [REPLY SIGNAL] = aggregated comment-sentiment on the post; pos%/neg% are reply distribution, RATIOED means high-engagement post with negative-dominant replies (contradiction signal).
+
+[1] @simonw · x  (259 eng)
+  URL: https://x.com/simonw/status/2059065719086792804
+When I woke up this morning I didn't think I'd be spending a bunch of time today getting familiar with Catholic theology, but here we are. Notes on Pope Leo XIV's encyclical on AI. https://t.co/VUN6bjVcEx
+
+[2] @(no author) · enterprise  (91 eng)
+  URL: https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/
+[TechCrunch] The pope’s AI encyclical isn’t really about AI
+
+[3] @(no author) · enterprise  (88 eng)
+  URL: https://www.bloomberg.com/news/articles/2026-05-25/pope-leo-warns-ai-should-be-prevented-from-dominating-humanity
+[Bloomberg Technology] Pope Says AI Should Be Disarmed to Avoid Dominating Humanity
+
+[4] @cnn · tiktok  (561008 eng)
+  URL: https://www.tiktok.com/@cnn/video/7643831428689546510
+Pope Leo XIV called for AI to be "disarmed" during the presentation of his first encyclical document, "Magnifica Humanitas."
+
+[5] @cnn · tiktok  (14547 eng)
+  URL: https://www.tiktok.com/@cnn/video/7644005893486529806
+Pope Leo XIV issued a manifesto warning against the threat he says AI poses against humanity. CNN's Jacob Ward analyzes the pope's position on the fast-growing technology.
+
+[6] @reuters · tiktok  (5231 eng)
+  URL: https://www.tiktok.com/@reuters/video/7643821834936405262
+Pope Leo expressed concern that some AI weapons systems have advanced "practically beyond any human ‌reach to govern them." He also urged governments to slow down and closely regulate the development of AI systems in his first major document, released on May 25, warning that they spread misinformation and may lead the world down a path of unending war. #artificialintelligence #ai #pope #popeleo #vatican
+
+[7] @foxnews · tiktok  (3808 eng)
+  URL: https://www.tiktok.com/@foxnews/video/7643919513339038990
+"Artificial intelligence needs to be disarmed." Pope Leo is sounding the alarm on AI in the first major encyclical of his papacy — warning the technology risks creating a new “Tower of Babel” if it’s left unchecked. The Pope called for strict ethical limits on AI, especially in warfare, and warned against a future where human dignity is sacrificed for profit, power, or automation. He also pushed back on the idea that a small group of tech elites should shape humanity’s future alone.
+
+[8] @msnow · tiktok  (1463 eng)
+  URL: https://www.tiktok.com/@msnow/video/7643899390762945805
+"Artificial intelligence needs to be disarmed." Pope Leo XIV calls for the regulation of AI in a sweeping written document and warns it should not be "concentrated in the hands of only a few." MS NOW's Erielle Reshef reports. #news
+
+[9] @nbcnews · tiktok  (1450 eng)
+  URL: https://www.tiktok.com/@nbcnews/video/7643843919159053582
+Pope Leo XIV called for stronger regulation and a slower pace of AI advances, warning the technology was fueling and normalizing conflict around the world.
+
+[10] @abcnews · tiktok  (913 eng)
+  URL: https://www.tiktok.com/@abcnews/video/7644013331359026462
+In the first encyclical of his pontificate, Pope Leo is calling to "disarm" artificial intelligence — issuing a sweeping warning about the technology's growing influence on everything from the workplace to warfare. Tom Soufi Burridge reports for @abcworldnews.
+
+[11] @iScienceLuvr · x  (498 eng)
+  URL: https://x.com/iScienceLuvr/status/2058890492172280143
+Pope Leo has written about AI in his first major released document! "Humanity, created by God in all its grandeur, is today facing a pivotal choice: either to construct a new Tower of Babel or to build the city in which God and humanity dwell together" The perspective described in this document is that technology is not “a force antagonistic to humanity” (4) nor is it “inherently evil”. However, “technology is never neutral, because it takes on the characteristics of those who devise, finance, regulate, and use it." Glad to see a nuanced, well-thought-out take on AI from the Catholic Church.
+
+[12] @benwerd · hn  (405 eng)
+  URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/
+Pope Leo XIV says AI must serve humanity, not the powerful few
+
+[13] @channelnewsasia · tiktok  (351 eng)
+  URL: https://www.tiktok.com/@channelnewsasia/video/7644008087820586256
+“Artificial intelligence needs to be disarmed", said Pope Leo on Monday (May 25), calling for greater human oversight of AI tools. He cited concerns of autonomous weapons systems "practically beyond any human reach to govern them effectively". He also said the Catholic Church wanted to work with AI developers to discuss the proper use of the technology. #usanews #usa #vatican #popeleo
+
+[14] @embedding-shape · hn  (166 eng)
+  URL: https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/
+Pope Leo: opaque AI run by few firms risks "New Forms of Dehumanization"
+
+[15] @(no author) · enterprise  (97 eng)
+  URL: https://www.theregister.com/ai-ml/2026/05/26/pope-leo-warns-ai-boom-can-give-big-tech-and-the-people-who-run-it-too-much-power/5245883
+[The Register AI] Pope Leo warns AI boom can give Big Tech and the people who run it too much power
+
+[16] @(no author) · enterprise  (96 eng)
+  URL: https://www.theinformation.com/briefings/pope-leo-anthropic-co-founder-warn-ai-power-concentration-labor-displacement
+[The Information] Pope Leo, Anthropic Co-Founder Warn of AI Power Concentration, Labor Displacement
+
+[17] @(no author) · enterprise  (91 eng)
+  URL: https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare
+[The Verge AI] Pope Leo calls for being ‘profoundly human’ in the age of AI
+
+[18] @(no author) · enterprise  (90 eng)
+  URL: https://www.ft.com/content/12313f08-991d-4079-9631-9ce7ae70c3e3
+[FT AI] Pope Leo says AI ‘needs to be disarmed’
+
+[19] @instant_daily_news · instagram  (0 eng)
+  URL: https://www.instagram.com/p/DYy4psplfaq/
+The Vatican weighs in on AI ethics! 🤖 Pope Leo's new encyclical calls for the 'disarming' of advanced artificial intelligence. #AIethics #PopeLeo #Vatican #TechNews #ArtificialIntelligence
+
+Synthesize per schema. Apply the rules above — especially the spade-a-spade clause when HYPE-DOMINANT is yes, the competitor-recommendation clause when a reply names a competitor, and the RATIOED clause when reply-signal contradicts post engagement.
+
+Return JSON only.

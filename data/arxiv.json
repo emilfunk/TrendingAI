@@ -1,0 +1,602 @@
+[
+  {
+    "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
+    "url": "https://arxiv.org/abs/2605.26114v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:59:49Z",
+    "engagement": 0,
+    "raw_text": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two capabilities previously out of reach for everyday apps: verifiable outcome signals through deterministic state-based judging over structured JSON state, and scalable online RL through low-cost parallel r",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26114v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+    "url": "https://arxiv.org/abs/2605.26112v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:59:36Z",
+    "engagement": 0,
+    "raw_text": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation models. We refer to this shift as scaling the harness: treating the structured execution layer around a foundation model as a first-class object of design, evaluation, and optimization. Although recent lar",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26112v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
+    "url": "https://arxiv.org/abs/2605.26111v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:59:35Z",
+    "engagement": 0,
+    "raw_text": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation Subject-driven image generation aims to synthesize new images that preserve the identity of the given subject while following textual instructions. Existing approaches often encode text and reference images separately. This limits cross-modal reasoning abilities and causes copy-paste artifacts. Recent frameworks that connect multimodal models and diffusion models improve instruction following, but",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26111v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
+    "url": "https://arxiv.org/abs/2605.26110v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:59:28Z",
+    "engagement": 0,
+    "raw_text": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning Multimodal Large Language Models (MLLMs) achieve versatility by reformulating diverse tasks into a unified instruction-following framework via instruction tuning. However, real-world deployment requires continuous adaptation to emerging tasks, motivating Multimodal Continual Instruction Tuning (MCIT). Despite its growing importance, current MCIT research is hindered by severe engineering bottlenec",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26110v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Looped Diffusion Language Models",
+    "url": "https://arxiv.org/abs/2605.26106v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:58:24Z",
+    "engagement": 0,
+    "raw_text": "Looped Diffusion Language Models Masked diffusion models (MDMs) have emerged as a promising alternative to autoregressive models for language modeling, yet the effective design of transformer architectures for MDMs remains underexplored. In this paper, we show that selectively looping the early-middle transformer layers significantly improves both training efficiency and model performance in MDMs. We call this approach LoopMDM(Lo",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26106v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models",
+    "url": "https://arxiv.org/abs/2605.26100v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:56:46Z",
+    "engagement": 0,
+    "raw_text": "Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models Code review is a critical practice in software engineering, yet the growing scale and frequency of code patches in modern projects, together with the widespread adoption of AI code assistants, make manual review increasingly challenging. Identifying the types of changes within a patch, such as renames, moves, or logic modifications, can substantially improve review efficiency by enabling prioritiz",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26100v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Language Models Need Sleep",
+    "url": "https://arxiv.org/abs/2605.26099v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:55:39Z",
+    "engagement": 0,
+    "raw_text": "Language Models Need Sleep Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consolidation mechanism in which a model periodically converts recent context into persistent fast weights before clearing its key-value cache. During sleep, the model performs $N$ offline recurrent passes ",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26099v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay",
+    "url": "https://arxiv.org/abs/2605.26097v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:54:34Z",
+    "engagement": 0,
+    "raw_text": "Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay Models trained on a new task typically degrade on prior tasks, a phenomenon known as forgetting. Traditionally, mitigating forgetting has required replaying stored exemplars from prior tasks, which is often impractical. By contrast, language models can sample from their own training distribution, and we show that these self-generated samples serve as effective replay data, nearly eliminating forge",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26097v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Under Model Uncertainty",
+    "url": "https://arxiv.org/abs/2605.26093v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:53:18Z",
+    "engagement": 0,
+    "raw_text": "Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Under Model Uncertainty Bayesian optimal experimental design (BOED) selects experiments to maximize information gain about model parameters. However, in decision-critical settings, reducing parameter uncertainty does not necessarily improve downstream decisions, as only specific parameter directions relevant to the objective truly matter. We propose GoBOED, a goal-driven BOED framework that directly optimizes experimenta",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26093v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization",
+    "url": "https://arxiv.org/abs/2605.26092v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:52:46Z",
+    "engagement": 0,
+    "raw_text": "OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization The deployment of Large Language Models (LLMs) and Vision Transformers (ViTs) on edge devices is significantly constrained by memory limitations and the critical timing bottlenecks introduced by dense Multiply-Accumulate (MAC) arrays. In the ultra-low bit regime, logarithmic Power-of-Two (PoT) quantization provides a hardware-efficient alternative by replacing MAC operations with bit-shifts. Howev",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26092v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Channel-wise Vector Quantization",
+    "url": "https://arxiv.org/abs/2605.26089v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:52:08Z",
+    "engagement": 0,
+    "raw_text": "Channel-wise Vector Quantization We present Channel-wise Vector Quantization (CVQ), a novel image tokenization paradigm that replaces patch-wise tokens with channel-wise tokens. Unlike conventional vector quantization, which assigns a discrete token to each patch feature vector, CVQ quantizes each channel of the feature map. This formulation represents an image as discrete levels of visual details, rather than as a grid of spatia",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26089v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "DiscoverPhysics: Benchmarking LLMs for Out-of-the-Box Scientific Thinking",
+    "url": "https://arxiv.org/abs/2605.26087v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:50:07Z",
+    "engagement": 0,
+    "raw_text": "DiscoverPhysics: Benchmarking LLMs for Out-of-the-Box Scientific Thinking Frontier LLMs now perform strongly across a wide range of physics evaluations, but it is hard to disentangle genuine reasoning from recall of established science. We introduce DiscoverPhysics, an interactive benchmark that asks a LLM agent to discover the laws of motion of a simulated world whose physics deliberately deviates from our own. We construct 22 worlds governed by, among others, screened",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26087v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World",
+    "url": "https://arxiv.org/abs/2605.26086v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:50:04Z",
+    "engagement": 0,
+    "raw_text": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World Large language model agents are increasingly envisioned as always-on personal assistants with access to anything relevant in the user's digital world. Yet current systems operate over only narrow slices of that world, limiting context-sensitive reasoning and effective assistance. Existing benchmarks similarly provide only partial user state and therefore fail to capture performance in such a broad",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26086v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "VeriTrace: Evolving Mental Models for Deep Research Agents",
+    "url": "https://arxiv.org/abs/2605.26081v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:46:57Z",
+    "engagement": 0,
+    "raw_text": "VeriTrace: Evolving Mental Models for Deep Research Agents Deep research agents face vast, interdependent, and pervasively uncertain information. Existing systems explore what evolving intermediate representations should look like, but leave their evolution to the LLM's implicit reasoning. Without explicit regulation, the intermediate layer is easily contaminated by mixed-quality information and propagates errors along its dependencies, so model scale oft",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26081v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Automated Benchmark Auditing for AI Agents and Large Language Models",
+    "url": "https://arxiv.org/abs/2605.26079v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:44:21Z",
+    "engagement": 0,
+    "raw_text": "Automated Benchmark Auditing for AI Agents and Large Language Models Modern AI benchmarks operate at a complexity that outpaces traditional verification methods. Tasks authored by domain experts often contain implicit assumptions, incomplete environment specifications, and brittle evaluation logic that human annotation cannot reliably catch. We introduce Auto Benchmark Audit (ABA), an agentic framework that systematically audits individual benchmark tasks, uncoveri",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26079v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Global Convergence of Wasserstein Policy Gradient for Entropy-Regularized Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2605.26078v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:42:59Z",
+    "engagement": 0,
+    "raw_text": "Global Convergence of Wasserstein Policy Gradient for Entropy-Regularized Reinforcement Learning Wasserstein policy gradient (WPG) is a policy optimization method for reinforcement learning (RL) that exploits the optimal-transport geometry of action distributions. For the entropy-regularized RL objective, WPG evolves each state-conditional policy by transporting it along the action gradient of the soft Q-function together with a Langevin-type diffusion. Despite its appeal for continuous-contr",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26078v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "StakeBench: Evaluating Language Understanding Grounded in Market Commitment",
+    "url": "https://arxiv.org/abs/2605.26074v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:38:30Z",
+    "engagement": 0,
+    "raw_text": "StakeBench: Evaluating Language Understanding Grounded in Market Commitment Existing financial NLP benchmarks often rely on labels supplied by outside observers, measuring how language is perceived rather than what speakers have committed to in the market. We introduce StakeBench, an evaluation framework for language understanding grounded in market commitment. StakeBench links 560,876 comments from 2,261 resolved markets to verified position, action, and market-odds reco",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26074v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Active Query Synthesis for Preference Learning",
+    "url": "https://arxiv.org/abs/2605.26072v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:37:58Z",
+    "engagement": 0,
+    "raw_text": "Active Query Synthesis for Preference Learning Efficient learning of user preferences is crucial for many modern decision making systems but typically requires costly labeled data. Active learning reduces this cost, yet standard methods are computationally expensive due to pool-based evaluation. Further, most methods assume all query feedback is equally reliable, ignoring that pairwise queries between nearly identical or entirely dissimilar it",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26072v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "WhoSaidIt: Human-LLM Collaborative Annotation for Text-Based Multilingual Speaker-Attribute Classification",
+    "url": "https://arxiv.org/abs/2605.26070v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:37:45Z",
+    "engagement": 0,
+    "raw_text": "WhoSaidIt: Human-LLM Collaborative Annotation for Text-Based Multilingual Speaker-Attribute Classification Annotating speaker attributes from text is inherently ambiguous, particularly in multilingual settings where demographic and social cues are implicit and culturally variable. We propose a human-large language model (LLM) collaborative re-annotation framework for stabilizing multilingual speaker-attribute labels under practical resource constraints. Starting from a noisy corpus, we use LLMs to surf",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26070v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Rethinking Weak Supervision in Anomaly Detection: A Comprehensive Benchmark",
+    "url": "https://arxiv.org/abs/2605.26068v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:32:58Z",
+    "engagement": 0,
+    "raw_text": "Rethinking Weak Supervision in Anomaly Detection: A Comprehensive Benchmark Weakly supervised anomaly detection (WSAD) has developed in three primary directions: incomplete, inexact, and inaccurate supervision. However, these directions remain isolated, lacking a unified framework to assess whether they address unique challenges or share fundamental mechanics. This paper introduces WSADBench, the first benchmark that unifies evaluation across distinct weakly supervised sc",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26068v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding",
+    "url": "https://arxiv.org/abs/2605.26067v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:31:54Z",
+    "engagement": 0,
+    "raw_text": "Conditional KRR: Injecting Unpenalized Features into Kernel Methods with Applications to Kernel Thresholding Conditionally positive definite (CPD) kernels are defined with respect to a function class $\\mathcal{F}$. It is well known that such a kernel $K$ is associated with its native space (defined analogously to an RKHS), which in turn gives rise to a learning method -- called conditional kernel ridge regression (conditional KRR) due to its analogy with KRR -- where the estimated regression function is ",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26067v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Paris 2.0: A Decentralized Diffusion Model for Video Generation",
+    "url": "https://arxiv.org/abs/2605.26064v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:27:22Z",
+    "engagement": 0,
+    "raw_text": "Paris 2.0: A Decentralized Diffusion Model for Video Generation We present Paris 2.0, the first video generation model pre-trained through decentralized computation. Its training recipe builds upon Paris 1.0 (arXiv:2510.03434), the first ever open-weight Decentralized Diffusion Model (DDM), which showed that image generation can be trained without a monolithic GPU cluster. However, temporally coherent video generation had remained an open problem under decentr",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26064v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Neuronal Stochastic Attention Circuit (NSAC) for Probabilistic Representation Learning",
+    "url": "https://arxiv.org/abs/2605.26061v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:19:14Z",
+    "engagement": 0,
+    "raw_text": "Neuronal Stochastic Attention Circuit (NSAC) for Probabilistic Representation Learning Reliable quantification of uncertainty estimates in continuous-time (CT) representation learning remains nascent, particularly within CT attention architectures. We introduce the Neuronal Stochastic Attention Circuit (NSAC), a novel biologically-inspired CT attention architecture that reformulates attention logit computation as the solution of an Ornstein-Uhlenbeck stochastic differential equation",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26061v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Accelerating Bayesian inverse design in computational fluid dynamics using neural operators",
+    "url": "https://arxiv.org/abs/2605.26059v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:18:18Z",
+    "engagement": 0,
+    "raw_text": "Accelerating Bayesian inverse design in computational fluid dynamics using neural operators Bayesian inverse design provides a principled framework for inferring aerodynamic geometries from sparse flow observations while quantifying uncertainty. However, its practical use in computational fluid dynamics (CFD) is severely limited by the cost of repeated high-fidelity simulations required for gradient-based Markov chain Monte Carlo (MCMC) sampling. While surrogate models are commonly propo",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26059v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Retrying vs Resampling in AI Control",
+    "url": "https://arxiv.org/abs/2605.26047v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:10:41Z",
+    "engagement": 0,
+    "raw_text": "Retrying vs Resampling in AI Control AI coding scaffolds like Claude Code and Codex use \\textit{retrying}: blocking actions flagged as risky and continuing the trajectory. We study retrying from an AI control perspective, which treats the model as potentially adversarial. We find that while retrying reduces honest suspicion scores, the untrusted model can exploit monitor rationale to construct sneakier attacks, negating safety gains.",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26047v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "When Gradients Collide: Failure Modes of Multi-Objective Prompt Optimization for LLM Judges",
+    "url": "https://arxiv.org/abs/2605.26046v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:08:55Z",
+    "engagement": 0,
+    "raw_text": "When Gradients Collide: Failure Modes of Multi-Objective Prompt Optimization for LLM Judges Customizing an LLM judge to a specific task or domain often involves optimizing its prompt across multiple evaluation criteria simultaneously. Textual gradient methods automate this for a single judge criterion, however they produce natural-language critiques, not numerical vectors. Thus, the conflict-resolution toolkit of multi-task learning (PCGrad, MGDA) doesn't apply to the multi-objective tex",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26046v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Confidence and Calibration of Activation Oracles for Reliable Interpretation of Language Model Internals",
+    "url": "https://arxiv.org/abs/2605.26045v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:08:47Z",
+    "engagement": 0,
+    "raw_text": "Confidence and Calibration of Activation Oracles for Reliable Interpretation of Language Model Internals Activation oracles aim to make the activations of other models legible to humans and yield promising results compared to white-box interpretability techniques. However, uncertainty quantification (UQ) for the natural-language outputs of such activation oracles is so far understudied. Here, we investigate 6 different methods for estimating the confidence of activation oracles and evaluate how well-",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26045v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "L2IR: Revealing Latent Intent in Graph Fraud Detection",
+    "url": "https://arxiv.org/abs/2605.26040v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:06:13Z",
+    "engagement": 0,
+    "raw_text": "L2IR: Revealing Latent Intent in Graph Fraud Detection Graph fraud detection has long depended on Graph Neural Networks (GNNs) to propagate and aggregate information across relational data. A critical obstacle in practice, however, is that fraudsters frequently disguise themselves by forging numerous connections with benign users, causing fraud signals to be progressively diluted during neighborhood aggregation and undermining detection reliability. W",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26040v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "DRScaffold: Boosting Dense-Scene Reasoning in Lightweight Vision Language Models",
+    "url": "https://arxiv.org/abs/2605.26038v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:05:52Z",
+    "engagement": 0,
+    "raw_text": "DRScaffold: Boosting Dense-Scene Reasoning in Lightweight Vision Language Models Lightweight vision-language models perform competitively on standard benchmarks yet fail systematically in dense-scene reasoning, where multiple objects, attributes, and relations must be jointly grounded and resolved through multi-step inference. Such capability is critical for real-world applications where models must reliably interpret cluttered environments. Yet existing training signals provi",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26038v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Peak-Then-Collapse and the Four Interface Channels of Knowledge-Graph Tool Use",
+    "url": "https://arxiv.org/abs/2605.26037v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:05:35Z",
+    "engagement": 0,
+    "raw_text": "Peak-Then-Collapse and the Four Interface Channels of Knowledge-Graph Tool Use We test the standard RLVR tool-use recipe -- GRPO on Qwen2.5-7B-Instruct -- on a deliberately minimal knowledge-graph tool API: four Freebase navigation verbs over Complex WebQuestions. Under a self-verifiable retrieval reward, the policy's tool-grounded answer rate climbs from $3.8\\%$ to $9.6\\%$ over 250 steps, then collapses to $0\\%$ within a single 50-step window -- a \\emph{peak-then-collapse} ",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26037v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "CITYREP: A Unified Benchmark for Urban Representations Across Cities, Tasks, and Modalities",
+    "url": "https://arxiv.org/abs/2605.26036v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:03:46Z",
+    "engagement": 0,
+    "raw_text": "CITYREP: A Unified Benchmark for Urban Representations Across Cities, Tasks, and Modalities Urban representation learning encodes complex urban environments into general-purpose embeddings for diverse downstream tasks and emerging urban foundation models. However, current evaluations are limited, typically focusing on one or two cities and tasks and relying on random splits that introduce spatial leakage, leading to inflated performance and weak support for cross-location generalization ",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26036v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Length Generalization with Log-Depth Recurrent Units",
+    "url": "https://arxiv.org/abs/2605.26035v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:02:29Z",
+    "engagement": 0,
+    "raw_text": "Length Generalization with Log-Depth Recurrent Units Length generalization remains a persistent challenge for neural networks: recurrent models tend to suffer from positional biases, while transformers are constrained by fixed computational depth. Regular languages provide a frequently used testbed for evaluating length generalization, as label prediction can be checked for any sequence length. We propose MLP-LDRU, a type of Log-Depth Recurrent Unit",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26035v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution",
+    "url": "https://arxiv.org/abs/2605.26032v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T17:01:21Z",
+    "engagement": 0,
+    "raw_text": "Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution Creating images from noise is image generation; reconstructing fine details from coarse inputs is super-resolution. Despite their practical differences, both can be understood as reversing information loss across scales. We introduce $\\textbf{SKILD}$, a $\\textbf{S}$cale-invariant $\\textbf{K}$-Space $\\textbf{I}$mage $\\textbf{L}$earning $\\textbf{D}$iffusion model that unifies generation and continuo",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26032v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists",
+    "url": "https://arxiv.org/abs/2605.26029v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:57:06Z",
+    "engagement": 0,
+    "raw_text": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists We introduce CausaLab, a scalable environment for evaluating interactive causal discovery by LLM agents. Unlike prior evaluations, CausaLab evaluates both whether an agent can solve a problem using causal evidence and whether its answer is supported by a correct hypothesis about the underlying causal mechanism. Each episode places an agent in a synthetic laboratory: it receives prior measurement r",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26029v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "A Multimodal 3D Foundation Model for Light Sheet Fluorescence Microscopy Enables Few-Shot Segmentation, Classification, and Deblurring",
+    "url": "https://arxiv.org/abs/2605.26026v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:50:58Z",
+    "engagement": 0,
+    "raw_text": "A Multimodal 3D Foundation Model for Light Sheet Fluorescence Microscopy Enables Few-Shot Segmentation, Classification, and Deblurring Light sheet fluorescence microscopy (LSM) enables high-resolution, three-dimensional (3D) imaging of biological specimens, providing rich volumetric data for studying cellular organization, pathology, and vascular networks. However, the size, dimensionality, and annotation burden of LSM data make supervised deep learning approaches costly and difficult to scale. Additionally, despite the abundance",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26026v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Retrieval-Augmented Detection of Potentially Abusive Clauses in Chilean Terms of Service",
+    "url": "https://arxiv.org/abs/2605.26019v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:38:10Z",
+    "engagement": 0,
+    "raw_text": "Retrieval-Augmented Detection of Potentially Abusive Clauses in Chilean Terms of Service Online Terms of Service often function as contracts of adhesion, creating asymmetries that may expose consumers to potentially abusive clauses. In Chile, assessing such clauses is legally challenging because some provisions clearly violate mandatory consumer law, whereas others depend on broader standards such as good faith and contractual imbalance. We present a retrieval-augmented generation fra",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26019v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "STORM: Internalized Modeling for Spatial-Temporal Reasoning in Video-Language Models",
+    "url": "https://arxiv.org/abs/2605.26014v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:33:00Z",
+    "engagement": 0,
+    "raw_text": "STORM: Internalized Modeling for Spatial-Temporal Reasoning in Video-Language Models Many video reasoning tasks require tracking motion, temporal order, and evolving visual states across frames. Existing methods built on large vision-language models (LVLMs) often address this challenge by externalizing reasoning through textual chain-of-thought (CoT), keyframe selection, repeated frame reinsertion, or external tool use. While effective, such pipelines increase inference-time laten",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26014v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "AdvantageFlow: Advantage-Weighted Least Squares for RL in Flow Models",
+    "url": "https://arxiv.org/abs/2605.26013v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:32:14Z",
+    "engagement": 0,
+    "raw_text": "AdvantageFlow: Advantage-Weighted Least Squares for RL in Flow Models We introduce AdvantageFlow, a forward-process reinforcement learning algorithm for rectified flow models. Unlike Flow-GRPO, which optimizes the reverse process, we optimize an advantage-weighted forward-process prediction loss. This optimization problem is unstable when advantages are negative and the loss becomes non-convex. We stabilize it by rollout policy regularization, which reduces variance",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26013v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Learning in Low-Dimensional Subspaces: Orthogonal Bottlenecks for Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2605.26012v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:31:33Z",
+    "engagement": 0,
+    "raw_text": "Learning in Low-Dimensional Subspaces: Orthogonal Bottlenecks for Reinforcement Learning Deep reinforcement learning (RL) agents commonly rely on high-dimensional neural representations, despite growing evidence that task-relevant value and policy structure may be intrinsically low-dimensional. In this work, we present a simple yet effective representation-level prior that inserts a fixed orthonormal projection to constrain encoder features to a low-dimensional subspace, requiring no ",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26012v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Forgotten Words: Benchmarking NeoBERT for Dementia Detection in Low-Resource Conversational Filipino and English Speech",
+    "url": "https://arxiv.org/abs/2605.26007v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:26:15Z",
+    "engagement": 0,
+    "raw_text": "Forgotten Words: Benchmarking NeoBERT for Dementia Detection in Low-Resource Conversational Filipino and English Speech Dementia detection from spontaneous speech offers a scalable approach to cognitive screening, yet NLP systems remain predominantly English-centric. This limitation is especially acute in the Philippines, where Filipino-English code-switching is pervasive and no prior work has addressed NLP-based dementia detection. We present the first systematic evaluation of transformer-based dementia detection ",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26007v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "MAGIC: Multimodal Alignment & Grounding-aware Instruction Coreset for Vision-Language Models",
+    "url": "https://arxiv.org/abs/2605.26004v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:22:09Z",
+    "engagement": 0,
+    "raw_text": "MAGIC: Multimodal Alignment & Grounding-aware Instruction Coreset for Vision-Language Models Instruction tuning of large vision-language models (LVLMs) increasingly depends on massive multimodal corpora, yet these datasets contain samples with substantial redundancy, low visual dependency, and highly imbalanced coverage of multimodal reasoning behaviors. As a result, uniform subsampling or naive score-based selection often yields suboptimal training subsets. We introduce MAGIC, a training",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26004v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "AI-Assisted Systematization for Evaluating GenAI Systems",
+    "url": "https://arxiv.org/abs/2605.26001v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:19:44Z",
+    "engagement": 0,
+    "raw_text": "AI-Assisted Systematization for Evaluating GenAI Systems Evaluating generative AI (GenAI) systems is challenging because many targets of evaluation are broad, contested concepts, such as \"reasoning,\" \"fairness,\" or \"creativity.\" When these concepts are left underspecified, it becomes unclear what should be measured or how evaluation results should be interpreted. This problem reflects a missing step: systematization, that is, moving from a broad backgro",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26001v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Statistical Inference for Stochastic Gradient Descent Beyond Finite Variance",
+    "url": "https://arxiv.org/abs/2605.26000v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:18:39Z",
+    "engagement": 0,
+    "raw_text": "Statistical Inference for Stochastic Gradient Descent Beyond Finite Variance Stochastic gradient descent (SGD) is a foundational algorithm for large-scale statistical learning and stochastic optimization. However, statistical inference based on SGD iterates remains challenging when stochastic gradients have infinite variance, as the relevant limiting distributions depend on unknown nuisance parameters. In this paper, we develop an efficient, model-agnostic methodology for ",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.26000v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Causal methods for LLM development and evaluation",
+    "url": "https://arxiv.org/abs/2605.25998v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:15:44Z",
+    "engagement": 0,
+    "raw_text": "Causal methods for LLM development and evaluation Large language model (LLM) development is currently driven by large-scale empirical iteration over data mixtures, reward models, routing strategies, and evaluation pipelines. Here, we argue that many central questions in LLM development and evaluation are inherently causal: What is the effect of adding a data domain during pretraining? How do annotator preferences change when LLMs generate text in",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.25998v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Deployment-complete benchmarking",
+    "url": "https://arxiv.org/abs/2605.25997v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:15:22Z",
+    "engagement": 0,
+    "raw_text": "Deployment-complete benchmarking Benchmarks increasingly guide deployment, procurement and scientific screening, yet a score supports only the response it records, not necessarily the deployment action. We introduce deployment-complete benchmarking, which tests whether benchmark evidence determines a deployment action. A benchmark is complete for a claim exactly when the action is constant on each evidence fiber; mixed fibers exp",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.25997v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models",
+    "url": "https://arxiv.org/abs/2605.25991v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:10:21Z",
+    "engagement": 0,
+    "raw_text": "Fuzzy PyTorch: Rapid Numerical Variability Evaluation for Deep Learning Models We introduce Fuzzy PyTorch, a framework for rapid evaluation of numerical variability in deep learning (DL) models. As DL is increasingly applied to diverse tasks, understanding variability from floating-point arithmetic is essential to ensure robust and reliable performance. Tools assessing such variability must be scalable, efficient, and integrate seamlessly with existing frameworks while minim",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.25991v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "What Makes a Medical Checker Trainable? Diagnosing Signal Collapse and Reward Hacking in Checker-Guided RAG for Biomedical QA",
+    "url": "https://arxiv.org/abs/2605.25988v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:06:06Z",
+    "engagement": 0,
+    "raw_text": "What Makes a Medical Checker Trainable? Diagnosing Signal Collapse and Reward Hacking in Checker-Guided RAG for Biomedical QA Medical RAG needs evidence-grounded claims, so plugging a claim-level NLI checker into retrieval-augmented RL is intuitive. \\textbf{We find that the checker's \\emph{output distribution} during training, not its held-out accuracy, decides whether it provides trainable gradient.} We compare four NLI checker back-ends as process rewards inside a GRPO-trained medical RAG agent (Qwen2.5-7B, replicated ",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.25988v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Neural Scalable Symbolic Search Framework for Complex Logical Queries with Multiple Free Variables",
+    "url": "https://arxiv.org/abs/2605.25985v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:04:57Z",
+    "engagement": 0,
+    "raw_text": "Neural Scalable Symbolic Search Framework for Complex Logical Queries with Multiple Free Variables Complex Query Answering (CQA) is a fundamental knowledge representation and reasoning task over incomplete knowledge graphs (KGs). Answering existential first-order queries with $k$ free variables (i.e., $\\text{EFO}_k$ queries) is a crucial yet challenging problem, as it requires ranking answer tuples in $\\mathcal{E}^k$, where $\\mathcal{E}$ denotes the entity set of a KG. This quickly becomes intr",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.25985v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "SafeCtrl-RL: Inference-Time Adaptive Behaviour Control for LLM Dialogue via RL-Driven Prompt Optimisation",
+    "url": "https://arxiv.org/abs/2605.25984v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T16:03:38Z",
+    "engagement": 0,
+    "raw_text": "SafeCtrl-RL: Inference-Time Adaptive Behaviour Control for LLM Dialogue via RL-Driven Prompt Optimisation Ensuring safe and contextually appropriate behaviour in Large Language Models (LLMs) remains a critical challenge for real-world deployment. We present \\textbf{SafeCtrl-RL}, an inference-time behavioural control framework that enables adaptive safety regulation without model retraining or parameter modification. The method formulates dialogue generation as a sequential decision process, where a re",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.25984v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "When Do LLM Agents Treat Surface Noise Differently from Semantic Noise? A 68-Cell Measurement Study with a Held-Out Trace-Level Validation",
+    "url": "https://arxiv.org/abs/2605.25981v1",
+    "source": "arxiv",
+    "ts": "2026-05-25T15:57:11Z",
+    "engagement": 0,
+    "raw_text": "When Do LLM Agents Treat Surface Noise Differently from Semantic Noise? A 68-Cell Measurement Study with a Held-Out Trace-Level Validation We document an empirical phenomenon in chain-of-thought and ReAct agents driven by ten large language models from seven architecture families: meaning-bearing perturbations (e.g., paraphrase, synonym) alter final answers more often than presentation perturbations (e.g., formatting, reordering) of comparable severity. Across 68 cells spanning GSM8K, MATH, and HotpotQA (1,530 originals and $\\sim$11,",
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.25981v1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  }
+]

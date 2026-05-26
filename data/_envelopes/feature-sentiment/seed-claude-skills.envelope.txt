@@ -1,0 +1,18 @@
+FEATURE: Anthropic — Claude Skills — reusable instruction sets Claude loads on demand
+LAB ANCHOR URL: https://code.claude.com/docs/en/skills
+ENTITIES MATCHED: claude skills
+HYPE-DOMINANT: no (deterministic count: 0 of 2 top items match tutorial-hype regex indicators)
+
+2 creator items below. Tags: [LAB-AFFILIATED] = handle works at the lab; their "praise" is internal storytelling, not validation. [PODCAST] = YT podcast/video item, generate one podcast_synth entry. [REPLY SIGNAL] = aggregated comment-sentiment on the post; pos%/neg% are reply distribution, RATIOED means high-engagement post with negative-dominant replies (contradiction signal).
+
+[1] @(no author) · reddit  (35 eng)
+  URL: https://www.reddit.com/r/artificial/comments/1tnjhts/top_10_fastest_growing_ai_repos_this_week/
+[r/artificial] Top 10 Fastest Growing AI repos this week
+
+[2] @figrd._ · instagram  (0 eng)
+  URL: https://www.instagram.com/p/DYyzrYaGnw3/
+3 Claude Skills to Break AI Slop. 3 Claude skills designers install once and never brief from scratch again. Most Claude UI output looks the same. Inter. Purple gradient. Rounded cards. "Get started →". That's not taste — that's statistics. Your prompt competes with every UI Claude was ever trained on. The median pattern wins. Every time. Three skills change that. 01 frontend-design TASTE Anthropic's own skill. Blocks the defaults before any CSS is written. Forces a real aesthetic direction. Editorial. Sharp. Designed, not generated. 02 bencium-ux-designer JUDGMENT 28,000 characters of UX prin
+
+Synthesize per schema. Apply the rules above — especially the spade-a-spade clause when HYPE-DOMINANT is yes, the competitor-recommendation clause when a reply names a competitor, and the RATIOED clause when reply-signal contradicts post engagement.
+
+Return JSON only.

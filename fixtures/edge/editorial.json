@@ -1,0 +1,32 @@
+[
+  {
+    "title": "[Last Week in AI] ",
+    "url": "https://lastweekin.ai/p/empty-summary-edge-case",
+    "source": "editorial",
+    "ts": "2026-05-15T00:00:00.000Z",
+    "engagement": 50,
+    "raw_text": " — ",
+    "captured_at": "2026-05-15T17:30:00.000Z",
+    "meta": {
+      "publisher": "last-week-in-ai",
+      "label": "Last Week in AI",
+      "summary": "",
+      "date_basis": "feed-pubdate"
+    }
+  },
+  {
+    "title": "[Import AI] Edge case — no pubdate, harvester fell back to fetch time",
+    "url": "https://jack-clark.net/2026/05/15/edge-no-pubdate/",
+    "source": "editorial",
+    "ts": "2026-05-15T17:30:00.000Z",
+    "engagement": 100,
+    "raw_text": "Edge case — no pubdate, harvester fell back to fetch time — Item delivered no <pubDate>, no <dc:date>, no <updated>. Normalize() returned date_basis 'feed-fallback'. The item still ships, but downstream consumers must treat its ts as best-effort.",
+    "captured_at": "2026-05-15T17:30:00.000Z",
+    "meta": {
+      "publisher": "import-ai",
+      "label": "Import AI",
+      "summary": "Item delivered no pubDate, no dc:date, no updated. Normalize fell back to fetch time and tagged date_basis as feed-fallback.",
+      "date_basis": "feed-fallback"
+    }
+  }
+]

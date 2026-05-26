@@ -1,0 +1,42 @@
+{
+  "harvest_timestamp": "2026-05-26T13:26:44.065Z",
+  "sources_scanned": [
+    "x",
+    "tiktok",
+    "instagram",
+    "youtube",
+    "reddit",
+    "hn",
+    "bluesky",
+    "editorial",
+    "enterprise",
+    "frontier"
+  ],
+  "items_per_source": {
+    "x": 360,
+    "tiktok": 385,
+    "instagram": 346,
+    "youtube": 62,
+    "reddit": 60,
+    "hn": 82,
+    "bluesky": 1,
+    "editorial": 3,
+    "enterprise": 100,
+    "frontier": 65
+  },
+  "items_total": 1464,
+  "features_confirmed": 9,
+  "transcripts_extracted": {
+    "youtube": 49,
+    "tiktok": 93,
+    "instagram": 59
+  },
+  "x_replies_classified": 0,
+  "sonnet_passes": {
+    "per_feature": 9,
+    "cross_narrative": 1
+  },
+  "notable_orphans": 29,
+  "wrong_context_drops": 42,
+  "total_spend_usd_hard": "n/a"
+}

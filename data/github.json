@@ -1,0 +1,1084 @@
+[
+  {
+    "title": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "source": "github",
+    "ts": "2026-05-20T10:44:54Z",
+    "engagement": 64940,
+    "raw_text": "JuliusBrussee/caveman — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "meta": {
+      "repo": "JuliusBrussee/caveman",
+      "topics": [
+        "ai",
+        "anthropic",
+        "caveman",
+        "claude",
+        "claude-code",
+        "llm",
+        "meme",
+        "prompt-engineering",
+        "skill",
+        "tokens"
+      ],
+      "created_at": "2026-04-04T10:03:00Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "The best-benchmarked open-source AI memory system. And it's free.",
+    "url": "https://github.com/MemPalace/mempalace",
+    "source": "github",
+    "ts": "2026-05-26T04:54:26Z",
+    "engagement": 52853,
+    "raw_text": "MemPalace/mempalace — The best-benchmarked open-source AI memory system. And it's free.",
+    "meta": {
+      "repo": "MemPalace/mempalace",
+      "topics": [
+        "ai",
+        "chromadb",
+        "llm",
+        "mcp",
+        "memory",
+        "python"
+      ],
+      "created_at": "2026-04-05T01:12:07Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+    "url": "https://github.com/browser-use/browser-harness",
+    "source": "github",
+    "ts": "2026-05-20T19:28:42Z",
+    "engagement": 13785,
+    "raw_text": "browser-use/browser-harness — Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+    "meta": {
+      "repo": "browser-use/browser-harness",
+      "topics": [
+        "ai-agent",
+        "browser-agent",
+        "browser-automation",
+        "browser-use",
+        "browser-use-box",
+        "browser-use-cloud",
+        "cdp",
+        "cloud-browser",
+        "llm",
+        "persistent-browser",
+        "playwright",
+        "telegram-agent",
+        "vps-agent",
+        "web-automation"
+      ],
+      "created_at": "2026-04-17T01:56:15Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix",
+    "source": "github",
+    "ts": "2026-05-26T11:09:23Z",
+    "engagement": 9402,
+    "raw_text": "esengine/DeepSeek-Reasonix — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "meta": {
+      "repo": "esengine/DeepSeek-Reasonix",
+      "topics": [
+        "agent",
+        "agent-framework",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "coding-agent",
+        "deepseek",
+        "developer-tools",
+        "ink",
+        "llm",
+        "prompt-caching",
+        "r1",
+        "terminal",
+        "tool-use",
+        "tui",
+        "typescript"
+      ],
+      "created_at": "2026-04-21T08:27:02Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "source": "github",
+    "ts": "2026-05-25T16:56:03Z",
+    "engagement": 8718,
+    "raw_text": "HKUDS/Vibe-Trading — \"Vibe-Trading: Your Personal Trading Agent\"",
+    "meta": {
+      "repo": "HKUDS/Vibe-Trading",
+      "topics": [
+        "ai-agent",
+        "algorithmic-trading",
+        "backtesting",
+        "fintech",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "python",
+        "quantitative-finance",
+        "trading"
+      ],
+      "created_at": "2026-04-01T09:52:20Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Harness engineering official style beginner tutorial, from 0 to 1",
+    "url": "https://github.com/walkinglabs/learn-harness-engineering",
+    "source": "github",
+    "ts": "2026-05-23T05:46:15Z",
+    "engagement": 6577,
+    "raw_text": "walkinglabs/learn-harness-engineering — Harness engineering official style beginner tutorial, from 0 to 1",
+    "meta": {
+      "repo": "walkinglabs/learn-harness-engineering",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "harness",
+        "harness-engineering",
+        "harness-framework",
+        "llm"
+      ],
+      "created_at": "2026-03-29T12:28:19Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies.",
+    "url": "https://github.com/open-multi-agent/open-multi-agent",
+    "source": "github",
+    "ts": "2026-05-26T08:16:29Z",
+    "engagement": 6252,
+    "raw_text": "open-multi-agent/open-multi-agent — From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies.",
+    "meta": {
+      "repo": "open-multi-agent/open-multi-agent",
+      "topics": [
+        "agent-framework",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "deepseek",
+        "gemini",
+        "grok",
+        "llm",
+        "local-llm",
+        "mcp",
+        "model-agnostic",
+        "multi-agent",
+        "nodejs",
+        "ollama",
+        "openai",
+        "orchestration",
+        "structured-output",
+        "task-scheduling",
+        "tool-use",
+        "typescript"
+      ],
+      "created_at": "2026-03-31T19:07:34Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics",
+    "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+    "source": "github",
+    "ts": "2026-05-26T11:15:22Z",
+    "engagement": 6123,
+    "raw_text": "EKKOLearnAI/hermes-web-ui — Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics",
+    "meta": {
+      "repo": "EKKOLearnAI/hermes-web-ui",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "chat-ui",
+        "dashboard",
+        "hermes",
+        "hermes-agent",
+        "hermes-web-ui",
+        "llm",
+        "multi-model",
+        "multi-platform",
+        "self-hosted",
+        "typescript",
+        "vue3",
+        "web-ui"
+      ],
+      "created_at": "2026-04-11T07:38:18Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
+    "url": "https://github.com/AgriciDaniel/claude-obsidian",
+    "source": "github",
+    "ts": "2026-04-24T10:21:48Z",
+    "engagement": 5546,
+    "raw_text": "AgriciDaniel/claude-obsidian — Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
+    "meta": {
+      "repo": "AgriciDaniel/claude-obsidian",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "ai-second-brain",
+        "autonomous-research",
+        "claude-code",
+        "claude-code-skill",
+        "claude-plugin",
+        "karpathy-llm-wiki",
+        "knowledge-graph",
+        "knowledge-management",
+        "llm",
+        "multi-agent",
+        "obsidian",
+        "obsidian-ai",
+        "obsidian-plugin",
+        "open-source",
+        "pkm",
+        "rag",
+        "second-brain",
+        "wiki"
+      ],
+      "created_at": "2026-04-07T08:59:37Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "A bio-inspired cognitive memory engine — a new paradigm for Graph RAG.",
+    "url": "https://github.com/FlowElement-ai/m_flow",
+    "source": "github",
+    "ts": "2026-05-02T01:41:45Z",
+    "engagement": 4214,
+    "raw_text": "FlowElement-ai/m_flow — A bio-inspired cognitive memory engine — a new paradigm for Graph RAG.",
+    "meta": {
+      "repo": "FlowElement-ai/m_flow",
+      "topics": [
+        "agent-memory",
+        "agentic-ai",
+        "ai-reasoning",
+        "episodic-memory",
+        "graph-database",
+        "knowledge-graph",
+        "llm",
+        "long-term-memory",
+        "mcp",
+        "memory-engine",
+        "python",
+        "rag",
+        "semantic-memory",
+        "vector-search"
+      ],
+      "created_at": "2026-03-31T08:36:50Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "url": "https://github.com/Tencent/TencentDB-Agent-Memory",
+    "source": "github",
+    "ts": "2026-05-25T09:26:28Z",
+    "engagement": 4207,
+    "raw_text": "Tencent/TencentDB-Agent-Memory — TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "meta": {
+      "repo": "Tencent/TencentDB-Agent-Memory",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "embedding",
+        "llm",
+        "local-first",
+        "long-term-memory",
+        "memory",
+        "openclaw-plugin",
+        "vector-search"
+      ],
+      "created_at": "2026-04-07T06:34:26Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：",
+    "url": "https://github.com/lintsinghua/claude-code-book",
+    "source": "github",
+    "ts": "2026-04-06T07:22:38Z",
+    "engagement": 3410,
+    "raw_text": "lintsinghua/claude-code-book — 《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：",
+    "meta": {
+      "repo": "lintsinghua/claude-code-book",
+      "topics": [
+        "agent",
+        "agent-architecture",
+        "ai-agent",
+        "anthropic",
+        "book",
+        "chinese",
+        "claude-code",
+        "llm",
+        "mcp"
+      ],
+      "created_at": "2026-03-31T18:00:16Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "🛠️ Awesome tools & guides for harness engineering.",
+    "url": "https://github.com/walkinglabs/awesome-harness-engineering",
+    "source": "github",
+    "ts": "2026-05-22T16:17:33Z",
+    "engagement": 2735,
+    "raw_text": "walkinglabs/awesome-harness-engineering — 🛠️ Awesome tools & guides for harness engineering.",
+    "meta": {
+      "repo": "walkinglabs/awesome-harness-engineering",
+      "topics": [
+        "agemt",
+        "agentic",
+        "agentic-ai",
+        "ai",
+        "ai-agents",
+        "harness",
+        "harness-engineering",
+        "harness-framework",
+        "llm"
+      ],
+      "created_at": "2026-03-29T11:29:37Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
+    "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
+    "source": "github",
+    "ts": "2026-05-05T15:39:49Z",
+    "engagement": 2477,
+    "raw_text": "Windy3f3f3f3f/how-claude-code-works — Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
+    "meta": {
+      "repo": "Windy3f3f3f3f/how-claude-code-works",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "anthropic",
+        "architecture",
+        "claude",
+        "claude-code",
+        "coding-agent",
+        "deep-dive",
+        "llm",
+        "source-code-analysis"
+      ],
+      "created_at": "2026-03-31T12:25:40Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+    "url": "https://github.com/cosmicstack-labs/mercury-agent",
+    "source": "github",
+    "ts": "2026-05-25T20:13:10Z",
+    "engagement": 2452,
+    "raw_text": "cosmicstack-labs/mercury-agent — Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+    "meta": {
+      "repo": "cosmicstack-labs/mercury-agent",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "llm"
+      ],
+      "created_at": "2026-04-20T12:46:31Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "source": "github",
+    "ts": "2026-05-25T14:23:58Z",
+    "engagement": 6537,
+    "raw_text": "freestylefly/awesome-gpt-image-2 — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "meta": {
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "topics": [
+        "agents",
+        "ai-image-generation",
+        "chatgpt",
+        "gpt-image-2",
+        "image-prompts",
+        "prompt-as-code",
+        "prompt-engineering",
+        "skills",
+        "workflow-automation"
+      ],
+      "created_at": "2026-04-25T09:19:13Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+    "url": "https://github.com/TencentCloud/CubeSandbox",
+    "source": "github",
+    "ts": "2026-05-26T06:57:14Z",
+    "engagement": 5942,
+    "raw_text": "TencentCloud/CubeSandbox — Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+    "meta": {
+      "repo": "TencentCloud/CubeSandbox",
+      "topics": [
+        "agents",
+        "container",
+        "sandbox"
+      ],
+      "created_at": "2026-04-10T03:00:31Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+    "url": "https://github.com/crynta/terax-ai",
+    "source": "github",
+    "ts": "2026-05-26T00:32:15Z",
+    "engagement": 5080,
+    "raw_text": "crynta/terax-ai — Lightweight (7MB) Terminal-first AI-native dev workspace",
+    "meta": {
+      "repo": "crynta/terax-ai",
+      "topics": [
+        "agents",
+        "ai",
+        "code-editor",
+        "linux",
+        "macos",
+        "reactjs",
+        "rust",
+        "tauri",
+        "terminal",
+        "windows",
+        "xterm-js"
+      ],
+      "created_at": "2026-04-21T18:33:12Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "A collection of agent skills for CAD, robotics and hardware design",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "source": "github",
+    "ts": "2026-05-21T03:27:07Z",
+    "engagement": 4836,
+    "raw_text": "earthtojake/text-to-cad — A collection of agent skills for CAD, robotics and hardware design",
+    "meta": {
+      "repo": "earthtojake/text-to-cad",
+      "topics": [
+        "3mf",
+        "agents",
+        "ai-agents",
+        "build123d",
+        "cad",
+        "dxf",
+        "glb",
+        "mechanical-engineering",
+        "opencascade",
+        "robotics",
+        "sdf",
+        "srdf",
+        "step",
+        "stl",
+        "stp",
+        "text-to-cad",
+        "urdf",
+        "wasm"
+      ],
+      "created_at": "2026-04-22T01:09:45Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read",
+    "url": "https://github.com/MinishLab/semble",
+    "source": "github",
+    "ts": "2026-05-24T18:30:30Z",
+    "engagement": 4325,
+    "raw_text": "MinishLab/semble — Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read",
+    "meta": {
+      "repo": "MinishLab/semble",
+      "topics": [
+        "agents",
+        "code-search",
+        "embeddings",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "retrieval"
+      ],
+      "created_at": "2026-04-06T14:56:45Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+    "url": "https://github.com/google/agents-cli",
+    "source": "github",
+    "ts": "2026-05-19T01:14:35Z",
+    "engagement": 2581,
+    "raw_text": "google/agents-cli — The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+    "meta": {
+      "repo": "google/agents-cli",
+      "topics": [
+        "adk",
+        "agent-development-kit",
+        "agents",
+        "coding-agent",
+        "gemini",
+        "gemini-enterprise-agent-platform",
+        "generative-ai",
+        "google-cloud"
+      ],
+      "created_at": "2026-04-08T17:09:55Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "OpenKB: Open LLM Knowledge Base",
+    "url": "https://github.com/VectifyAI/OpenKB",
+    "source": "github",
+    "ts": "2026-05-25T09:49:56Z",
+    "engagement": 1920,
+    "raw_text": "VectifyAI/OpenKB — OpenKB: Open LLM Knowledge Base",
+    "meta": {
+      "repo": "VectifyAI/OpenKB",
+      "topics": [
+        "agents",
+        "ai",
+        "knowledge-base",
+        "llm",
+        "rag",
+        "retrieval"
+      ],
+      "created_at": "2026-04-04T12:26:04Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Observal is an Observability and Evaluation platform for human-in-the-loop agents",
+    "url": "https://github.com/BlazeUp-AI/Observal",
+    "source": "github",
+    "ts": "2026-05-26T08:22:38Z",
+    "engagement": 1561,
+    "raw_text": "BlazeUp-AI/Observal — Observal is an Observability and Evaluation platform for human-in-the-loop agents",
+    "meta": {
+      "repo": "BlazeUp-AI/Observal",
+      "topics": [
+        "agents",
+        "claude-code",
+        "cli-tool",
+        "cursor",
+        "evaluation",
+        "gemini-cli",
+        "kiro",
+        "large-language-models",
+        "llm",
+        "llm-evaluation",
+        "llm-observability",
+        "llmops",
+        "monitoring",
+        "observability",
+        "open-source",
+        "playground",
+        "self-hosted"
+      ],
+      "created_at": "2026-03-30T16:05:36Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.",
+    "url": "https://github.com/Infisical/agent-vault",
+    "source": "github",
+    "ts": "2026-05-26T03:30:42Z",
+    "engagement": 1397,
+    "raw_text": "Infisical/agent-vault — A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.",
+    "meta": {
+      "repo": "Infisical/agent-vault",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "secrets-management"
+      ],
+      "created_at": "2026-03-27T21:47:17Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+    "url": "https://github.com/DenisSergeevitch/agents-best-practices",
+    "source": "github",
+    "ts": "2026-05-15T23:01:42Z",
+    "engagement": 1070,
+    "raw_text": "DenisSergeevitch/agents-best-practices — Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+    "meta": {
+      "repo": "DenisSergeevitch/agents-best-practices",
+      "topics": [
+        "agent-skill",
+        "agent-skills",
+        "agentic-workflows",
+        "agents",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "codex",
+        "codex-skill",
+        "mcp",
+        "prompt-engineering"
+      ],
+      "created_at": "2026-05-15T21:32:21Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !",
+    "url": "https://github.com/lucasastorian/llmwiki",
+    "source": "github",
+    "ts": "2026-05-19T02:54:20Z",
+    "engagement": 974,
+    "raw_text": "lucasastorian/llmwiki — Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !",
+    "meta": {
+      "repo": "lucasastorian/llmwiki",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "claude",
+        "karpathy",
+        "knowledge-base",
+        "llm",
+        "llm-wiki",
+        "mcp",
+        "mcp-server",
+        "rag",
+        "supabase"
+      ],
+      "created_at": "2026-04-04T17:10:02Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
+    "url": "https://github.com/haydenbleasel/files-sdk",
+    "source": "github",
+    "ts": "2026-05-26T06:47:30Z",
+    "engagement": 970,
+    "raw_text": "haydenbleasel/files-sdk — A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
+    "meta": {
+      "repo": "haydenbleasel/files-sdk",
+      "topics": [
+        "agents",
+        "blob",
+        "cloudflare",
+        "files",
+        "google",
+        "minio",
+        "r2",
+        "s3",
+        "storage",
+        "vercel"
+      ],
+      "created_at": "2026-05-08T07:37:16Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
+    "url": "https://github.com/rasbt/mini-coding-agent",
+    "source": "github",
+    "ts": "2026-04-07T22:07:26Z",
+    "engagement": 883,
+    "raw_text": "rasbt/mini-coding-agent — Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
+    "meta": {
+      "repo": "rasbt/mini-coding-agent",
+      "topics": [
+        "agents",
+        "ai",
+        "large-language-models",
+        "llms",
+        "python"
+      ],
+      "created_at": "2026-04-02T02:35:06Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
+    "url": "https://github.com/AIScientists-Dev/WorldSeed",
+    "source": "github",
+    "ts": "2026-05-08T05:24:35Z",
+    "engagement": 748,
+    "raw_text": "AIScientists-Dev/WorldSeed — More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
+    "meta": {
+      "repo": "AIScientists-Dev/WorldSeed",
+      "topics": [
+        "agent-based-simulation",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "autonomous-agents",
+        "emergent-behavior",
+        "game-ai",
+        "generative-agents",
+        "generative-ai",
+        "llm",
+        "llm-agents",
+        "multi-agent",
+        "multi-agent-systems",
+        "open-source",
+        "python",
+        "simulation",
+        "social-simulation",
+        "typescript",
+        "world-models"
+      ],
+      "created_at": "2026-04-15T03:47:21Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "A macOS menu bar (Vibe Island liked ) app that monitors AI coding sessions in a Dynamic Island-style surface — approve, respond, and jump back to the right window, all from the notch.         一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转",
+    "url": "https://github.com/erha19/ping-island",
+    "source": "github",
+    "ts": "2026-05-21T16:25:16Z",
+    "engagement": 734,
+    "raw_text": "erha19/ping-island — A macOS menu bar (Vibe Island liked ) app that monitors AI coding sessions in a Dynamic Island-style surface — approve, respond, and jump back to the right window, all from the notch.         一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支持审批、追问和窗口跳转",
+    "meta": {
+      "repo": "erha19/ping-island",
+      "topics": [
+        "agents",
+        "island",
+        "vibe-coding",
+        "vibe-island"
+      ],
+      "created_at": "2026-04-03T14:22:16Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "url": "https://github.com/safishamsi/graphify",
+    "source": "github",
+    "ts": "2026-05-26T08:19:07Z",
+    "engagement": 53987,
+    "raw_text": "safishamsi/graphify — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "meta": {
+      "repo": "safishamsi/graphify",
+      "topics": [
+        "antigravity",
+        "claude-code",
+        "codex",
+        "gemini",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "openclaw",
+        "rag",
+        "skills",
+        "tree-sitter"
+      ],
+      "created_at": "2026-04-03T15:49:07Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "url": "https://github.com/ConardLi/garden-skills",
+    "source": "github",
+    "ts": "2026-05-26T04:18:04Z",
+    "engagement": 6129,
+    "raw_text": "ConardLi/garden-skills — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "meta": {
+      "repo": "ConardLi/garden-skills",
+      "topics": [
+        "agent",
+        "claude",
+        "gpt-image-2",
+        "rag",
+        "skills",
+        "web-design"
+      ],
+      "created_at": "2026-04-21T11:56:17Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts, access policies, and AI skills. Connect Claude and other LLMs via Model Context Protocol (MCP) for automated, secure organizational knowledge integration.",
+    "url": "https://github.com/nduckmink/arkon",
+    "source": "github",
+    "ts": "2026-05-21T09:20:03Z",
+    "engagement": 888,
+    "raw_text": "nduckmink/arkon — Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts, access policies, and AI skills. Connect Claude and other LLMs via Model Context Protocol (MCP) for automated, secure organizational knowledge integration.",
+    "meta": {
+      "repo": "nduckmink/arkon",
+      "topics": [
+        "enterprise-ai",
+        "knowledge-base-embeddings",
+        "knowledge-based-systems",
+        "knowledge-bases",
+        "llm-wiki-personal-knowledge-base",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "organizational-knowledge",
+        "rag",
+        "self-hosted",
+        "wiki"
+      ],
+      "created_at": "2026-04-30T15:11:39Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "url": "https://github.com/Ontos-AI/knowhere",
+    "source": "github",
+    "ts": "2026-05-26T11:12:24Z",
+    "engagement": 567,
+    "raw_text": "Ontos-AI/knowhere — Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "meta": {
+      "repo": "Ontos-AI/knowhere",
+      "topics": [
+        "agent",
+        "ai-agents",
+        "chromadb",
+        "claude",
+        "claude-code",
+        "cursor",
+        "elasticsearch",
+        "gemini",
+        "gpt",
+        "langchain",
+        "milvus",
+        "qdrant",
+        "rag",
+        "rag-pipeline",
+        "skills"
+      ],
+      "created_at": "2026-04-30T03:13:10Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "公开的 Java 后端 / AI Agent / 系统设计 / 算法面试复习资料库",
+    "url": "https://github.com/guoguo-tju/agent_java_offer",
+    "source": "github",
+    "ts": "2026-04-23T09:30:22Z",
+    "engagement": 541,
+    "raw_text": "guoguo-tju/agent_java_offer — 公开的 Java 后端 / AI Agent / 系统设计 / 算法面试复习资料库",
+    "meta": {
+      "repo": "guoguo-tju/agent_java_offer",
+      "topics": [
+        "ai-agent",
+        "algorithms",
+        "backend",
+        "interview-prep",
+        "java",
+        "langgraph",
+        "rag",
+        "system-design"
+      ],
+      "created_at": "2026-04-16T04:44:51Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "AI equity research agent with resilient workflows, Redis Lua single-flight, pgvector RAG, versioned reports, evidence tracing, and RAG evaluation.",
+    "url": "https://github.com/juanjuandog/FinSight-AI",
+    "source": "github",
+    "ts": "2026-05-26T01:39:47Z",
+    "engagement": 522,
+    "raw_text": "juanjuandog/FinSight-AI — AI equity research agent with resilient workflows, Redis Lua single-flight, pgvector RAG, versioned reports, evidence tracing, and RAG evaluation.",
+    "meta": {
+      "repo": "juanjuandog/FinSight-AI",
+      "topics": [
+        "ai-agent",
+        "financial-research",
+        "llm-evaluation",
+        "pgvector",
+        "postgresql",
+        "rabbitmq",
+        "rag",
+        "redis",
+        "spring-boot",
+        "workflow-orchestration"
+      ],
+      "created_at": "2026-05-11T11:19:40Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Private on-device AI suite for Android. Fork of Google AI Edge Gallery with llama.cpp, whisper.cpp, stable-diffusion.cpp, GGUF import, voice chat, vision AI, on-device image generation, biometric lock, encrypted history, and CPU/NPU/GPU acceleration.",
+    "url": "https://github.com/jegly/Box",
+    "source": "github",
+    "ts": "2026-05-24T06:47:01Z",
+    "engagement": 499,
+    "raw_text": "jegly/Box — Private on-device AI suite for Android. Fork of Google AI Edge Gallery with llama.cpp, whisper.cpp, stable-diffusion.cpp, GGUF import, voice chat, vision AI, on-device image generation, biometric lock, encrypted history, and CPU/NPU/GPU acceleration.",
+    "meta": {
+      "repo": "jegly/Box",
+      "topics": [
+        "android",
+        "android-ai-app",
+        "artificial-intelligence",
+        "box",
+        "gguf",
+        "linux",
+        "linux-ai",
+        "litert",
+        "litert-community-functiongemma",
+        "litert-for-android",
+        "litert-lm",
+        "litertlm",
+        "llamacpp",
+        "local-ai",
+        "local-llm",
+        "mcp-server",
+        "ondevice-ai",
+        "privacy-first-ai",
+        "rag",
+        "visionai"
+      ],
+      "created_at": "2026-04-17T10:42:52Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
+    "url": "https://github.com/swarmclawai/swarmvault",
+    "source": "github",
+    "ts": "2026-05-20T13:45:53Z",
+    "engagement": 491,
+    "raw_text": "swarmclawai/swarmvault — The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
+    "meta": {
+      "repo": "swarmclawai/swarmvault",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "claude-code",
+        "claude-code-memory",
+        "codex",
+        "karpathy",
+        "knowledge-graph",
+        "llm",
+        "llm-wiki",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "obsidian",
+        "obsidian-alternative",
+        "openclaw",
+        "opencode",
+        "personal-knowledge-management",
+        "pkm",
+        "rag",
+        "wiki"
+      ],
+      "created_at": "2026-04-06T20:52:30Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
+    "url": "https://github.com/JuliusBrussee/cavemem",
+    "source": "github",
+    "ts": "2026-05-17T22:44:25Z",
+    "engagement": 451,
+    "raw_text": "JuliusBrussee/cavemem — Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
+    "meta": {
+      "repo": "JuliusBrussee/cavemem",
+      "topics": [
+        "ai",
+        "caveman",
+        "claude",
+        "claude-code",
+        "compress",
+        "memory",
+        "rag",
+        "rag-chatbot"
+      ],
+      "created_at": "2026-04-18T00:21:39Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Self-hosted AI workflow automation platform with visual canvas, agents, RAG, HITL, MCP, and observability in one runtime.",
+    "url": "https://github.com/heymrun/heym",
+    "source": "github",
+    "ts": "2026-05-21T18:56:41Z",
+    "engagement": 448,
+    "raw_text": "heymrun/heym — Self-hosted AI workflow automation platform with visual canvas, agents, RAG, HITL, MCP, and observability in one runtime.",
+    "meta": {
+      "repo": "heymrun/heym",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-agents-framework",
+        "ai-assistant",
+        "automation",
+        "automation-tool",
+        "human-in-the-loop",
+        "mcp",
+        "mcp-server",
+        "mcp-tool",
+        "mcps",
+        "n8n-alternative",
+        "no-code",
+        "no-code-automation",
+        "python",
+        "rag",
+        "self-hosted",
+        "vue",
+        "workflow-automation",
+        "workflows"
+      ],
+      "created_at": "2026-03-28T08:08:49Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
+    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+    "source": "github",
+    "ts": "2026-05-15T18:24:34Z",
+    "engagement": 415,
+    "raw_text": "NirDiamant/Agent_Memory_Techniques — Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
+    "meta": {
+      "repo": "NirDiamant/Agent_Memory_Techniques",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "anthropic",
+        "cognitive-architecture",
+        "cookbook",
+        "episodic-memory",
+        "graphiti",
+        "jupyter-notebook",
+        "knowledge-graph",
+        "langchain",
+        "letta",
+        "llm-agents",
+        "llm-memory",
+        "mem0",
+        "memgpt",
+        "openai",
+        "rag",
+        "tutorial",
+        "vector-database",
+        "zep"
+      ],
+      "created_at": "2026-05-05T21:08:23Z"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  }
+]

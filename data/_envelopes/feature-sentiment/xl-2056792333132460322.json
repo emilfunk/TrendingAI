@@ -1,0 +1,32 @@
+{
+  "feature_id": "xl-2056792333132460322",
+  "overall_sentiment": "positive",
+  "dominant_pattern": "news",
+  "summary_sentence": "Gemini Spark launched at Google I/O as the 24/7 personal AI agent reading Drive, Gmail, and Calendar to autonomously build decks and write emails; kanekallaway's TikTok explainer surfaces the cross-app personal-agent angle Google has been positioned for, and AI Daily Brief framed it pre-I/O as one of the two headline expectations alongside cost-optimized Gemini Flash models, paired against OpenAI's Codex-mobile push.",
+  "praises": [
+    "kanekallaway names the cross-app personal-agent capability: reads Drive, scans email, cross-references Calendar, and live-builds decks",
+    "brandnat surfaces the 24/7-background-agent framing as the headline I/O launch"
+  ],
+  "complaints": [],
+  "notable_quotes": [
+    {"author": "@kanekallaway", "source": "tiktok", "quote": "Gemini Spark is an AI that lives across all of your Google apps and connected tools."},
+    {"author": "@AI Daily Brief", "source": "youtube", "quote": "Google I/O expectations include a Gemini Spark personal agent and cost-optimized Gemini Flash models."},
+    {"author": "@brandnat", "source": "tiktok", "quote": "NEW Gemini Spark - 24/7 personal AI agent launches at @Google I/O"}
+  ],
+  "podcast_synth": [
+    {"video_id": "8uCkUyRFUqY", "show_name": "AI Daily Brief", "synth_line": "AI Daily Brief frames Gemini Spark as one of Google's two main I/O expectations alongside cost-optimized Flash models, while Codex-on-ChatGPT-mobile is OpenAI's parallel persistent-agent move."}
+  ],
+  "cited_items_why": {
+    "https://www.youtube.com/watch?v=8uCkUyRFUqY": "AI Daily Brief pre-I/O sets Gemini Spark expectations alongside the cost-optimized Flash story and the OpenAI Codex-mobile parallel.",
+    "https://www.tiktok.com/@kanekallaway/video/7643040317897313567": "kanekallaway names the cross-Google-app personal-agent capability that is the actual product claim.",
+    "https://www.tiktok.com/@brandnat/video/7642003064978951445": "brandnat surfaces the 24/7-background-agent framing as the headline launch."
+  },
+  "counter_narratives": [
+    "OpenAI's Codex-on-ChatGPT-mobile push (covered by AI Daily Brief in the same pre-I/O episode) ships a persistent-agent workflow on phones that Gemini Spark is now positioned against; both labs are racing to put a background autonomous agent in front of consumer users."
+  ],
+  "creator_recommendation": {
+    "angle": "Give Gemini Spark and Codex-on-ChatGPT-mobile the same realistic personal-assistant task (read 50 emails, surface action items, build a 3-slide deck, draft the reply) and report which one actually completes the full chain without hand-holding.",
+    "format": "demo",
+    "hook": "Google and OpenAI both just put a 24/7 background agent on your phone. I gave them the same Monday-morning task. One finished. The other asked permission six times."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "feature_id": "xl-2058983299092009421",
+  "overall_sentiment": "mixed",
+  "dominant_pattern": "news",
+  "summary_sentence": "Pope Leo XIV's first encyclical 'Magnifica Humanitas' called for AI to be 'disarmed' with Anthropic co-founder Chris Olah on the Vatican stage; major outlets (TechCrunch, Bloomberg, FT, The Information, The Register, The Verge, Variety) framed it as a power-concentration critique while a CNN TT clip pushed the 'disarmed' soundbite to 578k engagement.",
+  "praises": [
+    "iScienceLuvr cites the encyclical's nuanced framing that technology takes on the characteristics of those who devise and fund it, not inherently evil",
+    "Chris Olah's invitation to present alongside the Pope frames Anthropic as the lab the Vatican wanted in the room"
+  ],
+  "complaints": [
+    "Pope Leo's framing positions current AI development as risking 'New Forms of Dehumanization' under opaque control of few firms",
+    "TechCrunch argues the encyclical 'isn't really about AI' but uses AI as a lens for older concerns about concentrated power",
+    "FT highlights the 'idolatry of profit' framing critiquing the entire commercial AI revolution"
+  ],
+  "notable_quotes": [
+    {"author": "@cnn", "source": "tiktok", "quote": "Pope Leo XIV called for AI to be \"disarmed\" during the presentation of his first encyclical document, \"Magnifica Humanitas.\""},
+    {"author": "@iScienceLuvr", "source": "x", "quote": "technology is never neutral, because it takes on the characteristics of those who devise, finance, regulate, and use it."},
+    {"author": "@simonw", "source": "x", "quote": "When I woke up this morning I didn't think I'd be spending a bunch of time today getting familiar with Catholic theology, but here we are."}
+  ],
+  "podcast_synth": [],
+  "cited_items_why": {
+    "https://x.com/simonw/status/2059065719086792804": "Simon Willison signals the encyclical pulled even technical-AI watchers into reading Catholic theology this week.",
+    "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/": "TechCrunch reframes the encyclical as a diagnosis of concentrated power using AI as the surface lens.",
+    "https://www.bloomberg.com/news/articles/2026-05-25/pope-leo-warns-ai-should-be-prevented-from-dominating-humanity": "Bloomberg surfaces the 'disarmed' framing as the Pope's contribution to the regulation debate.",
+    "https://www.tiktok.com/@cnn/video/7643831428689546510": "CNN's 578k-engagement TikTok clip pushed the 'disarmed' soundbite into mainstream feeds.",
+    "https://x.com/iScienceLuvr/status/2058890492172280143": "iScienceLuvr surfaces the nuanced theological framing that tech reflects its makers, not is intrinsically evil.",
+    "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/": "Religion News frames the encyclical's central claim: AI must serve humanity, not the powerful few.",
+    "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/": "Variety surfaces the 'New Forms of Dehumanization' phrase critiquing opaque AI run by few firms.",
+    "https://www.theinformation.com/briefings/pope-leo-anthropic-co-founder-warn-ai-power-concentration-labor-displacement": "The Information explicitly pairs the Pope's warning with Chris Olah's framing of AI power concentration and labor displacement.",
+    "https://www.theregister.com/ai-ml/2026/05/26/pope-leo-warns-ai-boom-can-give-big-tech-and-the-people-who-run-it-too-much-power/5245883": "The Register surfaces the Pope's warning that AI change may be 'governed only by technocratic thinking and presented as necessary and inevitable'.",
+    "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare": "The Verge ties the encyclical to Anthropic and labor-warfare themes.",
+    "https://www.ft.com/content/12313f08-991d-4079-9631-9ce7ae70c3e3": "FT highlights the 'idolatry of profit' framing critiquing the commercial AI revolution."
+  },
+  "counter_narratives": [],
+  "creator_recommendation": {
+    "angle": "Read the actual encyclical (it's online) and unpack the three technical claims it makes about modern AI from a builder's perspective; map each claim to the actual mechanism it describes (training data ownership, model concentration, agent autonomy) rather than the theological framing.",
+    "format": "explainer",
+    "hook": "The Pope's first encyclical names three things wrong with AI. Two of them are real engineering decisions you make every week. Here is what he actually said, and what to change in your stack."
+  }
+}

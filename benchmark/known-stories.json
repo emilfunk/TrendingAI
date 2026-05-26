@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "purpose": "ISC-153 — labeled set of known-real AI stories the report is sanity-checked against. Seed values from Kem (ISA iteration 15). Update as new headline stories emerge so the oracle stays current.",
+  "matchPolicy": "An item is considered to be ABOUT a story when at least one of the story's matchTerms is a case-insensitive substring of the item's title or raw_text.",
+  "stories": [
+    {
+      "id": "openai-musk-court-case",
+      "name": "OpenAI vs Elon Musk court case",
+      "expectedType": "news",
+      "expectedPlatforms": ["hn", "x", "frontier", "reddit"],
+      "matchTerms": ["Musk", "OpenAI v.", "Elon", "lawsuit", "court case"],
+      "matchAllRequired": false,
+      "minimumMatchedTerms": 2,
+      "notes": "Kem's seed (ISA iteration 15). High-profile legal news, expected to surface widely. matchAllRequired=false + minimumMatchedTerms=2 to avoid false positives from a single common surname."
+    },
+    {
+      "id": "anthropic-compute-spacex-musk-deal",
+      "name": "Anthropic compute issues + SpaceX/Musk compute deal",
+      "expectedType": "enterprise-news",
+      "expectedPlatforms": ["frontier", "hn", "x"],
+      "matchTerms": ["Anthropic", "SpaceX", "compute", "deal"],
+      "matchAllRequired": false,
+      "minimumMatchedTerms": 2,
+      "notes": "Kem's seed. Enterprise-level — partnership / compute supply. minimumMatchedTerms=2 avoids matching every Anthropic post."
+    },
+    {
+      "id": "anthropic-interpretability-research",
+      "name": "Anthropic interpretability — listen to what models are thinking",
+      "expectedType": "research",
+      "expectedPlatforms": ["frontier", "arxiv", "hn", "x"],
+      "matchTerms": ["interpretability", "circuits", "what models are thinking", "listen to", "mechanistic"],
+      "matchAllRequired": false,
+      "minimumMatchedTerms": 1,
+      "notes": "Kem's seed. Anthropic interpretability work — quoted as 'you can listen to what's actually being thought inside models'. Multi-platform: research first, then enterprise/community amplification."
+    },
+    {
+      "id": "glasswing-ventures",
+      "name": "Glasswing Ventures (Kem flagged: 'Glass Wing' — confirm referent)",
+      "expectedType": "news",
+      "expectedPlatforms": ["hn", "x", "frontier"],
+      "matchTerms": ["Glasswing", "Glasswing Ventures", "Glass Wing"],
+      "matchAllRequired": false,
+      "minimumMatchedTerms": 1,
+      "notes": "Kem said 'Glass Wing' (ISA iteration 15) — ISA flagged as likely Glasswing Ventures (AI/security VC). If the actual referent is different (e.g. a product / paper / company), update id+matchTerms here when Kem confirms."
+    },
+    {
+      "id": "claude-plan-sdk-restructure",
+      "name": "Anthropic restructures Claude subscription plan — Agent SDK and claude -p removed",
+      "expectedType": "feature",
+      "expectedPlatforms": ["hn", "x", "frontier"],
+      "matchTerms": ["Agent SDK", "Claude Plan", "claude -p", "no longer include"],
+      "matchAllRequired": false,
+      "minimumMatchedTerms": 1,
+      "notes": "Added 2026-05-15 from a real iteration-16 conversation. Surfaced on HN as two items: (1) support.claude.com/articles/15036540 — Anthropic's own support article; (2) xda-developers.com coverage — 'Claude subscriptions no longer include Agent SDK and Claude -p usage'. Originating @ClaudeDevs tweet on X is the canonical source — needs HARVEST_PAID=1 to verify. Concrete worked example for ISC-125-127 (reception layer): the dev community is angry per Kem, but every harvested artifact has neutral or factual phrasing; engagement-as-trending would mis-classify this as 'liked news' when it is 'ratioed news'. expectedType is 'feature' because the change is a specific shift to what the subscription tier provides, not broader-theme news."
+    }
+  ]
+}

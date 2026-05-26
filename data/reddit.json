@@ -1,0 +1,902 @@
+[
+  {
+    "title": "[r/MachineLearning] PapersWithCode new features - week 1 [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tmawv5/paperswithcode_new_features_week_1_p/",
+    "source": "reddit",
+    "ts": "2026-05-24T12:31:12.000Z",
+    "engagement": 138,
+    "raw_text": "PapersWithCode new features - week 1 [P] — Hi,\n\n  \nNiels here from the open-source team at Hugging Face. It's been one week since I [launched](https://www.reddit.com/r/MachineLearning/comments/1tgmwqr/reviving_paperswithcode_by_hugging_face_p/) [paperswithcode.co](http://paperswithcode.co), a revival of the website we all",
+    "meta": {
+      "subreddit": "MachineLearning",
+      "score": 131,
+      "comments": 7,
+      "external_url": "https://old.reddit.com/r/MachineLearning/comments/1tmawv5/paperswithcode_new_features_week_1_p/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/MachineLearning] The famous METR AI time horizons graph contains numerous severe errors [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tnhnh5/the_famous_metr_ai_time_horizons_graph_contains/",
+    "source": "reddit",
+    "ts": "2026-05-25T18:30:21.000Z",
+    "engagement": 107,
+    "raw_text": "The famous METR AI time horizons graph contains numerous severe errors [D] — Nathan Witkin, a research writer at NYU Stern’s Tech and Society Lab, [writes](https://www.transformernews.ai/p/against-the-metr-graph-coding-capabilities-software-jobs-task-ai) damningly about the famous METR AI time horizons graph in the Substack publication Transformer:\n\n>It i",
+    "meta": {
+      "subreddit": "MachineLearning",
+      "score": 47,
+      "comments": 60,
+      "external_url": "https://old.reddit.com/r/MachineLearning/comments/1tnhnh5/the_famous_metr_ai_time_horizons_graph_contains/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/MachineLearning] How do ML practitioners select hyperparameters, architectures, etc for self-supervised representation learning when the loss is non-monotonic? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tmprdm/how_do_ml_practitioners_select_hyperparameters/",
+    "source": "reddit",
+    "ts": "2026-05-24T22:06:09.000Z",
+    "engagement": 94,
+    "raw_text": "How do ML practitioners select hyperparameters, architectures, etc for self-supervised representation learning when the loss is non-monotonic? [D] — Non-contrastive SSL methods like BYOL/JEPA/data2vec seem promising, but I have no idea what is being learned, or how well; it’s models all the way down. Maybe I’ve got supervised tasks for which I’d like to see transfer, and I can evaluate linear probe/KNN results during training",
+    "meta": {
+      "subreddit": "MachineLearning",
+      "score": 72,
+      "comments": 22,
+      "external_url": "https://old.reddit.com/r/MachineLearning/comments/1tmprdm/how_do_ml_practitioners_select_hyperparameters/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/MachineLearning] pipeline is really slow - consulting [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tlna8o/pipeline_is_really_slow_consulting_d/",
+    "source": "reddit",
+    "ts": "2026-05-23T17:53:12.000Z",
+    "engagement": 56,
+    "raw_text": "pipeline is really slow - consulting [D] — Hi, after a long debugging process and many discussions, I wanted to ask for advice from people who may have encountered similar training bottlenecks.\n\nMy goal is imitation learning for robotics.\n\nModel / Pipeline\n\n* Observation space:\n   * 4 RGB robot cameras\n   * image resoluti",
+    "meta": {
+      "subreddit": "MachineLearning",
+      "score": 18,
+      "comments": 38,
+      "external_url": "https://old.reddit.com/r/MachineLearning/comments/1tlna8o/pipeline_is_really_slow_consulting_d/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/MachineLearning] COLM 2026 ReviewsDiscussion [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tkuu66/colm_2026_reviewsdiscussion_d/",
+    "source": "reddit",
+    "ts": "2026-05-22T20:24:35.000Z",
+    "engagement": 46,
+    "raw_text": "COLM 2026 ReviewsDiscussion [D] — Didn't see one so wanted to make one myself. Reviews are actually already out, curious what everyone thinks about the quality of the reviews? I've heard it's a mixed bag and apparently a concerning amount of AI generated reviews for some people. ",
+    "meta": {
+      "subreddit": "MachineLearning",
+      "score": 31,
+      "comments": 15,
+      "external_url": "https://old.reddit.com/r/MachineLearning/comments/1tkuu66/colm_2026_reviewsdiscussion_d/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/MachineLearning] [D] Where do you go for serious AI research discussion online? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1to2l4c/d_where_do_you_go_for_serious_ai_research/",
+    "source": "reddit",
+    "ts": "2026-05-26T10:12:59.000Z",
+    "engagement": 16,
+    "raw_text": "[D] Where do you go for serious AI research discussion online? [D] — Looking for communities where people actually dig into ML/AI research, not hype, not \"look what I built with an LLM API,\" but discussions about papers, training dynamics, debugging real models, infra problems, that kind of thing.\n\nI'm specifically interested in places where you c",
+    "meta": {
+      "subreddit": "MachineLearning",
+      "score": 8,
+      "comments": 8,
+      "external_url": "https://old.reddit.com/r/MachineLearning/comments/1to2l4c/d_where_do_you_go_for_serious_ai_research/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/MachineLearning] DCGAN inference on a microcontroller: 12.6M parameters, 512KB SRAM, 26-second generation, pure C [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tnhfxp/dcgan_inference_on_a_microcontroller_126m/",
+    "source": "reddit",
+    "ts": "2026-05-25T18:22:59.000Z",
+    "engagement": 13,
+    "raw_text": "DCGAN inference on a microcontroller: 12.6M parameters, 512KB SRAM, 26-second generation, pure C [P] — Just thought I'd share, I ran a DCGAN on a dual core RISC-V microcontroller, the CH32H417 generating 64x64 cat faces. This is a new RISC-V MCU, so no TFLite, no CMSIS NN and no external memory. It's a pure C inference engine, bit-identical to PyTorch reference outputs.\n\nThe model",
+    "meta": {
+      "subreddit": "MachineLearning",
+      "score": 11,
+      "comments": 2,
+      "external_url": "https://old.reddit.com/r/MachineLearning/comments/1tnhfxp/dcgan_inference_on_a_microcontroller_126m/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/MachineLearning] I built a Mamba1 variant I call SM1 with d_state=1 that runs on Blackwell in pure PyTorch [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tl7f8z/i_built_a_mamba1_variant_i_call_sm1_with_d_state1/",
+    "source": "reddit",
+    "ts": "2026-05-23T05:30:26.000Z",
+    "engagement": 13,
+    "raw_text": "I built a Mamba1 variant I call SM1 with d_state=1 that runs on Blackwell in pure PyTorch [P] — On windows mamba-ssm is not easily available and doesn't compile on sm\\_120. SM1 (Scalar Mamba1) replaces the entire selective scan with two native PyTorch ops:\n\n`L = torch.cumprod(dA, dim=1)`\n\n`h = L * (h0.unsqueeze(1) + torch.cumsum(dBx / L.clamp(min=1e-6), dim=1))`\n\n`y = h * C",
+    "meta": {
+      "subreddit": "MachineLearning",
+      "score": 6,
+      "comments": 7,
+      "external_url": "https://old.reddit.com/r/MachineLearning/comments/1tl7f8z/i_built_a_mamba1_variant_i_call_sm1_with_d_state1/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/MachineLearning] If you use NVIDIA Isaac Sim for reinforcement learning, do you use Isaac Lab with it? Just want to get a sense of what the status quo is. [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tn1rtk/if_you_use_nvidia_isaac_sim_for_reinforcement/",
+    "source": "reddit",
+    "ts": "2026-05-25T07:26:30.000Z",
+    "engagement": 11,
+    "raw_text": "If you use NVIDIA Isaac Sim for reinforcement learning, do you use Isaac Lab with it? Just want to get a sense of what the status quo is. [D] — The reason for this query is that I am in the process of shifting to Isaac Sim / Isaac Lab since that is what seems to be in use nowadays. However, Isaac Lab is proving to be somewhat difficult to handle.\n\nWhile it handles the logging, and the creation of multi-actor systems for ",
+    "meta": {
+      "subreddit": "MachineLearning",
+      "score": 10,
+      "comments": 1,
+      "external_url": "https://old.reddit.com/r/MachineLearning/comments/1tn1rtk/if_you_use_nvidia_isaac_sim_for_reinforcement/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/MachineLearning] Please help with tensor dock [d]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tmt47h/please_help_with_tensor_dock_d/",
+    "source": "reddit",
+    "ts": "2026-05-25T00:28:42.000Z",
+    "engagement": 11,
+    "raw_text": "Please help with tensor dock [d] — Anyone have any idea what I should do. This is my email to tensor dock. I developed corporate GPU benchmarking software so I need a cloud PC that can benchmark 5090 Consumer cards and 4090 Consumer cards. It worked absolutely amazing for six hours yesterday on the 4090 full deskt",
+    "meta": {
+      "subreddit": "MachineLearning",
+      "score": 0,
+      "comments": 11,
+      "external_url": "https://old.reddit.com/r/MachineLearning/comments/1tmt47h/please_help_with_tensor_dock_d/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/MachineLearning] Aiki my local Wikipedia Retrieval-Augmented Generation system [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tnn89v/aiki_my_local_wikipedia_retrievalaugmented/",
+    "source": "reddit",
+    "ts": "2026-05-25T21:56:57.000Z",
+    "engagement": 8,
+    "raw_text": "Aiki my local Wikipedia Retrieval-Augmented Generation system [R] — # Hey\n\ni built Aiki a lightweight tool that let's you chat with Wikipedia locally.\n\nhttps://i.redd.it/67mzfsrc6f3h1.gif\n\n**what it does:**\n\n* Downloads and chunks wikipedia articles (u can choose those articles by their name or articles and also the option of downloading the simi",
+    "meta": {
+      "subreddit": "MachineLearning",
+      "score": 8,
+      "comments": 0,
+      "external_url": "https://old.reddit.com/r/MachineLearning/comments/1tnn89v/aiki_my_local_wikipedia_retrievalaugmented/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/MachineLearning] Reconstructing the agent methodology: Decoupling decision-making and execution - open source [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tnfxsc/reconstructing_the_agent_methodology_decoupling/",
+    "source": "reddit",
+    "ts": "2026-05-25T17:29:28.000Z",
+    "engagement": 5,
+    "raw_text": "Reconstructing the agent methodology: Decoupling decision-making and execution - open source [P] — I’ve been thinking about a problem in current agent systems:\n\nMost agents are becoming very good at execution, but the decision layer before execution is still unclear.\n\nCoding agents, research agents, tool loops, sandboxes, workflows, and harnesses are all improving quickly. Onc",
+    "meta": {
+      "subreddit": "MachineLearning",
+      "score": 5,
+      "comments": 0,
+      "external_url": "https://old.reddit.com/r/MachineLearning/comments/1tnfxsc/reconstructing_the_agent_methodology_decoupling/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/LocalLLaMA] The Financial Times has published an article about Heretic",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tna22m/the_financial_times_has_published_an_article/",
+    "source": "reddit",
+    "ts": "2026-05-25T14:00:26.000Z",
+    "engagement": 1025,
+    "raw_text": "The Financial Times has published an article about Heretic — https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e\n\n“The FT was able to use Heretic, a tool available on the popular code repository GitHub, to remove the guardrails from Meta’s Llama 3.3 model in less than 10 minutes without any specialist hardware.”\n\n“Heretic creat",
+    "meta": {
+      "subreddit": "LocalLLaMA",
+      "score": 818,
+      "comments": 207,
+      "external_url": "https://old.reddit.com/r/LocalLLaMA/comments/1tna22m/the_financial_times_has_published_an_article/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/LocalLLaMA] Next year we're getting 0.5T model from Grok",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn31d8/next_year_were_getting_05t_model_from_grok/",
+    "source": "reddit",
+    "ts": "2026-05-25T08:35:15.000Z",
+    "engagement": 476,
+    "raw_text": "Next year we're getting 0.5T model from Grok — Tweet : [https://xcancel.com/elonmusk/status/2058796067592736866#m](https://xcancel.com/elonmusk/status/2058796067592736866#m)\n\nRight now it joined \"Grok-3 Opensource Release\" club.",
+    "meta": {
+      "subreddit": "LocalLLaMA",
+      "score": 277,
+      "comments": 199,
+      "external_url": "https://i.redd.it/y7ytazc1v83h1.png"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/LocalLLaMA] Is Qwen3.6 current king for local agentic use?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnbz23/is_qwen36_current_king_for_local_agentic_use/",
+    "source": "reddit",
+    "ts": "2026-05-25T15:09:33.000Z",
+    "engagement": 329,
+    "raw_text": "Is Qwen3.6 current king for local agentic use? — I've been testing other models but it seems like nothing even come close to Qwen3.6 35B A3B for agentic use. The worse I'd get is a loop sometimes, while Gemma4 produced broken tool calls occasionally and I couldn't even get GLM 4.7 Flash REAP past 2 or 3 messages before it start",
+    "meta": {
+      "subreddit": "LocalLLaMA",
+      "score": 179,
+      "comments": 150,
+      "external_url": "https://old.reddit.com/r/LocalLLaMA/comments/1tnbz23/is_qwen36_current_king_for_local_agentic_use/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/LocalLLaMA] Update on 12x32gb sxm v100 cluster / local AI for legal drafting",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnn29i/update_on_12x32gb_sxm_v100_cluster_local_ai_for/",
+    "source": "reddit",
+    "ts": "2026-05-25T21:50:30.000Z",
+    "engagement": 310,
+    "raw_text": "Update on 12x32gb sxm v100 cluster / local AI for legal drafting — Update from the lawyer with the V100 server. A few of you asked what I actually ended up running once the dust settled, so here it is. Still just a lawyer, still driving the whole thing through Claude Code, still not fully sure what I'm doing — but it works now, which is more tha",
+    "meta": {
+      "subreddit": "LocalLLaMA",
+      "score": 231,
+      "comments": 79,
+      "external_url": "https://i.redd.it/4h07vk82uc3h1.jpeg"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/LocalLLaMA] NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn8utn/nuextract3_released_openweight_4b_vlm_for/",
+    "source": "reddit",
+    "ts": "2026-05-25T13:14:58.000Z",
+    "engagement": 285,
+    "raw_text": "NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable) — Disclaimer: I work for Numind, the company behind this open-weight model\n\nTLDR: Image/text to Markdown :-)\n\nWe just released a 4B model based on Qwen3.5-4B, under Apache-2.0 license. The goal is to make information extraction from complex documents more practical with an open mod",
+    "meta": {
+      "subreddit": "LocalLLaMA",
+      "score": 231,
+      "comments": 54,
+      "external_url": "https://www.reddit.com/gallery/1tn8utn"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/LocalLLaMA] Qwen3.5 35B A3B uncensored heretic Native MTP Preserved is Out Now With the Full 785 MTPs Preserved and Retained, Available in Safetensors, GGUFs. NVFP4, NVFP4 GGUFs and GPTQ-Int4 Formats",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnzalm/qwen35_35b_a3b_uncensored_heretic_native_mtp/",
+    "source": "reddit",
+    "ts": "2026-05-26T07:09:31.000Z",
+    "engagement": 176,
+    "raw_text": "Qwen3.5 35B A3B uncensored heretic Native MTP Preserved is Out Now With the Full 785 MTPs Preserved and Retained, Available in Safetensors, GGUFs. NVFP4, NVFP4 GGUFs and GPTQ-Int4 Formats — Safetensors, llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved: [https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved](https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved)\n\nGGUFs, llmfa",
+    "meta": {
+      "subreddit": "LocalLLaMA",
+      "score": 146,
+      "comments": 30,
+      "external_url": "https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/LocalLLaMA] AI content detector based on Qwen 0.8b fine-tuned on Pangram dataset",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tngkav/ai_content_detector_based_on_qwen_08b_finetuned/",
+    "source": "reddit",
+    "ts": "2026-05-25T17:52:16.000Z",
+    "engagement": 109,
+    "raw_text": "AI content detector based on Qwen 0.8b fine-tuned on Pangram dataset — I've fine-tuned Qwen 3.5 0.8B on the dataset provided by Pangram with their EditLens paper. It's available via a [Chrome extension](https://chromewebstore.google.com/detail/slop-hammer/gfjdmhfokmhedlgfggmmgchpppmhkdgg); you can just click selected text and it's going to give you ",
+    "meta": {
+      "subreddit": "LocalLLaMA",
+      "score": 52,
+      "comments": 57,
+      "external_url": "https://v.redd.it/h0w2t67xkb3h1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/LocalLLaMA] CUDA: add fast walsh-hadamard transform by am17an · Pull Request #23615 · ggml-org/llama.cpp",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnfqng/cuda_add_fast_walshhadamard_transform_by_am17an/",
+    "source": "reddit",
+    "ts": "2026-05-25T17:22:26.000Z",
+    "engagement": 65,
+    "raw_text": "CUDA: add fast walsh-hadamard transform by am17an · Pull Request #23615 · ggml-org/llama.cpp — Implemented(by u/am17an) FWHT for CUDA, speed-up for cases when we quantize the kv-cache.\n\n**1-2%** boost on pp & **7-9%** boost on tg.\n\nPerformance on a 5090 with `-ctk q8_0 -ctv q8_0`\n\n|Model|Test|t/s master|t/s cuda-fwt|Speedup|\n|:-|:-|:-|:-|:-|\n|gemma4 26B.A4B Q4\\_K\\_M|pp2048",
+    "meta": {
+      "subreddit": "LocalLLaMA",
+      "score": 53,
+      "comments": 12,
+      "external_url": "https://github.com/ggml-org/llama.cpp/pull/23615"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/LocalLLaMA] Strix Halo users, a rejected PR can give you up to 30% faster PP for MOEs.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to00xl/strix_halo_users_a_rejected_pr_can_give_you_up_to/",
+    "source": "reddit",
+    "ts": "2026-05-26T07:50:34.000Z",
+    "engagement": 52,
+    "raw_text": "Strix Halo users, a rejected PR can give you up to 30% faster PP for MOEs. — Here's the PR by pedapudi.\n\nhttps://github.com/ggml-org/llama.cpp/pull/21344\n\nIt's merge request has been denied so it will not be in mainline llama.cpp. The changes are so small that I just put them into whatever the current release of llama.cpp is.\n\nRead the PR for more info. I",
+    "meta": {
+      "subreddit": "LocalLLaMA",
+      "score": 31,
+      "comments": 21,
+      "external_url": "https://old.reddit.com/r/LocalLLaMA/comments/1to00xl/strix_halo_users_a_rejected_pr_can_give_you_up_to/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/LocalLLaMA] Qwen3.5 27B Uncensored Heretic Native MTP Preserved is Out Now With the Full 15 MTPs Preserved and Retained, Available in Safetensors, GGUFs, NVFP4, NVFP4 GGUFs and GPTQ-Int4 Formats!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to0aet/qwen35_27b_uncensored_heretic_native_mtp/",
+    "source": "reddit",
+    "ts": "2026-05-26T08:05:18.000Z",
+    "engagement": 30,
+    "raw_text": "Qwen3.5 27B Uncensored Heretic Native MTP Preserved is Out Now With the Full 15 MTPs Preserved and Retained, Available in Safetensors, GGUFs, NVFP4, NVFP4 GGUFs and GPTQ-Int4 Formats! — Safetensors, llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved: [https://huggingface.co/llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved](https://huggingface.co/llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved)\n\nGGUFs, llmfan46/Qwen3.5-",
+    "meta": {
+      "subreddit": "LocalLLaMA",
+      "score": 25,
+      "comments": 5,
+      "external_url": "https://huggingface.co/llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/LocalLLaMA] SkillOpt treats markdown skill files as trainable parameters with proper optimization machinery",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to1mey/skillopt_treats_markdown_skill_files_as_trainable/",
+    "source": "reddit",
+    "ts": "2026-05-26T09:20:57.000Z",
+    "engagement": 23,
+    "raw_text": "SkillOpt treats markdown skill files as trainable parameters with proper optimization machinery — Paper came out recently that formalizes something a lot of agent builders have been doing ad hoc. They use a frontier model to propose bounded edits (add/delete/replace) to markdown skill files, then gate every edit against a held out validation set. Only strict improvements acce",
+    "meta": {
+      "subreddit": "LocalLLaMA",
+      "score": 21,
+      "comments": 2,
+      "external_url": "https://i.redd.it/vun7zfxz8g3h1.jpeg"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/LocalLLaMA] Shard - getting to 10× KV cache compression",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnvo7r/shard_getting_to_10_kv_cache_compression/",
+    "source": "reddit",
+    "ts": "2026-05-26T04:04:03.000Z",
+    "engagement": 23,
+    "raw_text": "Shard - getting to 10× KV cache compression — **TL;DR.** *Shard* is a drop-in HuggingFace Cache that makes Llama-3.1-8B's KV memory about **10×** smaller at 8K context (**11×** at 32K) without measurable hits to NIAH or LongBench. It started as a reimplementation of Google's TurboQuant[\\[1\\]](https://krishgarg.com/shard#fn1)",
+    "meta": {
+      "subreddit": "LocalLLaMA",
+      "score": 12,
+      "comments": 11,
+      "external_url": "https://krishgarg.com/shard"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/artificial] I simply do not understand how massively expensive AI and robotics are expected to be more cost effective than humans.",
+    "url": "https://www.reddit.com/r/artificial/comments/1tmffqn/i_simply_do_not_understand_how_massively/",
+    "source": "reddit",
+    "ts": "2026-05-24T15:34:41.000Z",
+    "engagement": 433,
+    "raw_text": "I simply do not understand how massively expensive AI and robotics are expected to be more cost effective than humans. — Can someone help me understand this? I mean, how on earth are these companies who are planning to replace us all with beep boops expecting these unimaginably high expense technologies to be better for their bottom line than just paying us low wage unwashed masses? I mean, some du",
+    "meta": {
+      "subreddit": "artificial",
+      "score": 149,
+      "comments": 284,
+      "external_url": "https://old.reddit.com/r/artificial/comments/1tmffqn/i_simply_do_not_understand_how_massively/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/artificial] Uber's COO says it's getting harder to justify the money spent on AI tokenmaxxing",
+    "url": "https://www.reddit.com/r/artificial/comments/1tndgv8/ubers_coo_says_its_getting_harder_to_justify_the/",
+    "source": "reddit",
+    "ts": "2026-05-25T16:02:18.000Z",
+    "engagement": 352,
+    "raw_text": "Uber's COO says it's getting harder to justify the money spent on AI tokenmaxxing",
+    "meta": {
+      "subreddit": "artificial",
+      "score": 280,
+      "comments": 72,
+      "external_url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/artificial] We're reaching a point where \"AI-generated but visually realistic\" content will become the norm, not the exception. 👀",
+    "url": "https://www.reddit.com/r/artificial/comments/1tn3e7k/were_reaching_a_point_where_aigenerated_but/",
+    "source": "reddit",
+    "ts": "2026-05-25T08:55:24.000Z",
+    "engagement": 234,
+    "raw_text": "We're reaching a point where \"AI-generated but visually realistic\" content will become the norm, not the exception. 👀 — We have entered the era of artificial general intelligence.",
+    "meta": {
+      "subreddit": "artificial",
+      "score": 139,
+      "comments": 95,
+      "external_url": "https://v.redd.it/jdms8pq3z83h1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/artificial] Scientists trained an AI model using an IBM quantum computer — and it answered questions correctly that the base model couldn't",
+    "url": "https://www.reddit.com/r/artificial/comments/1tnreia/scientists_trained_an_ai_model_using_an_ibm/",
+    "source": "reddit",
+    "ts": "2026-05-26T00:53:11.000Z",
+    "engagement": 209,
+    "raw_text": "Scientists trained an AI model using an IBM quantum computer — and it answered questions correctly that the base model couldn't",
+    "meta": {
+      "subreddit": "artificial",
+      "score": 163,
+      "comments": 46,
+      "external_url": "https://www.livescience.com/technology/quantum/scientists-trained-an-ai-model-using-an-ibm-quantum-computer-and-it-answered-questions-correctly-that-the-base-model-couldnt"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/artificial] Why is there a sudden demand for a bunch of data centers?",
+    "url": "https://www.reddit.com/r/artificial/comments/1tndecr/why_is_there_a_sudden_demand_for_a_bunch_of_data/",
+    "source": "reddit",
+    "ts": "2026-05-25T16:00:07.000Z",
+    "engagement": 99,
+    "raw_text": "Why is there a sudden demand for a bunch of data centers? — I live in Pennsylvania, and in just the past year there’s been about a dozen data centers proposed within a 30 mile radius of me, all pretty large scale projects. I’m confused because we have a bunch of AI now that’s working without all these newly proposed data centers. I unders",
+    "meta": {
+      "subreddit": "artificial",
+      "score": 14,
+      "comments": 85,
+      "external_url": "https://old.reddit.com/r/artificial/comments/1tndecr/why_is_there_a_sudden_demand_for_a_bunch_of_data/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/artificial] AI agents need audit trails more than they need more autonomy",
+    "url": "https://www.reddit.com/r/artificial/comments/1tnarvu/ai_agents_need_audit_trails_more_than_they_need/",
+    "source": "reddit",
+    "ts": "2026-05-25T14:26:07.000Z",
+    "engagement": 65,
+    "raw_text": "AI agents need audit trails more than they need more autonomy — A lot of people talk about AI agents like the main goal is making them more independent. But the more I think about it, the bigger issue is probably visibility.\nIf an AI is only answering a question, it is easy to judge the result. But once it starts doing things across websites,",
+    "meta": {
+      "subreddit": "artificial",
+      "score": 31,
+      "comments": 34,
+      "external_url": "https://old.reddit.com/r/artificial/comments/1tnarvu/ai_agents_need_audit_trails_more_than_they_need/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/artificial] If you could subscribe to one AI provider who would it be?",
+    "url": "https://www.reddit.com/r/artificial/comments/1tn73ve/if_you_could_subscribe_to_one_ai_provider_who/",
+    "source": "reddit",
+    "ts": "2026-05-25T12:02:53.000Z",
+    "engagement": 64,
+    "raw_text": "If you could subscribe to one AI provider who would it be? — Im pretty much looking for where to get the most for the least amount of money. But with so many providers and most not even clearly stating their usage limits things get confusing fast. \n\nAny of you have a tip?",
+    "meta": {
+      "subreddit": "artificial",
+      "score": 12,
+      "comments": 52,
+      "external_url": "https://old.reddit.com/r/artificial/comments/1tn73ve/if_you_could_subscribe_to_one_ai_provider_who/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/artificial] Top 10 Fastest Growing AI repos this week",
+    "url": "https://www.reddit.com/r/artificial/comments/1tnjhts/top_10_fastest_growing_ai_repos_this_week/",
+    "source": "reddit",
+    "ts": "2026-05-25T19:36:35.000Z",
+    "engagement": 40,
+    "raw_text": "Top 10 Fastest Growing AI repos this week — Curated this list of fastest growing AI repos. They are mostly AI coding agents, personal AI, memory, browser automation, Claude Skills and local-first dev tooling:\n\n1. **colbymchenry/codegraph** (+14.1K stars) Pre-indexed local code knowledge graph for Claude Code, Codex, Cursor",
+    "meta": {
+      "subreddit": "artificial",
+      "score": 31,
+      "comments": 9,
+      "external_url": "https://old.reddit.com/r/artificial/comments/1tnjhts/top_10_fastest_growing_ai_repos_this_week/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/artificial] How to Hit Claude Limits in One Click",
+    "url": "https://www.reddit.com/r/artificial/comments/1tmpfa9/how_to_hit_claude_limits_in_one_click/",
+    "source": "reddit",
+    "ts": "2026-05-24T21:52:44.000Z",
+    "engagement": 40,
+    "raw_text": "How to Hit Claude Limits in One Click",
+    "meta": {
+      "subreddit": "artificial",
+      "score": 27,
+      "comments": 13,
+      "external_url": "https://v.redd.it/vrzipkbkp53h1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/artificial] AI is becoming epistemic infrastructure controlled by a handful of private individuals?",
+    "url": "https://www.reddit.com/r/artificial/comments/1to0dmn/ai_is_becoming_epistemic_infrastructure/",
+    "source": "reddit",
+    "ts": "2026-05-26T08:10:37.000Z",
+    "engagement": 35,
+    "raw_text": "AI is becoming epistemic infrastructure controlled by a handful of private individuals? — Most people treat AI as a convenient black box. Ask it something, it answers, you move on. But we’re sleepwalking into something bigger. I think Whoever controls the infrastructure of knowledge controls how people perceive reality.\n\nThe Church held that position for centuries thr",
+    "meta": {
+      "subreddit": "artificial",
+      "score": 15,
+      "comments": 20,
+      "external_url": "https://old.reddit.com/r/artificial/comments/1to0dmn/ai_is_becoming_epistemic_infrastructure/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/artificial] Future Prediction",
+    "url": "https://www.reddit.com/r/artificial/comments/1tnbcsg/future_prediction/",
+    "source": "reddit",
+    "ts": "2026-05-25T14:47:22.000Z",
+    "engagement": 35,
+    "raw_text": "Future Prediction — I have a prediction that companies laying off workers thinking they can be replaced by AI are going to have a mess on their hands in a couple years. Execs think AI can do employees’ jobs and in many cases it can’t. This thinking would be like laying off workers because computers ",
+    "meta": {
+      "subreddit": "artificial",
+      "score": 6,
+      "comments": 29,
+      "external_url": "https://old.reddit.com/r/artificial/comments/1tnbcsg/future_prediction/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/artificial] Wix cutting",
+    "url": "https://www.reddit.com/r/artificial/comments/1tne1m4/wix_cutting/",
+    "source": "reddit",
+    "ts": "2026-05-25T16:22:45.000Z",
+    "engagement": 26,
+    "raw_text": "Wix cutting — Wix is reportedly laying off roughly 800–1,000 employees — about 20% of its workforce — in its largest restructuring ever.\n\nThe interesting part isn’t just the layoffs. It’s what they reveal about the economics of AI-first software companies.\n\nWix’s core business is still growing",
+    "meta": {
+      "subreddit": "artificial",
+      "score": 3,
+      "comments": 23,
+      "external_url": "https://old.reddit.com/r/artificial/comments/1tne1m4/wix_cutting/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/OpenAI] Figure AI had a livestream of their robots sorting packages 24/7 for 8 days straight. These aren't staged demos anymore.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tn6qib/figure_ai_had_a_livestream_of_their_robots/",
+    "source": "reddit",
+    "ts": "2026-05-25T11:46:27.000Z",
+    "engagement": 522,
+    "raw_text": "Figure AI had a livestream of their robots sorting packages 24/7 for 8 days straight. These aren't staged demos anymore.",
+    "meta": {
+      "subreddit": "OpenAI",
+      "score": 346,
+      "comments": 176,
+      "external_url": "https://v.redd.it/sgiquoabu93h1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/OpenAI] People should understand the basics of how AI works before using it at work",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tn0v9e/people_should_understand_the_basics_of_how_ai/",
+    "source": "reddit",
+    "ts": "2026-05-25T06:38:33.000Z",
+    "engagement": 89,
+    "raw_text": "People should understand the basics of how AI works before using it at work — For weeks my team lead had been finding mistakes with my work. To the point that it destroyed my self confidence,  i kept thinking i am not cutout for this job.\n\nI kept thinking how was missing all these things while review.  \nTurns out they were prompting AI to specifically vali",
+    "meta": {
+      "subreddit": "OpenAI",
+      "score": 63,
+      "comments": 26,
+      "external_url": "https://old.reddit.com/r/OpenAI/comments/1tn0v9e/people_should_understand_the_basics_of_how_ai/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/OpenAI] AI doomsday: Hollywood vs. The real threat",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tnynry/ai_doomsday_hollywood_vs_the_real_threat/",
+    "source": "reddit",
+    "ts": "2026-05-26T06:35:03.000Z",
+    "engagement": 81,
+    "raw_text": "AI doomsday: Hollywood vs. The real threat",
+    "meta": {
+      "subreddit": "OpenAI",
+      "score": 73,
+      "comments": 8,
+      "external_url": "https://i.redd.it/in6a5enmff3h1.png"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/OpenAI] A chart showing how many unsolved math problems have recently been solved by AI",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tn5abo/a_chart_showing_how_many_unsolved_math_problems/",
+    "source": "reddit",
+    "ts": "2026-05-25T10:36:48.000Z",
+    "engagement": 61,
+    "raw_text": "A chart showing how many unsolved math problems have recently been solved by AI",
+    "meta": {
+      "subreddit": "OpenAI",
+      "score": 50,
+      "comments": 11,
+      "external_url": "https://i.redd.it/l1kcwp0wh93h1.png"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/OpenAI] Do LLms that web search when researching a topic have access to JSTOR and academic databases?",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1to1mnt/do_llms_that_web_search_when_researching_a_topic/",
+    "source": "reddit",
+    "ts": "2026-05-26T09:21:17.000Z",
+    "engagement": 18,
+    "raw_text": "Do LLms that web search when researching a topic have access to JSTOR and academic databases? — Whenever i get sources within an AI search the sources never seem particularly impressive or academic. Seems like access to academic journals would be essential. ",
+    "meta": {
+      "subreddit": "OpenAI",
+      "score": 9,
+      "comments": 9,
+      "external_url": "https://old.reddit.com/r/OpenAI/comments/1to1mnt/do_llms_that_web_search_when_researching_a_topic/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/OpenAI] the only person apart from tech bros who is earning using AI",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tnj82j/the_only_person_apart_from_tech_bros_who_is/",
+    "source": "reddit",
+    "ts": "2026-05-25T19:26:29.000Z",
+    "engagement": 14,
+    "raw_text": "the only person apart from tech bros who is earning using AI — He is the only guy who is not making any videos with titles \"How to earn money using AI\" !",
+    "meta": {
+      "subreddit": "OpenAI",
+      "score": 13,
+      "comments": 1,
+      "external_url": "https://i.redd.it/inrt2kie4c3h1.jpeg"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/OpenAI] Anthropic vs OpenAI - which one will prevail by 2030",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1to26v9/anthropic_vs_openai_which_one_will_prevail_by_2030/",
+    "source": "reddit",
+    "ts": "2026-05-26T09:52:10.000Z",
+    "engagement": 12,
+    "raw_text": "Anthropic vs OpenAI - which one will prevail by 2030 — As the title suggests, I am trying to understand where people sit between these two companies. Which one do you think will still exist by 2030? If both of them, then which one will win the AI race? \n\n[View Poll](https://www.reddit.com/poll/1to26v9)",
+    "meta": {
+      "subreddit": "OpenAI",
+      "score": 4,
+      "comments": 8,
+      "external_url": "https://old.reddit.com/r/OpenAI/comments/1to26v9/anthropic_vs_openai_which_one_will_prevail_by_2030/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/OpenAI] Testing Realtime 2 Voice API OpenAI.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tnjua3/testing_realtime_2_voice_api_openai/",
+    "source": "reddit",
+    "ts": "2026-05-25T19:49:19.000Z",
+    "engagement": 11,
+    "raw_text": "Testing Realtime 2 Voice API OpenAI. — We’ve been messing around with the new OpenAI realtime voice + translation APIs over the last little while and I keep coming back to the same thought… I don’t think people fully get where this is going yet.\n\nWe wired it into our own website as a test. Nothing fancy. Just wanted t",
+    "meta": {
+      "subreddit": "OpenAI",
+      "score": 4,
+      "comments": 7,
+      "external_url": "https://old.reddit.com/r/OpenAI/comments/1tnjua3/testing_realtime_2_voice_api_openai/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/OpenAI] The future of Claude",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tndtt4/the_future_of_claude/",
+    "source": "reddit",
+    "ts": "2026-05-25T16:15:16.000Z",
+    "engagement": 7,
+    "raw_text": "The future of Claude",
+    "meta": {
+      "subreddit": "OpenAI",
+      "score": 4,
+      "comments": 3,
+      "external_url": "https://i.redd.it/df7p4pla6b3h1.jpeg"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/OpenAI] No more file upload limits on AI models!",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tnyr08/no_more_file_upload_limits_on_ai_models/",
+    "source": "reddit",
+    "ts": "2026-05-26T06:39:53.000Z",
+    "engagement": 6,
+    "raw_text": "No more file upload limits on AI models! — Tired of constantly hitting ChatGPT upload limits or splitting huge docs/code into 10 parts?\n\nI built DocShareAI for exactly that.\n\nUpload or paste anything, get one AI-readable link back, and send it to ChatGPT, Gemini, Grok, etc.\n\nNo more broken formatting, chunking logs manual",
+    "meta": {
+      "subreddit": "OpenAI",
+      "score": 4,
+      "comments": 2,
+      "external_url": "https://old.reddit.com/r/OpenAI/comments/1tnyr08/no_more_file_upload_limits_on_ai_models/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/OpenAI] Courts Are Swamped With AI-Powered Do-It-Yourself Lawsuits",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tnqk94/courts_are_swamped_with_aipowered_doityourself/",
+    "source": "reddit",
+    "ts": "2026-05-26T00:16:16.000Z",
+    "engagement": 5,
+    "raw_text": "Courts Are Swamped With AI-Powered Do-It-Yourself Lawsuits",
+    "meta": {
+      "subreddit": "OpenAI",
+      "score": 0,
+      "comments": 5,
+      "external_url": "https://www.bloomberg.com/news/articles/2026-05-20/how-chatgpt-and-claude-are-fueling-a-diy-lawsuit-boom-in-us-courts?srnd=phx-businessweek"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/OpenAI] Built a free tool to bookmark individual ChatGPT responses (not full chats)",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tntr03/built_a_free_tool_to_bookmark_individual_chatgpt/",
+    "source": "reddit",
+    "ts": "2026-05-26T02:36:17.000Z",
+    "engagement": 2,
+    "raw_text": "Built a free tool to bookmark individual ChatGPT responses (not full chats) — ChatGPT's bookmark/archive only works at the conversation level, which is annoying when one chat has 15 messages and you only want to keep one answer.\n\nCoffer adds a save button to every response. You can:\n\n* Save the one answer you care about, not the whole chat\n* Tag and search",
+    "meta": {
+      "subreddit": "OpenAI",
+      "score": 0,
+      "comments": 2,
+      "external_url": "https://chromewebstore.google.com/detail/nhchbmaobjhjfmeekpnkmhdjajdolcjb"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/singularity] Google DeepMind's Al agent autonomously solved 9 of 353 open Erdos problems in mathematics, at a cost of a few hundred dollars per problem.",
+    "url": "https://www.reddit.com/r/singularity/comments/1tmjdru/google_deepminds_al_agent_autonomously_solved_9/",
+    "source": "reddit",
+    "ts": "2026-05-24T18:01:12.000Z",
+    "engagement": 1279,
+    "raw_text": "Google DeepMind's Al agent autonomously solved 9 of 353 open Erdos problems in mathematics, at a cost of a few hundred dollars per problem.",
+    "meta": {
+      "subreddit": "singularity",
+      "score": 1133,
+      "comments": 146,
+      "external_url": "https://i.redd.it/7pcw6zw9k43h1.jpeg"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/singularity] Inaudible sounds to humans can be hidden in YouTube videos, podcasts, or music and used to secretly trigger AI voice assistants into carrying out unauthorized commands without the user noticing, exposing a new class of “auditory prompt injection” attacks against popular tools",
+    "url": "https://www.reddit.com/r/singularity/comments/1tmb7mz/inaudible_sounds_to_humans_can_be_hidden_in/",
+    "source": "reddit",
+    "ts": "2026-05-24T12:44:48.000Z",
+    "engagement": 1224,
+    "raw_text": "Inaudible sounds to humans can be hidden in YouTube videos, podcasts, or music and used to secretly trigger AI voice assistants into carrying out unauthorized commands without the user noticing, exposing a new class of “auditory prompt injection” attacks against popular tools",
+    "meta": {
+      "subreddit": "singularity",
+      "score": 1142,
+      "comments": 82,
+      "external_url": "https://cybernews.com/security/ai-voice-bots-hidden-audio-hijack-attacks/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/singularity] Users who rage quit my software",
+    "url": "https://www.reddit.com/r/singularity/comments/1tntdui/users_who_rage_quit_my_software/",
+    "source": "reddit",
+    "ts": "2026-05-26T02:20:15.000Z",
+    "engagement": 642,
+    "raw_text": "Users who rage quit my software — I make mods for a game called Rimworld. They are pretty popular (together about 2M subs on Steam). Recently I found that there are users in the official Rimworld discord that simply uninstall all my mods as soon as they hear that I updated them with AI. \n\nThis has nothing to do w",
+    "meta": {
+      "subreddit": "singularity",
+      "score": 324,
+      "comments": 318,
+      "external_url": "https://old.reddit.com/r/singularity/comments/1tntdui/users_who_rage_quit_my_software/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/singularity] Generative AI (Kling) is now used in actual tv shows and movies.",
+    "url": "https://www.reddit.com/r/singularity/comments/1tlu4gv/generative_ai_kling_is_now_used_in_actual_tv/",
+    "source": "reddit",
+    "ts": "2026-05-23T22:26:31.000Z",
+    "engagement": 560,
+    "raw_text": "Generative AI (Kling) is now used in actual tv shows and movies. — Source: [https://www.youtube.com/watch?v=atldP-5oKUY](https://www.youtube.com/watch?v=atldP-5oKUY)\n\n\"House of David, the first Hollywood production to openly discuss the use of AI video generation technology in the production process on an industrial level, has captivated over 44",
+    "meta": {
+      "subreddit": "singularity",
+      "score": 462,
+      "comments": 98,
+      "external_url": "https://v.redd.it/qfb0wzcgpy2h1"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/singularity] How I feel like responding every time someone says AI is just a next token predictor (as if they aren't)",
+    "url": "https://www.reddit.com/r/singularity/comments/1tm3zis/how_i_feel_like_responding_every_time_someone/",
+    "source": "reddit",
+    "ts": "2026-05-24T06:17:21.000Z",
+    "engagement": 486,
+    "raw_text": "How I feel like responding every time someone says AI is just a next token predictor (as if they aren't)",
+    "meta": {
+      "subreddit": "singularity",
+      "score": 207,
+      "comments": 279,
+      "external_url": "https://i.redd.it/zstap9hd213h1.jpeg"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/singularity] One of the authors of \"Attention is All You Need\" just argued we should move past it. Pathway’s Post-Transformer debate is worth watching",
+    "url": "https://www.reddit.com/r/singularity/comments/1tnf90m/one_of_the_authors_of_attention_is_all_you_need/",
+    "source": "reddit",
+    "ts": "2026-05-25T17:05:43.000Z",
+    "engagement": 367,
+    "raw_text": "One of the authors of \"Attention is All You Need\" just argued we should move past it. Pathway’s Post-Transformer debate is worth watching",
+    "meta": {
+      "subreddit": "singularity",
+      "score": 255,
+      "comments": 112,
+      "external_url": "https://i.redd.it/b53mwvwxeb3h1.jpeg"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/singularity] New Gemini Omni Blows Competition Away",
+    "url": "https://www.reddit.com/r/singularity/comments/1tnho5s/new_gemini_omni_blows_competition_away/",
+    "source": "reddit",
+    "ts": "2026-05-25T18:31:00.000Z",
+    "engagement": 297,
+    "raw_text": "New Gemini Omni Blows Competition Away — Saw people giving Google a hard time. Now look at them 😁",
+    "meta": {
+      "subreddit": "singularity",
+      "score": 251,
+      "comments": 46,
+      "external_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/singularity] 99% of CEOs Expect AI-Driven Layoffs in the Next Two Years",
+    "url": "https://www.reddit.com/r/singularity/comments/1tmpjla/99_of_ceos_expect_aidriven_layoffs_in_the_next/",
+    "source": "reddit",
+    "ts": "2026-05-24T21:57:29.000Z",
+    "engagement": 261,
+    "raw_text": "99% of CEOs Expect AI-Driven Layoffs in the Next Two Years",
+    "meta": {
+      "subreddit": "singularity",
+      "score": 213,
+      "comments": 48,
+      "external_url": "https://gizmodo.com/99-of-ceos-expect-ai-driven-layoffs-in-the-next-two-years-2000762994"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/singularity] Scientists trained an AI model using an IBM quantum computer — and it answered questions correctly that the base model couldn't",
+    "url": "https://www.reddit.com/r/singularity/comments/1tnw8ic/scientists_trained_an_ai_model_using_an_ibm/",
+    "source": "reddit",
+    "ts": "2026-05-26T04:30:36.000Z",
+    "engagement": 202,
+    "raw_text": "Scientists trained an AI model using an IBM quantum computer — and it answered questions correctly that the base model couldn't",
+    "meta": {
+      "subreddit": "singularity",
+      "score": 168,
+      "comments": 34,
+      "external_url": "https://www.livescience.com/technology/quantum/scientists-trained-an-ai-model-using-an-ibm-quantum-computer-and-it-answered-questions-correctly-that-the-base-model-couldnt"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/singularity] Chart: Math problems recently solved by AI",
+    "url": "https://www.reddit.com/r/singularity/comments/1tn8gmc/chart_math_problems_recently_solved_by_ai/",
+    "source": "reddit",
+    "ts": "2026-05-25T12:59:27.000Z",
+    "engagement": 144,
+    "raw_text": "Chart: Math problems recently solved by AI",
+    "meta": {
+      "subreddit": "singularity",
+      "score": 116,
+      "comments": 28,
+      "external_url": "https://i.redd.it/w0svgpqet93h1.png"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/singularity] Interesting article about the cyber models (mythos/5.5) living up to the hype: What to know about the AI models that are jolting Washington",
+    "url": "https://www.reddit.com/r/singularity/comments/1tmduxh/interesting_article_about_the_cyber_models/",
+    "source": "reddit",
+    "ts": "2026-05-24T14:34:29.000Z",
+    "engagement": 126,
+    "raw_text": "Interesting article about the cyber models (mythos/5.5) living up to the hype: What to know about the AI models that are jolting Washington",
+    "meta": {
+      "subreddit": "singularity",
+      "score": 93,
+      "comments": 33,
+      "external_url": "https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  },
+  {
+    "title": "[r/singularity] Why do some/most people think AI will never be good enough? What are their arguments?",
+    "url": "https://www.reddit.com/r/singularity/comments/1tnumpz/why_do_somemost_people_think_ai_will_never_be/",
+    "source": "reddit",
+    "ts": "2026-05-26T03:15:46.000Z",
+    "engagement": 103,
+    "raw_text": "Why do some/most people think AI will never be good enough? What are their arguments? — It might never reach the heights of Einstein, but it’s far superior to the average Joe, even in areas he is completely unfamiliar with. And it’s usually the Joes who think AI won’t be good enough. (No offence)",
+    "meta": {
+      "subreddit": "singularity",
+      "score": 12,
+      "comments": 91,
+      "external_url": "https://old.reddit.com/r/singularity/comments/1tnumpz/why_do_somemost_people_think_ai_will_never_be/"
+    },
+    "captured_at": "2026-05-26T11:31:10.786Z"
+  }
+]

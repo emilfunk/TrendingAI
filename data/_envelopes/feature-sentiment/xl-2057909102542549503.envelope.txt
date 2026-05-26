@@ -1,0 +1,18 @@
+FEATURE: AnthropicAI — @AnthropicAI: Last month we launched Project Glasswing, our collaborative AI cybersecurity initiative. Since then, we and our partners…
+LAB ANCHOR URL: https://x.com/AnthropicAI/status/2057909102542549503
+ENTITIES MATCHED: Project Glasswing
+HYPE-DOMINANT: no (deterministic count: 0 of 2 top items match tutorial-hype regex indicators)
+
+2 creator items below. Tags: [LAB-AFFILIATED] = handle works at the lab; their "praise" is internal storytelling, not validation. [PODCAST] = YT podcast/video item, generate one podcast_synth entry. [REPLY SIGNAL] = aggregated comment-sentiment on the post; pos%/neg% are reply distribution, RATIOED means high-engagement post with negative-dominant replies (contradiction signal).
+
+[1] @AI Daily Brief · youtube  (4944 eng) [PODCAST video_id=dB-Kbylgrdk show="AI Daily Brief"]
+  URL: https://www.youtube.com/watch?v=dB-Kbylgrdk
+[transcript window] ls are coming and will get better. So, how we put our heads together and make better and more secure software across the world. And it can't just be patching the 100 or so projects that got access to Project Glasswing. That is not going to help the world." Lastly today, one little bit of AI drama comes to a close at least in this version. Elon Musk has lost his case against OpenAI and Sam Altman. After 3 weeks of testimony, it took the jury just 2 hours to return a unanimous verdict, one which will be wildly unsatisfying to many and leave many issues unresolved emotionally,
+
+[2] @30s.ai · instagram  (1 eng)
+  URL: https://www.instagram.com/p/DYy1SwBEwZT/
+A 93.9% model appeared in Claude Code, then vanished. Claude Mythos — the model Anthropic announced April 7, 2026 as 'by far the most powerful AI model we've ever developed,' then refused to release publicly over cyber-risk — is creeping toward developers. It scores 93.9% on SWE-bench Verified (roughly double the 2024 state-of-the-art, a double-digit lead over Opus 4.6 and GPT-5.4), 77.8% on SWE-bench Pro, 82% on Terminal-Bench 2.0, and 97.6% on USAMO 2026. In testing it autonomously found thousands of zero-days across every major OS and browser, including a 27-year-old OpenBSD bug. In May 202
+
+Synthesize per schema. Apply the rules above — especially the spade-a-spade clause when HYPE-DOMINANT is yes, the competitor-recommendation clause when a reply names a competitor, and the RATIOED clause when reply-signal contradicts post engagement.
+
+Return JSON only.

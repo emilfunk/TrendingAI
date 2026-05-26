@@ -1,0 +1,38 @@
+{
+  "feature_id": "seed-mcp",
+  "overall_sentiment": "mixed",
+  "dominant_pattern": "adoption",
+  "summary_sentence": "MCP shows real adoption in creator workflows this cycle: rileybrown.ai's 39k-engagement Blender-via-Claude demo, Figma-MCP and Expo-MCP being threaded into vibe-coding stacks, and Higgsfield MCP enabling Claude-driven ad generation; bigpictureclub surfaces three Anthropic-flagged security risks (Gmail-send MCP, Chrome full-access, third-party Skills) as the substantive critique counter to the demo flood.",
+  "praises": [
+    "rileybrown.ai shows MCP letting Claude actually control Blender, generating multi-square grids from natural-language prompts in a 39k-engagement demo",
+    "agentic.james threads Expo's MCP server into a Swift-avoidant React Native iOS workflow so Claude can autonomously test mobile apps on the iOS simulator",
+    "handlytech demonstrates Higgsfield MCP letting Claude generate full cinematic AI ad spots with camera movement and product shots"
+  ],
+  "complaints": [
+    "bigpictureclub surfaces three Anthropic-flagged MCP security risks: Cowork+Gmail configured to send, Claude-for-Chrome full site access, third-party skills in Claude Code",
+    "anatomyofai positions MCP-style Claude prompts as a privacy-safer alternative to OpenAI's new financial connector, framing the connector pattern itself as a data-privacy and cybersecurity exposure"
+  ],
+  "notable_quotes": [
+    {"author": "@rileybrown.ai", "source": "tiktok", "quote": "AI can now have access to your computer and it can actually control Blender."},
+    {"author": "@bigpictureclub", "source": "tiktok", "quote": "Three Claude security risks Anthropic warns about on their own website."},
+    {"author": "@agentic.james", "source": "tiktok", "quote": "Expo has their own MCP server, which allows your agent to autonomously test your mobile app on the iOS simulator."}
+  ],
+  "podcast_synth": [],
+  "cited_items_why": {
+    "https://www.tiktok.com/@radnolan/video/7642715397149527326": "radnolan shows Figma-MCP as the bridge that lets a coding agent fix designs directly from an annotated frame.",
+    "https://www.tiktok.com/@agentic.james/video/7643452785177955597": "agentic.james threads Expo's MCP server as the way to make Claude autonomously test React Native iOS apps in the simulator.",
+    "https://www.tiktok.com/@agentic.james/video/7642835625535638797": "agentic.james positions MCP-aware context engineering as level 3+ of Claude Code maturity in his five-level framework.",
+    "https://www.instagram.com/p/DYzG2hxCOsc/": "anatomyofai pitches Claude-with-MCP-style prompts as the privacy-safer alternative to OpenAI's financial connector exposure.",
+    "https://www.tiktok.com/@rileybrown.ai/video/7481648510228499742": "rileybrown.ai's 39k-engagement demo shows MCP letting Claude generate multi-square Blender grids from natural-language prompts.",
+    "https://www.tiktok.com/@bigpictureclub/video/7640025072681389334": "bigpictureclub surfaces the three Anthropic-flagged MCP security risks as the substantive critique inside the demo flood.",
+    "https://www.instagram.com/p/DYZYlWHtY2_/": "handlytech demos Higgsfield-MCP letting Claude generate full cinematic AI ad spots end-to-end."
+  },
+  "counter_narratives": [
+    "anatomyofai surfaces OpenAI's new financial connector as a direct competitor pattern to MCP-style integrations; the angle frames the connector as a privacy/security exposure where MCP-orchestrated prompts protect personal financial data."
+  ],
+  "creator_recommendation": {
+    "angle": "Build a real MCP integration end-to-end against one of Anthropic's three flagged security risks (Gmail-send, Chrome full-access, third-party Skills); show what each risk actually looks like when triggered and what concrete config closes the hole.",
+    "format": "demo",
+    "hook": "Anthropic shipped MCP and then warned about three ways it gets you hacked. I built each attack against my own setup. Here is what fires and what stops it."
+  }
+}

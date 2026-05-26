@@ -1,0 +1,135 @@
+{
+  "generated_from": "scripts/extract-security-entities.ts vs data/youtube.json (transcripts where meta.transcript_status === 'present')",
+  "source_transcript_count": 49,
+  "entities": [
+    {
+      "id": "alignment",
+      "category": "alignment",
+      "count": 33
+    },
+    {
+      "id": "misalignment",
+      "category": "alignment",
+      "count": 13
+    },
+    {
+      "id": "interpretability",
+      "category": "alignment",
+      "count": 11
+    },
+    {
+      "id": "adversarial",
+      "category": "red-team",
+      "count": 6
+    },
+    {
+      "id": "prompt injection",
+      "category": "agentic",
+      "count": 6
+    },
+    {
+      "id": "breach",
+      "category": "cyber",
+      "count": 5
+    },
+    {
+      "id": "TanStack",
+      "category": "supply-chain",
+      "count": 4
+    },
+    {
+      "id": "cyber attack",
+      "category": "cyber",
+      "count": 3
+    },
+    {
+      "id": "exfiltrate",
+      "category": "cyber",
+      "count": 3
+    },
+    {
+      "id": "jailbreak",
+      "category": "agentic",
+      "count": 3
+    },
+    {
+      "id": "reward hacking",
+      "category": "alignment",
+      "count": 3
+    },
+    {
+      "id": "ransomware",
+      "category": "cyber",
+      "count": 2
+    },
+    {
+      "id": "red team",
+      "category": "red-team",
+      "count": 2
+    },
+    {
+      "id": "model welfare",
+      "category": "alignment",
+      "count": 1
+    },
+    {
+      "id": "supply chain attack",
+      "category": "supply-chain",
+      "count": 1
+    },
+    {
+      "id": "zero-day",
+      "category": "cyber",
+      "count": 1
+    }
+  ],
+  "cooccurrences": [
+    {
+      "a": "adversarial",
+      "b": "alignment",
+      "weight": 3
+    },
+    {
+      "a": "adversarial",
+      "b": "interpretability",
+      "weight": 2
+    },
+    {
+      "a": "adversarial",
+      "b": "jailbreak",
+      "weight": 2
+    },
+    {
+      "a": "adversarial",
+      "b": "misalignment",
+      "weight": 2
+    },
+    {
+      "a": "adversarial",
+      "b": "prompt injection",
+      "weight": 2
+    },
+    {
+      "a": "alignment",
+      "b": "jailbreak",
+      "weight": 2
+    },
+    {
+      "a": "alignment",
+      "b": "misalignment",
+      "weight": 2
+    },
+    {
+      "a": "alignment",
+      "b": "prompt injection",
+      "weight": 2
+    },
+    {
+      "a": "jailbreak",
+      "b": "prompt injection",
+      "weight": 2
+    }
+  ],
+  "mentions_total": 97,
+  "cooccurrence_pairs": 9
+}

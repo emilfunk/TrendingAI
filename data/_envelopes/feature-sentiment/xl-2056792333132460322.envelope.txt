@@ -1,0 +1,14 @@
+FEATURE: GeminiApp — @GeminiApp: Gemini Spark is your new 24/7 personal AI agent. Give it a task and it works autonomously in the background, even if you…
+LAB ANCHOR URL: https://x.com/GeminiApp/status/2056792333132460322
+ENTITIES MATCHED: Gemini Spark
+HYPE-DOMINANT: no (deterministic count: 0 of 1 top items match tutorial-hype regex indicators)
+
+1 creator items below. Tags: [LAB-AFFILIATED] = handle works at the lab; their "praise" is internal storytelling, not validation. [PODCAST] = YT podcast/video item, generate one podcast_synth entry. [REPLY SIGNAL] = aggregated comment-sentiment on the post; pos%/neg% are reply distribution, RATIOED means high-engagement post with negative-dominant replies (contradiction signal).
+
+[1] @AI Daily Brief · youtube  (4971 eng) [PODCAST video_id=8uCkUyRFUqY show="AI Daily Brief"]
+  URL: https://www.youtube.com/watch?v=8uCkUyRFUqY
+What Google Needs to Do at I/O This Week — Codex integration into ChatGPT Mobile ushers in persistent agent workflows and shifts knowledge work toward human review and approval instead of direct execution. Google I/O expectations include a Gemini Spark personal agent and cost-optimized Gemini Flash models pursuing both co — Today on the AI Daily Brief, the significance of Codex coming to ChatGPT mobile, the difference between consumer and work AI, and what to expect from Google's IO event next week. Before that, in the headlines, a heck of a first day for Cerebras on Wall Street. The AI Daily 
+
+Synthesize per schema. Apply the rules above — especially the spade-a-spade clause when HYPE-DOMINANT is yes, the competitor-recommendation clause when a reply names a competitor, and the RATIOED clause when reply-signal contradicts post engagement.
+
+Return JSON only.

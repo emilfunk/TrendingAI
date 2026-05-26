@@ -1,0 +1,404 @@
+[
+  {
+    "feature_id": "fr-2e138e9c1f38",
+    "overall_sentiment": "unclear",
+    "dominant_pattern": "news",
+    "summary_sentence": "The Meta Business AI on WhatsApp for India launch matched on broad-term overlap ('WhatsApp' and 'Small Businesses') but the 9 matched items are all off-topic: rileybrown.ai is a Gemini explainer, two harpercarrollai posts cover unrelated Meta/career topics, the IG promos are training-course ads, and ray_fu's 'Claude for Small Businesses' is a competitor framing entirely; no on-topic creator reaction surfaced in this cycle's harvest.",
+    "praises": [],
+    "complaints": [],
+    "notable_quotes": [],
+    "podcast_synth": [],
+    "cited_items_why": {},
+    "counter_narratives": [],
+    "creator_recommendation": null,
+    "cross_narrative_ids": []
+  },
+  {
+    "feature_id": "fr-64d3b9098e0e",
+    "overall_sentiment": "mixed",
+    "dominant_pattern": "news",
+    "summary_sentence": "Google I/O launched Gemini 3.5 Flash + Spark; coverage split between insider podcasts (DeepMind's Logan Kilpatrick + Tulsee Doshi on Cognitive Revolution) and skeptical takes (Theo's 187k 'scared to make this video' opener, plus his follow-up framing Codium's Composer 2.5 as the more impressive recent small-code-model drop).",
+    "praises": [
+      "four times faster than other leading frontier models per the explainer breakdowns",
+      "shipped alongside a new Frontier Safety Framework and interpretability tools that inspect reasoning before output",
+      "DeepMind framing positions 3.5 Flash + Antigravity 2.0 + Spark as a single connected agentic stack rather than three separate products"
+    ],
+    "complaints": [
+      "Theo's 187k YouTube reaction opens with explicit fear of Google retaliation, citing the Anti-Gravity demonetization precedent",
+      "AI Daily Brief calls Google's broader AI strategy 'getting messier and messier' even while crediting the speed advantage",
+      "Theo's 118k follow-up positions Codium Composer 2.5 as the small-and-effective code model Gemini 3.5 Flash 'should have been'"
+    ],
+    "notable_quotes": [
+      {
+        "author": "@Theo - t3.gg",
+        "source": "youtube",
+        "quote": "I'm scared to make this video. Google just dropped Gemini 3.5 Flash. It's definitely a model."
+      },
+      {
+        "author": "@AI Daily Brief",
+        "source": "youtube",
+        "quote": "Their AI strategy is getting messier and messier, but it also just might not matter."
+      },
+      {
+        "author": "@kanekallaway",
+        "source": "tiktok",
+        "quote": "Gemini 3.5 Flash is Google's latest AI model that has frontier level capabilities, but is also four times faster than all the other leading models."
+      }
+    ],
+    "podcast_synth": [
+      {
+        "video_id": "1p334v40npw",
+        "show_name": "Theo - t3.gg",
+        "synth_line": "Theo opens with explicit fear of Google retaliation (Anti-Gravity demonetization precedent) before delivering his Gemini 3.5 Flash critique."
+      },
+      {
+        "video_id": "UvUzpSlXKtg",
+        "show_name": "Theo - t3.gg",
+        "synth_line": "Theo argues Codium's Composer 2.5 is the small-but-effective code model Gemini 3.5 Flash should have been, framing Google as a step behind a smaller competitor."
+      },
+      {
+        "video_id": "_0vFE4Ti1Gs",
+        "show_name": "Cognitive Revolution",
+        "synth_line": "DeepMind's Logan Kilpatrick and Tulsee Doshi defend the 3.5 Flash + Omni + Spark slate as a connected agentic stack in the show's first-ever in-person episode."
+      },
+      {
+        "video_id": "3OuXRxh3JNw",
+        "show_name": "Hard Fork",
+        "synth_line": "Kevin Roose and Casey Newton break down the I/O slate (Gemini 3.5, Spark, Omni) against the question of whether Google is doing enough to win the AI race."
+      },
+      {
+        "video_id": "G2HX30CelNk",
+        "show_name": "AI Daily Brief",
+        "synth_line": "AI Daily Brief calls Google's I/O strategy 'messier and messier' while acknowledging Gemini 3.5 Flash's speed advantages might matter regardless."
+      }
+    ],
+    "cited_items_why": {
+      "https://www.tiktok.com/@kanekallaway/video/7643040317897313567": "Explainer naming Gemini 3.5 Flash + Antigravity 2.0 as the combo powering Spark's agentic capabilities.",
+      "https://www.youtube.com/watch?v=1p334v40npw": "Theo's 187k-engagement Gemini 3.5 Flash reaction opens with fear of Google retaliation over critical takes.",
+      "https://www.youtube.com/watch?v=UvUzpSlXKtg": "Theo's 118k follow-up positions Codium Composer 2.5 as the small-model code release Gemini 3.5 Flash should have been.",
+      "https://www.youtube.com/watch?v=_0vFE4Ti1Gs": "DeepMind's Logan Kilpatrick and Tulsee Doshi defend the 3.5 Flash + Omni + Spark stack on Cognitive Revolution.",
+      "https://www.youtube.com/watch?v=3OuXRxh3JNw": "Hard Fork debates whether the I/O slate is enough for Google to win the AI race against OpenAI.",
+      "https://www.youtube.com/watch?v=G2HX30CelNk": "AI Daily Brief calls the strategy messier while still crediting Gemini 3.5 Flash's speed edge.",
+      "https://www.tiktok.com/@adam.digital/video/7643667708453653780": "Highlights the Frontier Safety Framework and interpretability tools shipped alongside Gemini 3.5 Flash.",
+      "https://lastweekin.ai/p/lwiai-podcast-246-gemini-35-omni": "LWiAI Podcast 246 covers Gemini 3.5 + Omni alongside the Musk OpenAI verdict.",
+      "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/": "Ars Technica frames Gemini 3.5 Flash as Google's efficiency play for agentic workloads."
+    },
+    "counter_narratives": [
+      "Theo's 118k follow-up argues Codium's Composer 2.5 small-code-model release outpaces what Gemini 3.5 Flash actually shipped, framing Google as a step behind a smaller competitor on the small-code-model axis."
+    ],
+    "creator_recommendation": {
+      "angle": "Side-by-side: run the same agentic code workflow through Gemini 3.5 Flash + Antigravity 2.0 and Codium's Composer 2.5; settle Theo's 'should have been Gemini' claim with shipped output, not vibes.",
+      "format": "comparison",
+      "hook": "Theo says Codium's Composer 2.5 is the model Gemini 3.5 Flash should have been. I gave both eight hours on the same Next.js feature. Here is what they actually built."
+    },
+    "cross_narrative_ids": [
+      "cursor-composer-2-5-challenges-frontier-labs",
+      "google-io-2026-agentic-stack-launch"
+    ]
+  },
+  {
+    "feature_id": "fr-cf2c701f4b43",
+    "overall_sentiment": "unclear",
+    "dominant_pattern": "news",
+    "summary_sentence": "The Nemotron-Labs Diffusion Language Models post matched on generic phrase overlap ('Language Models') but none of the 5 matched items substantively discuss the Nemotron diffusion approach: justinfineberg covers vertical-vs-horizontal SaaS theory, three Instagram posts are unrelated certifications and expert-talk promos, and iScienceLuvr's item is a separate paper on sleep-like consolidation for transformer LLMs.",
+    "praises": [],
+    "complaints": [],
+    "notable_quotes": [],
+    "podcast_synth": [],
+    "cited_items_why": {},
+    "counter_narratives": [],
+    "creator_recommendation": null,
+    "cross_narrative_ids": []
+  },
+  {
+    "feature_id": "fr-e46d28eec380",
+    "overall_sentiment": "positive",
+    "dominant_pattern": "news",
+    "summary_sentence": "OpenAI's Databricks enterprise tie-up arrived inside a broader GPT-5.5 favorable cycle: Theo's 187k-engagement podcast highlights GPT-5.5 medium's ~10x token efficiency over Sonnet/Gemini, Marc Andreessen on Rogan named GPT-5.5 as part of the AGI-is-here cluster, and Lenny's guest writes most strategy docs and email with GPT-5.5 and Codex; the looming counter is Cursor Composer 2.5 hitting near-parity at 60x lower cost per task.",
+    "praises": [
+      "Theo's 187k-engagement video frames GPT-5.5 medium as 10x more token-efficient than Sonnet on the same task (22M tokens vs 200M)",
+      "Lenny's guest reports doing most strategy documents and email writing through GPT-5.5 and Codex",
+      "Marc Andreessen on Rogan named GPT-5.5 alongside Claude 4.6, Gemini 3, Grok 4.3 as the cluster that crossed the AGI line ~3 months ago"
+    ],
+    "complaints": [
+      "AI Daily Brief surfaces Cursor Composer 2.5 hitting near-parity on Terminal Bench and SWE-bench at a fraction of the cost, framing GPT-5.5's $4.10-per-task pricing as the soft spot",
+      "steady_ai breaks down a 60x cost gap ($0.07 vs $4.10 per task) where Composer 2.5 wins on new feature coding and agent loops while Opus 4.7 stays ahead on big refactors and complex debugging"
+    ],
+    "notable_quotes": [
+      {
+        "author": "@Theo - t3.gg",
+        "source": "youtube",
+        "quote": "Token efficiency is a very underrated aspect of all of the things that we're doing nowadays, and Open AI seems to be the only company taking it very seriously."
+      },
+      {
+        "author": "@theo",
+        "source": "x",
+        "quote": "The Codex/GPT-5.5 experience I have today would have met my definition in 2024."
+      },
+      {
+        "author": "@itsolelehmann",
+        "source": "x",
+        "quote": "AGI is here. he thinks the line was crossed about 3 months ago with the new GPT-5.5, claude 4.6, gemini 3, and grok 4.3 models."
+      }
+    ],
+    "podcast_synth": [
+      {
+        "video_id": "1p334v40npw",
+        "show_name": "Theo - t3.gg",
+        "synth_line": "Theo argues OpenAI is the only lab taking token efficiency seriously, citing GPT-5.5 medium at 22M tokens for a task where Sonnet burned 200M."
+      },
+      {
+        "video_id": "G2HX30CelNk",
+        "show_name": "AI Daily Brief",
+        "synth_line": "AI Daily Brief surfaces Theo's cost critique: Gemini 3.5 Flash runs 2x more expensive than Gemini 3.1 Pro and more expensive than GPT-5.5 medium for similar tasks."
+      },
+      {
+        "video_id": "dB-Kbylgrdk",
+        "show_name": "AI Daily Brief",
+        "synth_line": "AI Daily Brief positions Cursor Composer 2.5 near GPT-5.5 and Opus 4.7 benchmark scores while pricing at $0.50/$2.50 per million tokens."
+      },
+      {
+        "video_id": "4D3hDmGhFhA",
+        "show_name": "Lenny's Podcast",
+        "synth_line": "Lenny's guest reports their team's strategy documents and most email are now written by GPT-5.5 and Codex, claiming the AI output beats most human-written equivalents."
+      }
+    ],
+    "cited_items_why": {
+      "https://www.youtube.com/watch?v=1p334v40npw": "Theo's 187k video makes the token-efficiency case for GPT-5.5 medium that directly supports the enterprise-cost story Databricks integration needs.",
+      "https://www.youtube.com/watch?v=G2HX30CelNk": "AI Daily Brief surfaces enterprise-relevant GPT-5.5 medium pricing as the comparison point against Gemini 3.5 Flash's cost overhead.",
+      "https://www.youtube.com/watch?v=dB-Kbylgrdk": "AI Daily Brief positions Cursor Composer 2.5 benchmarks directly against GPT-5.5 — the same comparison enterprise buyers running on Databricks will make.",
+      "https://www.youtube.com/watch?v=4D3hDmGhFhA": "Lenny's guest details how strategy docs and email writing are now production GPT-5.5 workloads, the same daily-use enterprise pattern Databricks targets.",
+      "https://x.com/itsolelehmann/status/2057909733491937555": "Marc Andreessen's Rogan list naming GPT-5.5 as part of the AGI-crossed cluster gives the enterprise sales pitch top-of-funnel framing.",
+      "https://x.com/theo/status/2059121546556571694": "Theo's testimony that Codex/GPT-5.5 already meets his 2024 AGI definition supports the enterprise viability claim.",
+      "https://www.instagram.com/p/DYyQy42EuMB/": "steady_ai's detailed Cursor Composer 2.5 vs Opus 4.7 vs GPT-5.5 breakdown is the cost-vs-quality enterprise procurement framework."
+    },
+    "counter_narratives": [
+      "Cursor Composer 2.5 hits near-parity on Terminal Bench (69.3 vs 69.4 Opus) and SWE-bench (79.8 vs 80.5) at 60x lower per-task cost ($0.07 vs $4.10 per steady_ai's breakdown); for enterprise agent-loop and new-feature work this is the budget-displacing comparison Databricks-GPT-5.5 will face."
+    ],
+    "creator_recommendation": {
+      "angle": "Run a real enterprise agent workflow on Databricks-with-GPT-5.5 and the same workflow on Cursor Composer 2.5; report per-task cost, latency, and quality with screenshots so procurement teams can see the 60x cost gap and where it does and does not matter.",
+      "format": "comparison",
+      "hook": "Databricks just put GPT-5.5 in front of every enterprise data team. Cursor's Composer 2.5 hits 95% of its benchmarks at 1/60th the cost. I ran a real procurement workflow on both. Here is when the cheaper one breaks."
+    },
+    "cross_narrative_ids": [
+      "cursor-composer-2-5-challenges-frontier-labs"
+    ]
+  },
+  {
+    "feature_id": "seed-claude-skills",
+    "overall_sentiment": "positive",
+    "dominant_pattern": "adoption",
+    "summary_sentence": "Claude Skills is showing real cross-platform pickup this cycle: a top-10-fastest-growing-AI-repos Reddit roundup lists it alongside Claude-Code memory tools and codegraph indexers, and agentic.james's 6.1k-engagement TikTok positions Skills as the modular-context-engineering primitive that loads task-specific prompts, scripts, and API connections on demand.",
+    "praises": [
+      "agentic.james frames Claude Skills as the dynamic-loading mechanism for full workflow context: prompts, scripts, custom API calls",
+      "Reddit's fastest-growing-repo roundup names Claude Skills as one of the active build areas alongside Claude-Code memory and browser-automation tooling"
+    ],
+    "complaints": [],
+    "notable_quotes": [
+      {
+        "author": "@agentic.james",
+        "source": "tiktok",
+        "quote": "Cloud Skills is a new feature that allows you to dynamically load a folder that's full of prompts, scripts, custom API calls, or any specific instructions for a specific task."
+      }
+    ],
+    "podcast_synth": [],
+    "cited_items_why": {
+      "https://www.reddit.com/r/artificial/comments/1tnjhts/top_10_fastest_growing_ai_repos_this_week/": "Reddit's top-10 fastest-growing AI repos roundup includes Claude Skills as one of the active build areas this week.",
+      "https://www.tiktok.com/@agentic.james/video/7562250551602253111": "agentic.james's 6k-engagement single-feature deep-dive surfaces Claude Skills as the modular-context-engineering primitive for dynamic workflow loading."
+    },
+    "counter_narratives": [],
+    "creator_recommendation": {
+      "angle": "Build one production Claude Skill end-to-end (say, a security-review skill that loads OWASP context + a custom check script) and show it being invoked across three real codebases. Compare against the same workflow done with custom system prompts or Cursor rules so reviewers can see when Skills earn their abstraction.",
+      "format": "tutorial",
+      "hook": "Everyone is naming-dropping Claude Skills. Almost nobody is shipping one. I built a real production skill and ran it across three repos. Here is exactly what goes in the folder, and when it breaks."
+    },
+    "cross_narrative_ids": []
+  },
+  {
+    "feature_id": "seed-finance-agents",
+    "overall_sentiment": "positive",
+    "dominant_pattern": "news",
+    "summary_sentence": "Anthropic's 10-agent financial services launch has a single substantive creator pickup this cycle: kanekallaway's TikTok names model-builder, earnings-reviewer, and the month-end closer as the workflow-displacing slate for Excel/PowerPoint/banking; the sample is thin (one item, 1k engagement) so the cycle-over-cycle adoption signal is not yet visible.",
+    "praises": [
+      "kanekallaway calls out the month-end-closer agent as the workflow-displacing piece for finance/banking work in Excel and PowerPoint"
+    ],
+    "complaints": [],
+    "notable_quotes": [
+      {
+        "author": "@kanekallaway",
+        "source": "tiktok",
+        "quote": "Claude just airdropped 10 new AI agents for Finance"
+      }
+    ],
+    "podcast_synth": [],
+    "cited_items_why": {
+      "https://www.tiktok.com/@kanekallaway/video/7637886014270311710": "kanekallaway is the single substantive creator covering the 10-agent slate this cycle: names model-builder, earnings-reviewer, and month-end closer as the displacement vectors."
+    },
+    "counter_narratives": [],
+    "creator_recommendation": {
+      "angle": "Run the month-end-closer agent against a real (sanitized) monthly close workflow with an actual finance team in the loop; report what it does cleanly, what needs human review, and what it cannot touch. Procurement teams need the exact split before they pilot it.",
+      "format": "demo",
+      "hook": "Anthropic just shipped 10 finance agents. One claims to do month-end close. I gave it real ledger data and a senior controller. Here is the gap between the demo and the audit."
+    },
+    "cross_narrative_ids": []
+  },
+  {
+    "feature_id": "seed-mcp",
+    "overall_sentiment": "mixed",
+    "dominant_pattern": "adoption",
+    "summary_sentence": "MCP shows real adoption in creator workflows this cycle: rileybrown.ai's 39k-engagement Blender-via-Claude demo, Figma-MCP and Expo-MCP being threaded into vibe-coding stacks, and Higgsfield MCP enabling Claude-driven ad generation; bigpictureclub surfaces three Anthropic-flagged security risks (Gmail-send MCP, Chrome full-access, third-party Skills) as the substantive critique counter to the demo flood.",
+    "praises": [
+      "rileybrown.ai shows MCP letting Claude actually control Blender, generating multi-square grids from natural-language prompts in a 39k-engagement demo",
+      "agentic.james threads Expo's MCP server into a Swift-avoidant React Native iOS workflow so Claude can autonomously test mobile apps on the iOS simulator",
+      "handlytech demonstrates Higgsfield MCP letting Claude generate full cinematic AI ad spots with camera movement and product shots"
+    ],
+    "complaints": [
+      "bigpictureclub surfaces three Anthropic-flagged MCP security risks: Cowork+Gmail configured to send, Claude-for-Chrome full site access, third-party skills in Claude Code",
+      "anatomyofai positions MCP-style Claude prompts as a privacy-safer alternative to OpenAI's new financial connector, framing the connector pattern itself as a data-privacy and cybersecurity exposure"
+    ],
+    "notable_quotes": [
+      {
+        "author": "@rileybrown.ai",
+        "source": "tiktok",
+        "quote": "AI can now have access to your computer and it can actually control Blender."
+      },
+      {
+        "author": "@bigpictureclub",
+        "source": "tiktok",
+        "quote": "Three Claude security risks Anthropic warns about on their own website."
+      },
+      {
+        "author": "@agentic.james",
+        "source": "tiktok",
+        "quote": "Expo has their own MCP server, which allows your agent to autonomously test your mobile app on the iOS simulator."
+      }
+    ],
+    "podcast_synth": [],
+    "cited_items_why": {
+      "https://www.tiktok.com/@radnolan/video/7642715397149527326": "radnolan shows Figma-MCP as the bridge that lets a coding agent fix designs directly from an annotated frame.",
+      "https://www.tiktok.com/@agentic.james/video/7643452785177955597": "agentic.james threads Expo's MCP server as the way to make Claude autonomously test React Native iOS apps in the simulator.",
+      "https://www.tiktok.com/@agentic.james/video/7642835625535638797": "agentic.james positions MCP-aware context engineering as level 3+ of Claude Code maturity in his five-level framework.",
+      "https://www.instagram.com/p/DYzG2hxCOsc/": "anatomyofai pitches Claude-with-MCP-style prompts as the privacy-safer alternative to OpenAI's financial connector exposure.",
+      "https://www.tiktok.com/@rileybrown.ai/video/7481648510228499742": "rileybrown.ai's 39k-engagement demo shows MCP letting Claude generate multi-square Blender grids from natural-language prompts.",
+      "https://www.tiktok.com/@bigpictureclub/video/7640025072681389334": "bigpictureclub surfaces the three Anthropic-flagged MCP security risks as the substantive critique inside the demo flood.",
+      "https://www.instagram.com/p/DYZYlWHtY2_/": "handlytech demos Higgsfield-MCP letting Claude generate full cinematic AI ad spots end-to-end."
+    },
+    "counter_narratives": [
+      "anatomyofai surfaces OpenAI's new financial connector as a direct competitor pattern to MCP-style integrations; the angle frames the connector as a privacy/security exposure where MCP-orchestrated prompts protect personal financial data."
+    ],
+    "creator_recommendation": {
+      "angle": "Build a real MCP integration end-to-end against one of Anthropic's three flagged security risks (Gmail-send, Chrome full-access, third-party Skills); show what each risk actually looks like when triggered and what concrete config closes the hole.",
+      "format": "demo",
+      "hook": "Anthropic shipped MCP and then warned about three ways it gets you hacked. I built each attack against my own setup. Here is what fires and what stops it."
+    },
+    "cross_narrative_ids": [
+      "ai-power-concentration-warnings"
+    ]
+  },
+  {
+    "feature_id": "xl-2056792333132460322",
+    "overall_sentiment": "positive",
+    "dominant_pattern": "news",
+    "summary_sentence": "Gemini Spark launched at Google I/O as the 24/7 personal AI agent reading Drive, Gmail, and Calendar to autonomously build decks and write emails; kanekallaway's TikTok explainer surfaces the cross-app personal-agent angle Google has been positioned for, and AI Daily Brief framed it pre-I/O as one of the two headline expectations alongside cost-optimized Gemini Flash models, paired against OpenAI's Codex-mobile push.",
+    "praises": [
+      "kanekallaway names the cross-app personal-agent capability: reads Drive, scans email, cross-references Calendar, and live-builds decks",
+      "brandnat surfaces the 24/7-background-agent framing as the headline I/O launch"
+    ],
+    "complaints": [],
+    "notable_quotes": [
+      {
+        "author": "@kanekallaway",
+        "source": "tiktok",
+        "quote": "Gemini Spark is an AI that lives across all of your Google apps and connected tools."
+      },
+      {
+        "author": "@AI Daily Brief",
+        "source": "youtube",
+        "quote": "Google I/O expectations include a Gemini Spark personal agent and cost-optimized Gemini Flash models."
+      },
+      {
+        "author": "@brandnat",
+        "source": "tiktok",
+        "quote": "NEW Gemini Spark - 24/7 personal AI agent launches at @Google I/O"
+      }
+    ],
+    "podcast_synth": [
+      {
+        "video_id": "8uCkUyRFUqY",
+        "show_name": "AI Daily Brief",
+        "synth_line": "AI Daily Brief frames Gemini Spark as one of Google's two main I/O expectations alongside cost-optimized Flash models, while Codex-on-ChatGPT-mobile is OpenAI's parallel persistent-agent move."
+      }
+    ],
+    "cited_items_why": {
+      "https://www.youtube.com/watch?v=8uCkUyRFUqY": "AI Daily Brief pre-I/O sets Gemini Spark expectations alongside the cost-optimized Flash story and the OpenAI Codex-mobile parallel.",
+      "https://www.tiktok.com/@kanekallaway/video/7643040317897313567": "kanekallaway names the cross-Google-app personal-agent capability that is the actual product claim.",
+      "https://www.tiktok.com/@brandnat/video/7642003064978951445": "brandnat surfaces the 24/7-background-agent framing as the headline launch."
+    },
+    "counter_narratives": [
+      "OpenAI's Codex-on-ChatGPT-mobile push (covered by AI Daily Brief in the same pre-I/O episode) ships a persistent-agent workflow on phones that Gemini Spark is now positioned against; both labs are racing to put a background autonomous agent in front of consumer users."
+    ],
+    "creator_recommendation": {
+      "angle": "Give Gemini Spark and Codex-on-ChatGPT-mobile the same realistic personal-assistant task (read 50 emails, surface action items, build a 3-slide deck, draft the reply) and report which one actually completes the full chain without hand-holding.",
+      "format": "demo",
+      "hook": "Google and OpenAI both just put a 24/7 background agent on your phone. I gave them the same Monday-morning task. One finished. The other asked permission six times."
+    },
+    "cross_narrative_ids": [
+      "google-io-2026-agentic-stack-launch"
+    ]
+  },
+  {
+    "feature_id": "xl-2058983299092009421",
+    "overall_sentiment": "mixed",
+    "dominant_pattern": "news",
+    "summary_sentence": "Pope Leo XIV's first encyclical 'Magnifica Humanitas' called for AI to be 'disarmed' with Anthropic co-founder Chris Olah on the Vatican stage; major outlets (TechCrunch, Bloomberg, FT, The Information, The Register, The Verge, Variety) framed it as a power-concentration critique while a CNN TT clip pushed the 'disarmed' soundbite to 578k engagement.",
+    "praises": [
+      "iScienceLuvr cites the encyclical's nuanced framing that technology takes on the characteristics of those who devise and fund it, not inherently evil",
+      "Chris Olah's invitation to present alongside the Pope frames Anthropic as the lab the Vatican wanted in the room"
+    ],
+    "complaints": [
+      "Pope Leo's framing positions current AI development as risking 'New Forms of Dehumanization' under opaque control of few firms",
+      "TechCrunch argues the encyclical 'isn't really about AI' but uses AI as a lens for older concerns about concentrated power",
+      "FT highlights the 'idolatry of profit' framing critiquing the entire commercial AI revolution"
+    ],
+    "notable_quotes": [
+      {
+        "author": "@cnn",
+        "source": "tiktok",
+        "quote": "Pope Leo XIV called for AI to be \"disarmed\" during the presentation of his first encyclical document, \"Magnifica Humanitas.\""
+      },
+      {
+        "author": "@iScienceLuvr",
+        "source": "x",
+        "quote": "technology is never neutral, because it takes on the characteristics of those who devise, finance, regulate, and use it."
+      },
+      {
+        "author": "@simonw",
+        "source": "x",
+        "quote": "When I woke up this morning I didn't think I'd be spending a bunch of time today getting familiar with Catholic theology, but here we are."
+      }
+    ],
+    "podcast_synth": [],
+    "cited_items_why": {
+      "https://x.com/simonw/status/2059065719086792804": "Simon Willison signals the encyclical pulled even technical-AI watchers into reading Catholic theology this week.",
+      "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/": "TechCrunch reframes the encyclical as a diagnosis of concentrated power using AI as the surface lens.",
+      "https://www.bloomberg.com/news/articles/2026-05-25/pope-leo-warns-ai-should-be-prevented-from-dominating-humanity": "Bloomberg surfaces the 'disarmed' framing as the Pope's contribution to the regulation debate.",
+      "https://www.tiktok.com/@cnn/video/7643831428689546510": "CNN's 578k-engagement TikTok clip pushed the 'disarmed' soundbite into mainstream feeds.",
+      "https://x.com/iScienceLuvr/status/2058890492172280143": "iScienceLuvr surfaces the nuanced theological framing that tech reflects its makers, not is intrinsically evil.",
+      "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/": "Religion News frames the encyclical's central claim: AI must serve humanity, not the powerful few.",
+      "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/": "Variety surfaces the 'New Forms of Dehumanization' phrase critiquing opaque AI run by few firms.",
+      "https://www.theinformation.com/briefings/pope-leo-anthropic-co-founder-warn-ai-power-concentration-labor-displacement": "The Information explicitly pairs the Pope's warning with Chris Olah's framing of AI power concentration and labor displacement.",
+      "https://www.theregister.com/ai-ml/2026/05/26/pope-leo-warns-ai-boom-can-give-big-tech-and-the-people-who-run-it-too-much-power/5245883": "The Register surfaces the Pope's warning that AI change may be 'governed only by technocratic thinking and presented as necessary and inevitable'.",
+      "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare": "The Verge ties the encyclical to Anthropic and labor-warfare themes.",
+      "https://www.ft.com/content/12313f08-991d-4079-9631-9ce7ae70c3e3": "FT highlights the 'idolatry of profit' framing critiquing the commercial AI revolution."
+    },
+    "counter_narratives": [],
+    "creator_recommendation": {
+      "angle": "Read the actual encyclical (it's online) and unpack the three technical claims it makes about modern AI from a builder's perspective; map each claim to the actual mechanism it describes (training data ownership, model concentration, agent autonomy) rather than the theological framing.",
+      "format": "explainer",
+      "hook": "The Pope's first encyclical names three things wrong with AI. Two of them are real engineering decisions you make every week. Here is what he actually said, and what to change in your stack."
+    },
+    "cross_narrative_ids": [
+      "ai-power-concentration-warnings"
+    ]
+  }
+]

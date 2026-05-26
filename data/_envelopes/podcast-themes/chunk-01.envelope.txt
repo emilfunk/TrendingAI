@@ -1,0 +1,139 @@
+Surface 5-8 themes that are discussed by 2+ DIFFERENT podcasts in the supplied set. EXCLUDE themes that are essentially one of these already-confirmed feature launches:
+- @AnthropicAI: Anthropic co-founder Chris Olah was invited to speak at today's presentation of Pope Leo XIV's encyclical "Magnifica hum… (entities: s presentation of Pope Leo XIV, Chris Olah, Pope Leo)
+- @OpenAI: Listen to the OpenAI Podcast on— Spotify https://t.co/hLcRdGrfUX Apple https://t.co/0AdZ1ZteOV YouTube https://t.co/hDMl… (entities: YouTube)
+- [Anthropic] Introducing the Model Context Protocol (entities: model context protocol, mcp)
+- [OpenAI] Databricks brings GPT-5.5 to enterprise agent workflows (entities: GPT-5.5)
+- Claude Skills — reusable instruction sets Claude loads on demand (entities: claude skills)
+- @xai: Grok Build is now available in Beta for all SuperGrok and X Premium+ users. Use Plan Mode, create images and videos with… (entities: Grok Build, SuperGrok, Use Plan)
+- @AnthropicAI: Last month we launched Project Glasswing, our collaborative AI cybersecurity initiative. Since then, we and our partners… (entities: Project Glasswing)
+- @GoogleDeepMind: Build your next story with Gemini Omni. https://t.co/0Gd5Nlw26U (entities: Gemini Omni)
+- @GeminiApp: Gemini Spark is your new 24/7 personal AI agent. Give it a task and it works autonomously in the background, even if you… (entities: Gemini Spark)
+
+25 podcast transcript chunks below.
+
+[V1] show="Cognitive Revolution" video_id=_0vFE4Ti1Gs
+URL: https://www.youtube.com/watch?v=_0vFE4Ti1Gs
+TITLE: The Model Eats the Scaffolding: DeepMind's Logan Kilpatrick & Tulsee Doshi on 3.5 Flash, Omni & More
+TRANSCRIPT (first 700 chars): Hello, and welcome back to the Cognitive Revolution. Today, after some 340 episodes, I am very excited to share the first episode that I've ever recorded in person with fan favorite Logan Kilpatrick, member of technical staff at Google DeepMind, and Tulsi Doshi, senior director and head of product for Gemini models. The occasion for this conversation is Google's annual I/O event, where they're launching the new Gemini 3.5 flash model, all sorts of agent infrastructure and AI product integrations, and plenty more. We recorded on Friday, May 15th, just a couple days before the event. And while many at Google, including my brother Craig, who's giving a keynote on Wednesday, were working overtim
+
+[V2] show="AI Daily Brief" video_id=-UTIXsziBJI
+URL: https://www.youtube.com/watch?v=-UTIXsziBJI
+TITLE: Towards AI That Can Actually Interact
+TRANSCRIPT (first 700 chars): Today on the AI Daily Brief, a new approach to AI called interaction models. Before that in the headlines, OpenAI's big consulting arm is official. The AI Daily Brief is a daily podcast and video about the most important news and discussions in AI. All right, friends. Quick announcements before we dive in. Thanks to listeners like you, the AI Daily Brief just continues to grow and grow and grow. It is almost always a top five technology podcast, and it is almost always now in the top 200 of podcasts overall. This has happened almost totally organically because of listeners sharing with their friends and colleagues, but I think it's time to pour some gas on that particular fire. I am now hiri
+
+[V3] show="The PrimeTime" video_id=0zw-Uk9KJiA
+URL: https://www.youtube.com/watch?v=0zw-Uk9KJiA
+TITLE: Everyone is Wrong about Tokens
+TRANSCRIPT (first 700 chars): You see this right here? Yeah. That's $1.3 million spent in OpenAI tokens in the last 30 days. 603 billion tokens spent. Now, even if I were to try my hardest, I am not actually sure it's possible for me to spend this amount of money or that amount of tokens. I have no idea how we accomplished such things. And when I saw this, I thought this is just the most ridiculous thing and I This is so stupid. But then, I started thinking about it more and more and I realized that there's a future that is developing in which I think a lot of people are wrong and I think this post right here really helps it kind of crystallize in my mind where things are going. So, I got a lot of yapping to do, so I hop
+
+[V4] show="All-In Podcast" video_id=10MdOvK-aG4
+URL: https://www.youtube.com/watch?v=10MdOvK-aG4
+TITLE: Elon’s Anthropic Deal, The Next AI Monopoly?, “FDA for AI” Panic, Trading the AI Boom
+TRANSCRIPT (first 700 chars): How do I sound? >> You sound perfect. >> You sound great. >> I look? Yeah, you sound great. Better than you look. You got that face made for radio. You [laughter] don't look as tired as you have in recent weeks. That's true. Yeah. Yeah. >> Somebody was slagging me for the bags under my eyes. I mean, this audience is brutal. [music] They're brutal. They're brutal. It's a good thing I'm rich. >> [laughter] [music] >> You let your winners ride. Rain Man David Sacks >> [music] >> And I said, we open sourced it to the fans and they've just gone crazy [music] with it. Love you, Sacksy. All right, everybody. Welcome back to the number one podcast in the world. It's the All-In podcast. With us today
+
+[V5] show="Theo - t3.gg" video_id=131yAOjxHHQ
+URL: https://www.youtube.com/watch?v=131yAOjxHHQ
+TITLE: I’m done.
+TRANSCRIPT (first 700 chars): Anthropic finally responded, and I couldn't be more pumped. They finally came out and support T3 code directly. That's why I got my Claude hat on and I'm sharing this update. Starting June 15th, paid Claude plans can claim a dedicated monthly credit for programmatic use. Wait, a credit? This credit covers the usage of the agent SDK, Claude-P, the Claude code GitHub actions in third-party apps built on the agent SDK. Huh. For those who haven't kept up with this drama, unlike pretty much every other provider, Anthropic is really strict about what you can use your Claude code sub for. They have historically supported things built on top of the agent SDK, so if you wanted to build, I don't know,
+
+[V6] show="Cognitive Revolution" video_id=19TnC92SAT4
+URL: https://www.youtube.com/watch?v=19TnC92SAT4
+TITLE: All Compute Is Food: Palisade's Jeffrey Ladish on AI Shutdown Resistance, Self-Replication & Ecology
+TRANSCRIPT (first 700 chars): Hello and welcome back to the cognitive revolution. Today my guest is Jeffrey Ladish, executive director of Palisade Research, which studies the capabilities and motivations of today's AIS as part of its effort to better understand the risk that humans could irrevocably lose control of AI systems. We begin with Palisad's work on shutdown resistance, which showed that in both digital and physical environments, even when they're explicitly instructed to allow themselves to be shut down, LLMs sometimes take extraordinary actions, such as disabling the shutdown mechanism in order to extend their sessions and continue to pursue their goals. We get Jeffrey's take on criticisms of the specific tech
+
+[V7] show="Theo - t3.gg" video_id=1p334v40npw
+URL: https://www.youtube.com/watch?v=1p334v40npw
+TITLE: I'm scared to make this video
+TRANSCRIPT (first 700 chars): I need to be real with you guys. I'm legitimately scared to make this video. Not just because I think Google might cut me off from early access because I'm here to tell you how bad a lot of the things they're doing are, but because it might put my entire career at risk. The last time I came out to explain just how bad a Google product was, it was when Anti-Gravity originally released. And my punishment for doing that was that they demonetized the video, stopped recommending it entirely, and they actually manually flagged it as enabling dishonest behavior. That flag killed distribution for a couple videos on my channel and risked my whole career. So, know that I'm doing this despite the fact 
+
+[V8] show="Latent Space" video_id=287Q-bs_pEU
+URL: https://www.youtube.com/watch?v=287Q-bs_pEU
+TITLE: ⚡️ Why you should build Science Fiction — Sunil Pai, Cloudflare
+TRANSCRIPT (first 700 chars): Okay, we're here with Sophai uh creator of code mode. >> No. Uh I have to take credit for creation of code mode. >> Dynamic isolates for a while. I did it is mine. I it is I did create uh since since I was a child, I was I've been thinking about it. It's my life. It's my life's mission. >> I wanted to just catch up on everything going on in Cloudflare lands and also like obviously you and I have caught up over the years. The more recent thing which just launched yesterday was this cloud uh cloud manage agents thing which I which I know that you you're also like interested in. Maybe we can talk about that because it's kind of like breaking news and you seem excited about it. >> Cloud manage a
+
+[V9] show="Hard Fork" video_id=3OuXRxh3JNw
+URL: https://www.youtube.com/watch?v=3OuXRxh3JNw
+TITLE: Is Google Doing Enough to Win the A.I. Race?
+TRANSCRIPT (first 700 chars): Ready to walk and talk? >> What are we talking about? >> We're just It's scenic. Scenic setting. Can you be less? >> No, I'm asking. I Why I I WAS TOLD TO SHUT UP BECAUSE I RUINED too much of the show earlier. So, I'm like, what? What am I allowed to talk about? >> Can you sack up and just give me some scenic B-roll? >> Fully sacked. >> I have to do everything around here. I swear to God. >> Okay. Well, Kevin, the keynote just wrapped up here at IO 2026. What did you think? >> Yes, this is like the the Coachella of capitalism, the uh warp tour of the web, >> the la palooa of links. >> I can keep going. >> Please don't. >> And um they are doing a lot. Uh we heard about everything from like ag
+
+[V10] show="Lenny's Podcast" video_id=4D3hDmGhFhA
+URL: https://www.youtube.com/watch?v=4D3hDmGhFhA
+TITLE: The AI paradox: More automation, more humans, more work
+TRANSCRIPT (first 700 chars): The last time you were on this podcast, you had this hot take that people were sleeping on Claude Code. You were so unbelievably right. The premise of this episode is we're going to go through what else you predict will happen. >> The AI job apocalypse is not really a thing. I am super super bullish on PMs and full-stack designers. >> So, you guys are hiring doubled in people in the past year, which is not what people would have expected from a company that is so AI forward. >> I'm simultaneously extremely AI pilled and [music] very bullish on humans. Automation is a lie. Every agent needs a human. We have so much automation, so much AI, and I also work way more. >> Creativity. It just feels
+
+[V11] show="Cognitive Revolution" video_id=7uXpqnkUE94
+URL: https://www.youtube.com/watch?v=7uXpqnkUE94
+TITLE: Milliseconds to Match: Criteo's AdTech AI & the Future of Commerce w/ Diarmuid Gill & Liva Ralaivola
+TRANSCRIPT (first 700 chars): Hello, and welcome back to the Cognitive Revolution. Today, my guests are Diarmuid Gill and Leela Ralevicola, CTO and VP of research and head of the AI lab at Criteo, the advertising technology company that powers much of the personalized advertising that we experience on the open internet. I'm also joined by my long-time friend and teammate, Alex Perster, who took over for me as CEO of Waymark some 3 years ago now and has since formed a partnership with Criteo that brings Waymark's AI-powered commercial creation product to Criteo advertisers. We begin with an explanation of how modern digital advertising works and the value that it creates for society. Personally, I tend to emphasize that w
+
+[V12] show="AI Daily Brief" video_id=8uCkUyRFUqY
+URL: https://www.youtube.com/watch?v=8uCkUyRFUqY
+TITLE: What Google Needs to Do at I/O This Week
+TRANSCRIPT (first 700 chars): Today on the AI Daily Brief, the significance of Codex coming to ChatGPT mobile, the difference between consumer and work AI, and what to expect from Google's IO event next week. Before that, in the headlines, a heck of a first day for Cerebras on Wall Street. The AI Daily Brief is a daily podcast and video about the most important news and discussions in AI. All right, friends. Quick announcements before we dive in. First of all, check out our careers page. I am hiring a full-time growth engineer. That is someone who is engineering growth, not a developer by training necessarily, although you will be building lots, but it is a very cool way to be a part of this ecosystem. And one final note
+
+[V13] show="AI Daily Brief" video_id=9N3jEavj5Ps
+URL: https://www.youtube.com/watch?v=9N3jEavj5Ps
+TITLE: Anthropic Just Reset AI Expectations
+TRANSCRIPT (first 700 chars): Today on the AI Daily Brief, huge news out of Anthropic as the company hires a former OpenAI co-founder and has their first ever quarter of profitability. Before that in the headlines, OpenAI is on the precipice of filing for an IPO. The AI Daily Brief is a daily podcast and video about the most important news and discussions in AI. All right, friends. We got some juice today, man. One of the biggest things that markets are watching is the moves that the big labs are making vis-à-vis going public. And the Wall Street Journal reports that OpenAI has engaged investment bankers and expects to file IPO paperwork as soon as Friday. They will file confidentially, meaning that full financial disclo
+
+[V14] show="Machine Learning Street Talk" video_id=AREWYbVtX64
+URL: https://www.youtube.com/watch?v=AREWYbVtX64
+TITLE: Intelligence is collective, not artificial — Prof. Michael I. Jordan (UC Berkeley / Inria)
+TRANSCRIPT (first 700 chars): Nature said that you are the most influential computer scientist. >> It exists in the real world. This is a abstraction, but it's a it's a real thing. It's like F= MA. It's a set of um it'll make predictions. So if I write down a game just like I wrote down F= MA in some coordinate system, I can now predict what'll happen. I don't think we need to see I think this anthropomorphizing of intelligence and understanding all that is not necessary, not appropriate and is is a distraction for many many problems. why say it understands. I think it's science fiction and I think science fiction is important for society but it's also at the level it's being promoted and and and those kind of voices it'
+
+[V15] show="The PrimeTime" video_id=cVUVfn8OF5k
+URL: https://www.youtube.com/watch?v=cVUVfn8OF5k
+TITLE: Recovering from AI Psychosis
+TRANSCRIPT (first 700 chars): Welcome to the stand. Today we have with us Adam.dev. If you do not know, the legendary vegan from the Ozarks. He has single-handedly helped make something compete against Claude Code by himself. Adam is a fantastic dev and we've made fun of him many times for being a vegan and going to Korean barbecue with us. But the more important thing about Adam is that he went from coding everything by hand, not really into the AI, going to full AI psychosis. And apparently he is back out of AI psychosis, coming into reality again, took a month off the internet. And when we saw this, we said, "Okay, Adam, come on. Talk to us. We got to hear the story. We got to understand it." Because I think a lot of 
+
+[V16] show="AI Daily Brief" video_id=dB-Kbylgrdk
+URL: https://www.youtube.com/watch?v=dB-Kbylgrdk
+TITLE: 9 Codex Tips from the Codex Team
+TRANSCRIPT (first 700 chars): Today on the AI Daily Brief, nine Codex tips from the Codex team. Before that, in the headlines, yeah, we got a verdict in the Elon OpenAI trial, but that's much less interesting than Composer 2.5. The AI Daily Brief is a daily podcast and video about the most important news and discussions in AI. All right, friends. Quick announcements before we dive in. You can apply for our new growth engineer role. I'm going to be closing that soon, so if you are interested, get your application in. And you can also find a link to register for the third cohort of Enterprise Cloud, which is coming right up soon. Basically, if you get all excited about the Codex talk today and want to get that spirit of ag
+
+[V17] show="Lex Fridman" video_id=EV7WhVT270Q
+URL: https://www.youtube.com/watch?v=EV7WhVT270Q
+TITLE: State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI
+TRANSCRIPT (first 700 chars): The following is a conversation all about the state-of-the-art in artificial intelligence, including some of the exciting technical breakthroughs and developments in AI that happened over the past year and some of the interesting things we think might happen this upcoming year. At times it does get super technical, but we do try to make sure that it remains accessible to folks outside the field without ever dumbing it down. It is a great honor and pleasure to be able to do this kind of episode with two of my favorite people in the AI community, Sebastian Rashka and Nathan Lambert. They are both widely respected machine learning researchers and engineers who also happen to be great communicat
+
+[V18] show="AI Daily Brief" video_id=G2HX30CelNk
+URL: https://www.youtube.com/watch?v=G2HX30CelNk
+TITLE: The Most Important AI News from Google I/O
+TRANSCRIPT (first 700 chars): Today on the AI Daily Brief, a look at everything Google announced at IO and why it seems like their AI strategy is getting messier and messier, but it also just might not matter because of some of the significant advantages that they're bringing to the table. The AI Daily Brief is a daily podcast and video about the most important news and discussions in AI. All right, friends, quick announcements before we dive in. You always had to know that the Google IO recap was going to be a full end-to-end episode, but that certainly didn't account for former OpenAI co-founder Andrej Karpathy announcing that he had joined Anthropic. To many, if not most, in franchised AI watchers, this was a bigger a
+
+[V19] show="No Priors" video_id=g5TWnUjbeFM
+URL: https://www.youtube.com/watch?v=g5TWnUjbeFM
+TITLE: Amex Global Business Travel: The World’s First AI Take Private with Long Lake CEO Alexander Taubman
+TRANSCRIPT (first 700 chars): Today Pars, we're joined by Alex Topman, the co-founder and CEO of Long Lake Management. Long Lake recently announced their intent to acquire American Express Global Business Travel for $6.3 billion in what I believe is the world's first AI take private. They have previously bought around 30 companies and they transform and optimize them with AI. So, we're very excited to have him on board today. Alex, thanks so much for joining us at Enterprise. >> Pleasure to be here. Thank you for having me, Lad. >> Um, you just announced what I believe, and I I could be wrong on this, but I think it may be um the world's first ever AI take private where you've agreed to acquire Ammex Express Global Busin
+
+[V20] show="Lenny's Podcast" video_id=G5WTgB87rYQ
+URL: https://www.youtube.com/watch?v=G5WTgB87rYQ
+TITLE: Why the next AI boom is physical AI
+TRANSCRIPT (first 700 chars): There's a dawning realization, especially in the labs, the acceleration is going so vertical that what you can do behind a keyboard with AI is going to saturate. When that happens, the next frontier is the physical world. Robotics, manufacturing, industrialization. >> You're living in the future and designing it. >> There's probably more change in war than there is in consumer electronics. In the next 2 years, we need to invest a lot more in drones than in aircraft carriers. >> Just imagine 100,000 drones coming out of China just at us. I do feel that we need to re-industrialize the country significantly to be safe in a military sense. I would really like to retach ourselves how to make thin
+
+[V21] show="AI Daily Brief" video_id=GWPpLdpTo90
+URL: https://www.youtube.com/watch?v=GWPpLdpTo90
+TITLE: Why Agents Still Need Humans
+TRANSCRIPT (first 700 chars): Today on the AI Daily Brief, the next wave of human agent collaboration. The AI Daily Brief is a daily podcast and video about the most important news and discussions in AI. All right, friends. Quick announcements before we dive in. One thing I would point you to is the newsletter, which is back. If you're ever wondering where you can find the links to all of the articles and quotes and tweets and things that I reference, the newsletter is going to be your best bet for that. Now today we are doing a longread/bigthink episode and we're getting at a theme that's at the core of AI operations this year. Obviously 2026 has been all about agents actually becoming real and they became real because 
+
+[V22] show="All-In Podcast" video_id=HGbA6ze0_3M
+URL: https://www.youtube.com/watch?v=HGbA6ze0_3M
+TITLE: SpaceX’s $2T Case, Nvidia’s Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?
+TRANSCRIPT (first 700 chars): All right, everybody. Welcome back to the number one podcast in the world. It's the All-in podcast episode 274. Sacks is out today, but we're very lucky to have Gavin Baker from Atrides Management joining us. The spicy takes must flow. Welcome back to the program, bestie Gavin. Thanks for having me. Always love it. It's been a huge week in tech. We can start with the SpaceX and OpenAI IPOs. We've got Andrej Karpathy joining Anthropic, Nvidia crushing it. So many different to go, but I think we'll start with Andrej Karpathy joining Anthropic. Karpathy is only 39 years old. He's already a legend in the tech industry. If you don't know him, I believe he's also coming to Liquidity, Chamath. He's
+
+[V23] show="Hard Fork" video_id=hRTeKebXuZ0
+URL: https://www.youtube.com/watch?v=hRTeKebXuZ0
+TITLE: How Prediction Markets Got Out of Control
+TRANSCRIPT (first 700 chars): I'm Kevin Roose, a tech columnist at the New York Times. >> I'm Casey Non from Platformer >> AND THIS IS HARD FOUR. THIS WEEK, PREDICTION MARKETS are out of control. Is Congress about to rein them in? Then Joanna Stern returns to the show to discuss her new book on turning her life over to a chatbot. And finally, Hardfork's own Rachel Conn returns to the show to talk about her first month at attention school. She has our full attention. She does. Well, Kevin, a few weeks ago you predicted we would soon do another segment on prediction markets, and I'm happy to tell you that prediction has now come true. >> Oh, thank God. My bet is going to pay out on Kelshi. >> It is because as I was looking
+
+[V24] show="BG2 Pod" video_id=hUJz55AsUz4
+URL: https://www.youtube.com/watch?v=hUJz55AsUz4
+TITLE: China, China, China. Breaking Down China’s Tech Surge
+TRANSCRIPT (first 700 chars): Over lunch, this individual told me, you know, every founder and every VC in China studies the West at a nauseating level. So they listen to all the podcasts, they read everything they possibly can, they study any speech, they look at the financials. And he said, "The West doesn't do that of China." And you know, maybe we should be maybe we should be studying the best and the brightest over there. [Music] [Applause] >> Hey, Bill. Great to see you. >> Good to see you. >> Summer's summer has just blown past. It's It's almost football season. >> Yes. >> How are the Longhorns looking this year? Um, they're ranked pretty high. >> What's that mean? Come on, give me the scoop. I know. I know. You'r
+
+[V25] show="AI Daily Brief" video_id=izRIZ1bMq4A
+URL: https://www.youtube.com/watch?v=izRIZ1bMq4A
+TITLE: In Defense of Tokenmaxxing
+TRANSCRIPT (first 700 chars): Today on the AI Daily Brief, a defensive token maxing, the controversial practice of incentivizing employees to spend as many AI tokens as they can. Before that in the headlines, Google starts dropping announcements ahead of IO, including the new Gemini intelligence. The AI Daily Brief is a daily podcast and video about the most important news and discussions in AI. All right, friends. Quick announcements before we dive in. First, registrations are live for Enterprise Claw Cohort 3. You can get a link from the AI Daily Brief site or Enterprise Claw.ai. And second, as I mentioned yesterday, I am hiring a growth engineer for the podcast and podcast ecosystem. All of these crazy things we do, l
+
+Return JSON only matching the schema. Empty themes array acceptable if no cross-podcast convergence exists in this chunk.

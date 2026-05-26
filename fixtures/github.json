@@ -1,0 +1,105 @@
+[
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 59953,
+    "meta": {
+      "created_at": "2026-04-04T10:03:00Z",
+      "topics": [
+        "ai",
+        "anthropic",
+        "caveman",
+        "claude",
+        "claude-code",
+        "llm",
+        "meme",
+        "prompt-engineering",
+        "skill",
+        "tokens"
+      ]
+    },
+    "raw_text": "JuliusBrussee/caveman 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "source": "github",
+    "title": "JuliusBrussee/caveman",
+    "ts": "2026-05-12T19:44:48Z",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 52165,
+    "meta": {
+      "created_at": "2026-04-05T01:12:07Z",
+      "topics": [
+        "ai",
+        "chromadb",
+        "llm",
+        "mcp",
+        "memory",
+        "python"
+      ]
+    },
+    "raw_text": "MemPalace/mempalace The best-benchmarked open-source AI memory system. And it's free.",
+    "source": "github",
+    "title": "MemPalace/mempalace",
+    "ts": "2026-05-14T09:41:59Z",
+    "url": "https://github.com/MemPalace/mempalace"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 47829,
+    "meta": {
+      "created_at": "2026-04-03T15:49:07Z",
+      "topics": [
+        "antigravity",
+        "claude-code",
+        "codex",
+        "gemini",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "openclaw",
+        "rag",
+        "skills",
+        "tree-sitter"
+      ]
+    },
+    "raw_text": "safishamsi/graphify AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "source": "github",
+    "title": "safishamsi/graphify",
+    "ts": "2026-05-14T10:49:00Z",
+    "url": "https://github.com/safishamsi/graphify"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 7600,
+    "meta": {
+      "created_at": "2026-03-18T18:38:02Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "computer-vision",
+        "course",
+        "deep-learning",
+        "from-scratch",
+        "generative-ai",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "nlp",
+        "python",
+        "reinforcement-learning",
+        "rust",
+        "swarm-intelligence",
+        "transformers",
+        "tutorial",
+        "typescript"
+      ]
+    },
+    "raw_text": "rohitg00/ai-engineering-from-scratch Learn it. Build it. Ship it for others.",
+    "source": "github",
+    "title": "rohitg00/ai-engineering-from-scratch",
+    "ts": "2026-05-14T11:10:25Z",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "title": "[The Information] AI startup raises Series B amid agentic-AI wave",
+    "url": "https://www.theinformation.com/articles/edge-paywall-stub",
+    "source": "enterprise",
+    "ts": "2026-05-15T08:00:00.000Z",
+    "engagement": 80,
+    "raw_text": "AI startup raises Series B amid agentic-AI wave — Subscribe to read",
+    "captured_at": "2026-05-15T17:30:00.000Z",
+    "meta": {
+      "publisher": "the-information",
+      "label": "The Information",
+      "summary": "Subscribe to read",
+      "paywall": true,
+      "date_basis": "feed-pubdate"
+    }
+  },
+  {
+    "title": "[FT AI] Edge case — empty summary on a paywall-prone publisher",
+    "url": "https://www.ft.com/content/edge-empty-summary",
+    "source": "enterprise",
+    "ts": "2026-05-15T07:00:00.000Z",
+    "engagement": 70,
+    "raw_text": "Edge case — empty summary on a paywall-prone publisher — ",
+    "captured_at": "2026-05-15T17:30:00.000Z",
+    "meta": {
+      "publisher": "ft-ai",
+      "label": "FT AI",
+      "summary": "",
+      "paywall": true,
+      "date_basis": "feed-pubdate"
+    }
+  }
+]

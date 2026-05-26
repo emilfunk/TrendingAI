@@ -1,0 +1,54 @@
+[
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 2612,
+    "meta": {
+      "author": "cylo",
+      "objectID": "48085821"
+    },
+    "raw_text": "Local AI needs to be the norm",
+    "source": "hn",
+    "title": "Local AI needs to be the norm",
+    "ts": "2026-05-10T17:19:28Z",
+    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 1868,
+    "meta": {
+      "author": "indigodaddy",
+      "objectID": "48100433"
+    },
+    "raw_text": "If AI writes your code, why use Python?",
+    "source": "hn",
+    "title": "If AI writes your code, why use Python?",
+    "ts": "2026-05-11T20:45:55Z",
+    "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 1565,
+    "meta": {
+      "author": "thm",
+      "objectID": "48053203"
+    },
+    "raw_text": "AI slop is killing online communities",
+    "source": "hn",
+    "title": "AI slop is killing online communities",
+    "ts": "2026-05-07T18:46:25Z",
+    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 983,
+    "meta": {
+      "author": "JumpCrisscross",
+      "objectID": "48077126"
+    },
+    "raw_text": "Meta's embrace of AI is making its employees miserable",
+    "source": "hn",
+    "title": "Meta's embrace of AI is making its employees miserable",
+    "ts": "2026-05-09T18:33:36Z",
+    "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
+  }
+]

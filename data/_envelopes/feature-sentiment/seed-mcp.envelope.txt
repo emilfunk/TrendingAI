@@ -1,0 +1,66 @@
+FEATURE: Anthropic — [Anthropic] Introducing the Model Context Protocol
+LAB ANCHOR URL: https://www.anthropic.com/news/model-context-protocol
+ENTITIES MATCHED: model context protocol, mcp
+HYPE-DOMINANT: no (deterministic count: 0 of 14 top items match tutorial-hype regex indicators)
+
+14 creator items below. Tags: [LAB-AFFILIATED] = handle works at the lab; their "praise" is internal storytelling, not validation. [PODCAST] = YT podcast/video item, generate one podcast_synth entry. [REPLY SIGNAL] = aggregated comment-sentiment on the post; pos%/neg% are reply distribution, RATIOED means high-engagement post with negative-dominant replies (contradiction signal).
+
+[1] @Cognitive Revolution · youtube  (1634189 eng) [PODCAST video_id=nsWdSaKVbIY show="Cognitive Revolution"]
+  URL: https://www.youtube.com/watch?v=nsWdSaKVbIY
+[transcript window] o their own research with the Brave Search API. Brave offers the only search API with its own index at scale. It's lightning fast, excels in rag pipelines, and it's a leading search option for Claude MCP and open claw. I've built Brave Search into my personal AI infrastructure as a core tool that all agents can use anytime they need it. To find guest headshots and company logos for the podcast, they use Brave's image search. To build small business profiles for use in my Waymark prototyping work, they use Brave's place search. Across all use cases, my agents tap into Brave'
+
+[2] @Cognitive Revolution · youtube  (61871 eng) [PODCAST video_id=nSssFWw-kxc show="Cognitive Revolution"]
+  URL: https://www.youtube.com/watch?v=nSssFWw-kxc
+[transcript window] at the project level. It needs to at least live at the drive level. But I think it would be even more powerful if it could live outside of the drive and be a collaborator that you can bring like with MCP. I think about that as like that's Underlord is now my collaborator that I bring into Claude Co-work. And for example, now one of the ways that I create content is I say like, "Hey Claude Co-work, look across everything I've done in notion and Slack over the last week and can you come up with like six ideas for clips that I can make about my thoughts on the AI space?" And t
+
+[3] @AI Daily Brief · youtube  (7221 eng) [PODCAST video_id=q9t1XCnHcM0 show="AI Daily Brief"]
+  URL: https://www.youtube.com/watch?v=q9t1XCnHcM0
+[transcript window] ting to new usage-based paradigms, the Anthropic team did announce that you could now run {slash} usage to see a breakdown of where your tokens were being consumed, specifically which skills, agents, MCPs, or plugins were being the biggest token hogs. Now, in this new paradigm, everyone is shuffling for position in narrative space. I discussed already the mixed messaging from Google I/O, where I thought based on the entire corpus of communications that they were really emphasizing the speed of 3.5 Flash over the price given that it was so much more expensive than previous F
+
+[4] @AI Daily Brief · youtube  (4944 eng) [PODCAST video_id=dB-Kbylgrdk show="AI Daily Brief"]
+  URL: https://www.youtube.com/watch?v=dB-Kbylgrdk
+[transcript window] osted a video on Slack and asked Codex to check the thread every 15 minutes for feedback, re-render a new version when comments came in, and reply back into the thread tagging the reviewer. The Slack MCP server could not upload files, so the agent used at computer to press the add file button and post the revised render anyway." In other words, what Jason is saying is that the Slack-specific tools didn't have an upload feature, so he just used computer use to take care of that manually. "The interesting part," writes Jason, "is not just that it checked Slack every 15 minute
+
+[5] @Lenny's Podcast · youtube  (0 eng) [PODCAST video_id=PplmzlgE0kg show="Lenny's Podcast"]
+  URL: https://www.youtube.com/watch?v=PplmzlgE0kg
+[transcript window] rmats that are possible. And so, it has like 20 of these example slides that >> an example, got it. So, you like upload here's our template, work from this. Yeah. You can also connect like your Figma MCP if you if you have your slide format um saved there and it can pull that in. Along those lines, something I'm always curious about is what's kind of in your in your stack of tools as a PM at Anthropic? Obviously, Claude Code and co-work and all the Anthropic tools. What else are you using? What other Slack you mentioned? Is there anything else? So, my stack is pretty heavil
+
+[6] @doublenickk · x  (5098 eng)
+  URL: https://x.com/doublenickk/status/2058676383912431842
+Anthropic shipped 125 settings for Claude The official docs cover 40 One developer found the other 85 and his API bill dropped from $340 to $87 - not by using a cheaper model - not by writing shorter prompts just by moving one line in a config file to the right place > memory scoped per project → past clients never bleed into new work > Extended Thinking on Light by default → 18–25% fewer Opus tokens in week one > cache_control moved to the right line → the fix that turned a $340 bill into $87 > plugins and MCP servers toggled off when idle → saved 25–40K tokens per session > per-project model
+
+[7] @bsidesahmedabad · instagram  (12 eng)
+  URL: https://www.instagram.com/p/DYy1nhaA3dZ/
+AI systems are the new attack surface. Time to learn how to build them… break them… and defend them. 🔥 BSides Ahmedabad Training presents: Build, Break & Defend AI Systems A hands-on, offensive + defensive deep dive into Agentic AI, MCP vulnerabilities, prompt injection, OWASP Agentic Top 10, guardrails, and real-world AI attack scenarios. ⚡ No boring theory overload. Just practical labs, live exploitation, and real defense strategies. 🎯 Trainers: Shashwath Aiyappa Nagarjun Meenakshi Ganesh Akif Asif 📅 24–25 September 2026 Book Now🔗➡️: https://secwiser.com/bsides-ahmedabad-2026 #BSidesAhme
+
+[8] @bilsimaging · instagram  (2 eng)
+  URL: https://www.instagram.com/p/DYyw9_ODVCx/
+تخيل ليوما أنك تصنع الـ Workflows والـ Systems بمجرد أنك تسأل الـ AI باللغة الطبيعية؟ 🗣️🤯 بكري كان لازمك تدخل وتجر الـ Nodes بيدك، تربط خط بـ خط، تبرمج الـ JSON data، وتثبت الـ APIs وحدة وحدة . العالم ليوما عمل قفزة خيالية بفضل الـ "AI-Native Builders". وليت تحل الـ Chatbot متاعك، تكتبلو ببساطة: "يا صديقي، اربطلي الـ Lead generation form بالـ CRM وابعثلي تنبيه على Slack كل ما يدخل كليون جديد". بمجرّد أنك تطلب، الـ AI يترجم كلامك، يدخل للـ n8n، يرسم الـ Nodes، يفعل الـ Connections، ويسلمك الـ Workflow ! أنت تخمم وتطلب، والـ AI يخدم الباقي. #native #BuildByAsking #n8nmcp #claude #futureofcode
+
+[9] @kbtechworld · instagram  (1 eng)
+  URL: https://www.instagram.com/p/DYy0MfFEhz4/
+Your AI is brilliant… but blind. 🤖 It can write poetry, debug code, and explain quantum physics — yet it can't see the one Slack message you sent 2 minutes ago, the file sitting in your Drive, or the ticket open in Jira. Why? Because every AI tool has been building its own custom, fragile "connector" to every app. It's the USB-before-USB-C era of AI. Messy. Expensive. Unscalable. Enter 👉 Model Context Protocol (MCP) — the open standard quietly rewiring how AI talks to your tools, data, and systems. In this 8-slide field guide, I break down: 🔹 Slide 1 — Why your AI literally can't see your d
+
+[10] @marketingexpert.bkk · instagram  (0 eng)
+  URL: https://www.instagram.com/p/DYyylFrgqw0/
+เจ้าของธุรกิจยังใช้ AI Tools 10+ ตัวอยู่เหรอ? หยุดก่อนนะครับ — คุณอาจกำลังเสียเงินโดยเปล่าประโยชน์ 💸 Ryan Doser นักการตลาดรายได้ 6 หลักที่อยู่ในวงการมากกว่า 10 ปี เพิ่งเปิดเผยว่าเขาตัด AI Tools list ที่เคยยาวเหยียดออกไปเกือบหมด เหลือแค่ 5 ตัวหลักที่ใช้จริงในปี 2026 และหนึ่งในนั้นทำ passive income ให้เขาไปแล้วกว่า $3,000 แอดสรุปทุกอย่างมาให้แล้ว พร้อมราคาทุกตัวเลยครับ 👇 ✅ Claude Code (Max Plan $100/เดือน) — tool อันดับ 1 ของเขา ใช้แทน Lovable, Replit และ vibe coding tools ทั้งหมด สร้าง Skill Markdown Files เพื่อฝึกให้ AI ทำงานเฉพาะด้านได้แม่นขึ้นเรื่อยๆ ✅ ChatGPT Plus ($20/เดือน) — จ่ายไม่ใช่
+
+[11] @raph.guilhem · tiktok  (12569 eng)
+  URL: https://www.tiktok.com/@raph.guilhem/video/7642353908836322592
+This is insane 😭 Comment « Claude » #pletormcp #claude #ai
+
+[12] @bigpictureclub · tiktok  (616 eng)
+  URL: https://www.tiktok.com/@bigpictureclub/video/7640025072681389334
+Three Claude security risks Anthropic warns about on their own website. 1: Cowork + Gmail MCP configured to send. 2: Claude for Chrome set to full site access. 3: Third party skills in Claude Code. #ai #claude #anthropic #aitips #aiforbeginners @Claude
+
+[13] @bcherny [LAB-AFFILIATED] · x  (5 eng)
+  URL: https://x.com/bcherny/status/2058967316549763148
+@numberkash Maybe. If you scroll down a bit more, we show which specific plugins/skills/mcps used the most tokens. I find that really helpful for debugging fast context usage
+
+[14] @vjbussan · instagram  (0 eng)
+  URL: https://www.instagram.com/p/DYyz2cMmuSl/
+【note まとめ再告知】 神戸の1人法人「VJ物産」代表が、月商757,294円を1人で運営している実装ログをnoteで公開しています。 ▼第1弾 AI社員25名を雇うまで（¥980） ▼第2弾 MCP実装応用編（¥4,980） ▼第3弾 1人法人がやってる自動化の実装集（¥7,980） 「1人で4モール運営は無理」と思っていた方、Claude DesktopとMCPを組み合わせると景色が変わります。 詳細はプロフィールリンク（lit.link/vjbussan）から。 #1人法人 #AI社員 #Claude #MCP #EC運営 #note #副業 #フリーランス #神戸 #VJ物産
+
+Synthesize per schema. Apply the rules above — especially the spade-a-spade clause when HYPE-DOMINANT is yes, the competitor-recommendation clause when a reply names a competitor, and the RATIOED clause when reply-signal contradicts post engagement.
+
+Return JSON only.

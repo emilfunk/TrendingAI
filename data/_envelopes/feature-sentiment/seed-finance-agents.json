@@ -1,0 +1,23 @@
+{
+  "feature_id": "seed-finance-agents",
+  "overall_sentiment": "positive",
+  "dominant_pattern": "news",
+  "summary_sentence": "Anthropic's 10-agent financial services launch has a single substantive creator pickup this cycle: kanekallaway's TikTok names model-builder, earnings-reviewer, and the month-end closer as the workflow-displacing slate for Excel/PowerPoint/banking; the sample is thin (one item, 1k engagement) so the cycle-over-cycle adoption signal is not yet visible.",
+  "praises": [
+    "kanekallaway calls out the month-end-closer agent as the workflow-displacing piece for finance/banking work in Excel and PowerPoint"
+  ],
+  "complaints": [],
+  "notable_quotes": [
+    {"author": "@kanekallaway", "source": "tiktok", "quote": "Claude just airdropped 10 new AI agents for Finance"}
+  ],
+  "podcast_synth": [],
+  "cited_items_why": {
+    "https://www.tiktok.com/@kanekallaway/video/7637886014270311710": "kanekallaway is the single substantive creator covering the 10-agent slate this cycle: names model-builder, earnings-reviewer, and month-end closer as the displacement vectors."
+  },
+  "counter_narratives": [],
+  "creator_recommendation": {
+    "angle": "Run the month-end-closer agent against a real (sanitized) monthly close workflow with an actual finance team in the loop; report what it does cleanly, what needs human review, and what it cannot touch. Procurement teams need the exact split before they pilot it.",
+    "format": "demo",
+    "hook": "Anthropic just shipped 10 finance agents. One claims to do month-end close. I gave it real ledger data and a senior controller. Here is the gap between the demo and the audit."
+  }
+}

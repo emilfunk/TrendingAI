@@ -1,0 +1,50 @@
+[
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 0,
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.13846v1"
+    },
+    "raw_text": "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data This paper introduces WARDEN, an early language model system capable of transcribing and translating Wardaman, an endangered Australian indigenous language into English. The significant challenge we face is the lack of large-scale training data: in fact, we only have 6 hours of annotated audio. Therefore, while it is common practice to train a single model for transcription and translation using l",
+    "source": "arxiv",
+    "title": "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data",
+    "ts": "2026-05-13T17:59:52Z",
+    "url": "https://arxiv.org/abs/2605.13846v1"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 0,
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.13841v1"
+    },
+    "raw_text": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents Voice agents, artificial intelligence systems that conduct spoken conversations to complete tasks, are increasingly deployed across enterprise applications. However, no existing benchmark jointly addresses two core evaluation challenges: generating realistic simulated conversations, and measuring quality across the full scope of voice-specific failure modes. We present EVA-Bench, an end-to-end eva",
+    "source": "arxiv",
+    "title": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents",
+    "ts": "2026-05-13T17:58:52Z",
+    "url": "https://arxiv.org/abs/2605.13841v1"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 0,
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.13840v1"
+    },
+    "raw_text": "What is Learnable in Valiant's Theory of the Learnable? Valiant's 1984 paper is widely credited with introducing the PAC learning model, but it, in fact, introduced a different model: unlike PAC learning, the learner receives only positives, may issue membership queries, and must output a hypothesis with no false positives. Prior work characterized variants, including the case without queries. We revisit Valiant's original model and ask: *Which classes",
+    "source": "arxiv",
+    "title": "What is Learnable in Valiant's Theory of the Learnable?",
+    "ts": "2026-05-13T17:58:46Z",
+    "url": "https://arxiv.org/abs/2605.13840v1"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 0,
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.13839v1"
+    },
+    "raw_text": "Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights Multi-agent LLM systems usually collaborate by exchanging natural-language messages. This interface is simple and interpretable, but it forces each sender's intermediate computation to be serialized into tokens and then reprocessed by the receiver, thereby increasing the generated-token cost, prefill overhead, and KV-cache memory. We study an alternative communication interface: instead of appendi",
+    "source": "arxiv",
+    "title": "Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights",
+    "ts": "2026-05-13T17:58:32Z",
+    "url": "https://arxiv.org/abs/2605.13839v1"
+  }
+]

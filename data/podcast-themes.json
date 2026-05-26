@@ -1,0 +1,248 @@
+{
+  "generated_at": "2026-05-26T12:45:00Z",
+  "source_transcript_count": 49,
+  "themes": [
+    {
+      "theme": "Karpathy joining Anthropic resets expectations",
+      "themeKey": "karpathy-joining-anthropic",
+      "summary": "AI Daily Brief framed Andrej Karpathy's move to Anthropic as the biggest story of the cycle alongside the company's first profitable quarter. All-In's Gavin Baker positioned Karpathy as the talent-signal that pushes Anthropic ahead of OpenAI in the perception layer right as both labs head toward IPO conversations. The substrate signal: top-tier AI researcher mobility is now a market-moving event.",
+      "episode_count": 2,
+      "episodes": [
+        {
+          "show": "AI Daily Brief",
+          "video_id": "9N3jEavj5Ps",
+          "url": "https://www.youtube.com/watch?v=9N3jEavj5Ps",
+          "angle": "Karpathy joining Anthropic is the biggest news of the cycle paired with the company's first profitable quarter.",
+          "timestamp_seconds": 882,
+          "timestamp_match_word": "profitable"
+        },
+        {
+          "show": "All-In Podcast",
+          "video_id": "HGbA6ze0_3M",
+          "url": "https://www.youtube.com/watch?v=HGbA6ze0_3M",
+          "angle": "Gavin Baker positions Karpathy's move as a signal Anthropic is winning the talent layer ahead of the IPO window.",
+          "timestamp_seconds": 2294,
+          "timestamp_match_word": "positions"
+        }
+      ],
+      "why_not_already_feature": "executive talent move spanning two labs and the IPO market, not a product ship"
+    },
+    {
+      "theme": "Physical AI and drone-era re-industrialization",
+      "themeKey": "physical-ai-reindustrialization",
+      "summary": "Lenny's guest argued the next AI boom is physical: robotics, manufacturing, and military drones. Latent Space's Fourth Law founder said Ukraine produced 4M FPV drones last year while China can produce 4B. BG2 Pod's China-tech-surge episode made the same point from the venture perspective. Three shows converged on physical-AI as the next acceleration vector beyond keyboard work.",
+      "episode_count": 3,
+      "episodes": [
+        {
+          "show": "Lenny's Podcast",
+          "video_id": "G5WTgB87rYQ",
+          "url": "https://www.youtube.com/watch?v=G5WTgB87rYQ",
+          "angle": "Acceleration behind the keyboard saturates; the next frontier is robotics, manufacturing, and drones — re-industrialization is now a national-security argument.",
+          "timestamp_seconds": 8,
+          "timestamp_match_word": "industrialization"
+        },
+        {
+          "show": "Latent Space",
+          "video_id": "UmCZBwsibgs",
+          "url": "https://www.youtube.com/watch?v=UmCZBwsibgs",
+          "angle": "Ukraine's 4M FPV drones in 2024 vs China's 4B-drone capacity reframes conventional military power around AI-equipped autonomous hardware.",
+          "timestamp_seconds": 8,
+          "timestamp_match_word": "conventional"
+        },
+        {
+          "show": "BG2 Pod",
+          "video_id": "hUJz55AsUz4",
+          "url": "https://www.youtube.com/watch?v=hUJz55AsUz4",
+          "angle": "China studies the West at a nauseating level while the West doesn't return the favor; the tech surge runs through hardware as much as software."
+        }
+      ],
+      "why_not_already_feature": "cross-podcast strategic frame about where the next AI investment cycle lives, not a single product launch"
+    },
+    {
+      "theme": "Agents still need humans in the loop",
+      "themeKey": "agents-still-need-humans",
+      "summary": "AI Daily Brief's longread argued the agentic era is being defined by human-agent collaboration patterns, not full automation. Lenny's guest said 'automation is a lie' even while doubling hiring in an AI-forward company. Latent Space's Daytona episode noted 74% MoM growth in agent-cloud runs but emphasized the human handoff still drives most production deployments.",
+      "episode_count": 3,
+      "episodes": [
+        {
+          "show": "AI Daily Brief",
+          "video_id": "GWPpLdpTo90",
+          "url": "https://www.youtube.com/watch?v=GWPpLdpTo90",
+          "angle": "2026 has been about agents becoming real, but the next wave is the human-agent collaboration layer, not full autonomy.",
+          "timestamp_seconds": 33,
+          "timestamp_match_word": "becoming"
+        },
+        {
+          "show": "Lenny's Podcast",
+          "video_id": "4D3hDmGhFhA",
+          "url": "https://www.youtube.com/watch?v=4D3hDmGhFhA",
+          "angle": "Automation is a lie. Every agent needs a human. AI-forward companies are doubling hiring, not cutting it.",
+          "timestamp_seconds": 24,
+          "timestamp_match_word": "automation"
+        },
+        {
+          "show": "Latent Space",
+          "video_id": "kaX43RRRUKY",
+          "url": "https://www.youtube.com/watch?v=kaX43RRRUKY",
+          "angle": "Daytona's 74% MoM growth in agent-cloud runs and 850K runs per day still passes the production handoff to humans.",
+          "timestamp_seconds": 409,
+          "timestamp_match_word": "production"
+        }
+      ],
+      "why_not_already_feature": "cross-podcast challenge to the fully-autonomous-agent narrative, not a single feature ship"
+    },
+    {
+      "theme": "Token efficiency vs tokenmaxxing debate",
+      "themeKey": "token-efficiency-vs-tokenmaxxing",
+      "summary": "The PrimeTime spotlighted $1.3M of OpenAI tokens spent in 30 days as the absurdity that reveals where the industry is going. AI Daily Brief's 'In Defense of Tokenmaxxing' argued for incentivizing employees to spend more tokens. Theo's 187k-engagement video framed OpenAI as the only lab taking efficiency seriously, while everyone else inflates token use. The debate is not whether tokens matter; it is whether more or fewer is the right direction.",
+      "episode_count": 3,
+      "episodes": [
+        {
+          "show": "The PrimeTime",
+          "video_id": "0zw-Uk9KJiA",
+          "url": "https://www.youtube.com/watch?v=0zw-Uk9KJiA",
+          "angle": "$1.3M of OpenAI tokens in 30 days is absurd on its face but reveals an emergent compute-as-a-utility future most people are missing."
+        },
+        {
+          "show": "AI Daily Brief",
+          "video_id": "izRIZ1bMq4A",
+          "url": "https://www.youtube.com/watch?v=izRIZ1bMq4A",
+          "angle": "Companies should incentivize employees to spend more AI tokens, not fewer, as a hiring-and-output strategy.",
+          "timestamp_seconds": 1445,
+          "timestamp_match_word": "incentivize"
+        },
+        {
+          "show": "Theo - t3.gg",
+          "video_id": "1p334v40npw",
+          "url": "https://www.youtube.com/watch?v=1p334v40npw",
+          "angle": "OpenAI is the only lab taking token efficiency seriously; GPT-5.5 medium ran a task in 22M tokens that Sonnet burned 200M on.",
+          "timestamp_seconds": 423,
+          "timestamp_match_word": "efficiency"
+        }
+      ],
+      "why_not_already_feature": "cross-podcast frame about the economic substrate of agent workflows, not a product"
+    },
+    {
+      "theme": "AGI is here, just unevenly distributed",
+      "themeKey": "agi-is-here-uneven",
+      "summary": "Marc Andreessen on Rogan (surfaced by AI Daily Brief and others) said the AGI line was crossed three months ago with GPT-5.5, Claude 4.6, Gemini 3, Grok 4.3 dropping in rapid succession. Theo's X post said the Codex/GPT-5.5 experience already meets his 2024 AGI definition. Lex Fridman's state-of-AI episode and Lenny's hard-truths episode both grappled with the same idea: the threshold was passed without anyone noticing.",
+      "episode_count": 4,
+      "episodes": [
+        {
+          "show": "Lex Fridman",
+          "video_id": "EV7WhVT270Q",
+          "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
+          "angle": "Sebastian Raschka and Nathan Lambert survey 2026 LLMs, coding, scaling laws, China, agents, GPUs, and what AGI even means now.",
+          "timestamp_seconds": 28,
+          "timestamp_match_word": "sebastian"
+        },
+        {
+          "show": "Lenny's Podcast",
+          "video_id": "xCd9ykretlg",
+          "url": "https://www.youtube.com/watch?v=xCd9ykretlg",
+          "angle": "The PM idea makes no sense in the future; the skill is more like being a CEO; the first 10% of every project is now free with AI.",
+          "timestamp_seconds": 1097,
+          "timestamp_match_word": "project"
+        },
+        {
+          "show": "BG2 Pod",
+          "video_id": "jA8ZQfq_Hzs",
+          "url": "https://www.youtube.com/watch?v=jA8ZQfq_Hzs",
+          "angle": "Glean's CEO says 'I think we have AGI' and treats the LLM as a commodity; price is the only differentiator now."
+        },
+        {
+          "show": "Cognitive Revolution",
+          "video_id": "_0vFE4Ti1Gs",
+          "url": "https://www.youtube.com/watch?v=_0vFE4Ti1Gs",
+          "angle": "DeepMind's Logan Kilpatrick and Tulsi Doshi defend Gemini 3.5 Flash as the model that eats the scaffolding around agent infrastructure.",
+          "timestamp_seconds": 23,
+          "timestamp_match_word": "infrastructure"
+        }
+      ],
+      "why_not_already_feature": "narrative-state shift across multiple shows about whether the AGI threshold already quietly passed, not a feature ship"
+    },
+    {
+      "theme": "OpenAI IPO and Cerebras IPO mark the public-market wave",
+      "themeKey": "openai-cerebras-ipo-wave",
+      "summary": "AI Daily Brief reported OpenAI engaged investment bankers and may file IPO paperwork imminently. No Priors interviewed Cerebras CEO Andrew Feldman after their $63B IPO. All-In framed SpaceX's $2T valuation case alongside the broader AI-IPO acceleration. Three shows converged on the public-market readiness moment.",
+      "episode_count": 3,
+      "episodes": [
+        {
+          "show": "AI Daily Brief",
+          "video_id": "9N3jEavj5Ps",
+          "url": "https://www.youtube.com/watch?v=9N3jEavj5Ps",
+          "angle": "OpenAI engaged investment bankers and is on the precipice of filing for an IPO confidentially this week.",
+          "timestamp_seconds": 32,
+          "timestamp_match_word": "confidentially"
+        },
+        {
+          "show": "No Priors",
+          "video_id": "jeop9wfb9jU",
+          "url": "https://www.youtube.com/watch?v=jeop9wfb9jU",
+          "angle": "Cerebras CEO Andrew Feldman on the $63B IPO and why fast AI changes the business-model surface, not just the model.",
+          "timestamp_seconds": 60,
+          "timestamp_match_word": "cerebras"
+        },
+        {
+          "show": "All-In Podcast",
+          "video_id": "HGbA6ze0_3M",
+          "url": "https://www.youtube.com/watch?v=HGbA6ze0_3M",
+          "angle": "SpaceX's $2T case, Nvidia's selloff, and the AI-IPO acceleration as the macro-frame for the week.",
+          "timestamp_seconds": 18,
+          "timestamp_match_word": "spacex"
+        }
+      ],
+      "why_not_already_feature": "capital-markets event spanning multiple labs and shows, not a product launch"
+    },
+    {
+      "theme": "AI take-private becomes the new acquisition pattern",
+      "themeKey": "ai-take-private-pattern",
+      "summary": "No Priors covered Long Lake Management's $6.3B acquisition of Amex Global Business Travel as the world's first AI take-private. BG2 Pod's AI Enterprise episode with Databricks and Glean framed the buy-and-AI-transform pattern as the new private-equity playbook. The thesis: instead of trying to disrupt incumbents, acquire them at scale and rebuild with AI from inside.",
+      "episode_count": 2,
+      "episodes": [
+        {
+          "show": "No Priors",
+          "video_id": "g5TWnUjbeFM",
+          "url": "https://www.youtube.com/watch?v=g5TWnUjbeFM",
+          "angle": "Long Lake's $6.3B Amex GBT acquisition is the first true AI take-private, a model for transforming 30+ legacy businesses with AI from inside.",
+          "timestamp_seconds": 135,
+          "timestamp_match_word": "acquisition"
+        },
+        {
+          "show": "BG2 Pod",
+          "video_id": "jA8ZQfq_Hzs",
+          "url": "https://www.youtube.com/watch?v=jA8ZQfq_Hzs",
+          "angle": "Databricks and Glean position the enterprise-AI buyout pattern as the next acquisition vehicle once the LLM becomes commodity.",
+          "timestamp_seconds": 364,
+          "timestamp_match_word": "databricks"
+        }
+      ],
+      "why_not_already_feature": "capital-allocation strategy emerging across enterprise-AI, not a single deal"
+    },
+    {
+      "theme": "Anthropic's Agent SDK June 15 policy reset",
+      "themeKey": "anthropic-agent-sdk-june-15-reset",
+      "summary": "Theo's 'I'm done' video celebrated Anthropic's reversal on Claude-Code-via-Agent-SDK: starting June 15, paid Claude plans can claim a dedicated monthly credit for programmatic use including third-party apps. The PrimeTime's vegan-from-the-Ozarks Adam.dev episode framed the build-against-Claude-Code competitive layer that the SDK policy reset reopens. Two shows captured the moment Anthropic moved from gatekeeping the SDK to monetizing it directly.",
+      "episode_count": 2,
+      "episodes": [
+        {
+          "show": "Theo - t3.gg",
+          "video_id": "131yAOjxHHQ",
+          "url": "https://www.youtube.com/watch?v=131yAOjxHHQ",
+          "angle": "Anthropic finally responded; June 15 brings a dedicated monthly credit covering Agent SDK, Claude-P, GitHub actions, and third-party apps.",
+          "timestamp_seconds": 6,
+          "timestamp_match_word": "dedicated"
+        },
+        {
+          "show": "The PrimeTime",
+          "video_id": "cVUVfn8OF5k",
+          "url": "https://www.youtube.com/watch?v=cVUVfn8OF5k",
+          "angle": "Adam.dev's Ozarks-based Claude-Code competitor lives in the same SDK access layer that the June 15 policy reopens.",
+          "timestamp_seconds": 1213,
+          "timestamp_match_word": "competitor"
+        }
+      ],
+      "why_not_already_feature": "lab policy/pricing reset rather than a product launch; affects the developer-platform layer specifically"
+    }
+  ]
+}

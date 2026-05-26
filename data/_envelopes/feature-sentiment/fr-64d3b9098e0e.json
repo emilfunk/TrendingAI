@@ -1,0 +1,47 @@
+{
+  "feature_id": "fr-64d3b9098e0e",
+  "overall_sentiment": "mixed",
+  "dominant_pattern": "news",
+  "summary_sentence": "Google I/O launched Gemini 3.5 Flash + Spark; coverage split between insider podcasts (DeepMind's Logan Kilpatrick + Tulsee Doshi on Cognitive Revolution) and skeptical takes (Theo's 187k 'scared to make this video' opener, plus his follow-up framing Codium's Composer 2.5 as the more impressive recent small-code-model drop).",
+  "praises": [
+    "four times faster than other leading frontier models per the explainer breakdowns",
+    "shipped alongside a new Frontier Safety Framework and interpretability tools that inspect reasoning before output",
+    "DeepMind framing positions 3.5 Flash + Antigravity 2.0 + Spark as a single connected agentic stack rather than three separate products"
+  ],
+  "complaints": [
+    "Theo's 187k YouTube reaction opens with explicit fear of Google retaliation, citing the Anti-Gravity demonetization precedent",
+    "AI Daily Brief calls Google's broader AI strategy 'getting messier and messier' even while crediting the speed advantage",
+    "Theo's 118k follow-up positions Codium Composer 2.5 as the small-and-effective code model Gemini 3.5 Flash 'should have been'"
+  ],
+  "notable_quotes": [
+    {"author": "@Theo - t3.gg", "source": "youtube", "quote": "I'm scared to make this video. Google just dropped Gemini 3.5 Flash. It's definitely a model."},
+    {"author": "@AI Daily Brief", "source": "youtube", "quote": "Their AI strategy is getting messier and messier, but it also just might not matter."},
+    {"author": "@kanekallaway", "source": "tiktok", "quote": "Gemini 3.5 Flash is Google's latest AI model that has frontier level capabilities, but is also four times faster than all the other leading models."}
+  ],
+  "podcast_synth": [
+    {"video_id": "1p334v40npw", "show_name": "Theo - t3.gg", "synth_line": "Theo opens with explicit fear of Google retaliation (Anti-Gravity demonetization precedent) before delivering his Gemini 3.5 Flash critique."},
+    {"video_id": "UvUzpSlXKtg", "show_name": "Theo - t3.gg", "synth_line": "Theo argues Codium's Composer 2.5 is the small-but-effective code model Gemini 3.5 Flash should have been, framing Google as a step behind a smaller competitor."},
+    {"video_id": "_0vFE4Ti1Gs", "show_name": "Cognitive Revolution", "synth_line": "DeepMind's Logan Kilpatrick and Tulsee Doshi defend the 3.5 Flash + Omni + Spark slate as a connected agentic stack in the show's first-ever in-person episode."},
+    {"video_id": "3OuXRxh3JNw", "show_name": "Hard Fork", "synth_line": "Kevin Roose and Casey Newton break down the I/O slate (Gemini 3.5, Spark, Omni) against the question of whether Google is doing enough to win the AI race."},
+    {"video_id": "G2HX30CelNk", "show_name": "AI Daily Brief", "synth_line": "AI Daily Brief calls Google's I/O strategy 'messier and messier' while acknowledging Gemini 3.5 Flash's speed advantages might matter regardless."}
+  ],
+  "cited_items_why": {
+    "https://www.tiktok.com/@kanekallaway/video/7643040317897313567": "Explainer naming Gemini 3.5 Flash + Antigravity 2.0 as the combo powering Spark's agentic capabilities.",
+    "https://www.youtube.com/watch?v=1p334v40npw": "Theo's 187k-engagement Gemini 3.5 Flash reaction opens with fear of Google retaliation over critical takes.",
+    "https://www.youtube.com/watch?v=UvUzpSlXKtg": "Theo's 118k follow-up positions Codium Composer 2.5 as the small-model code release Gemini 3.5 Flash should have been.",
+    "https://www.youtube.com/watch?v=_0vFE4Ti1Gs": "DeepMind's Logan Kilpatrick and Tulsee Doshi defend the 3.5 Flash + Omni + Spark stack on Cognitive Revolution.",
+    "https://www.youtube.com/watch?v=3OuXRxh3JNw": "Hard Fork debates whether the I/O slate is enough for Google to win the AI race against OpenAI.",
+    "https://www.youtube.com/watch?v=G2HX30CelNk": "AI Daily Brief calls the strategy messier while still crediting Gemini 3.5 Flash's speed edge.",
+    "https://www.tiktok.com/@adam.digital/video/7643667708453653780": "Highlights the Frontier Safety Framework and interpretability tools shipped alongside Gemini 3.5 Flash.",
+    "https://lastweekin.ai/p/lwiai-podcast-246-gemini-35-omni": "LWiAI Podcast 246 covers Gemini 3.5 + Omni alongside the Musk OpenAI verdict.",
+    "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/": "Ars Technica frames Gemini 3.5 Flash as Google's efficiency play for agentic workloads."
+  },
+  "counter_narratives": [
+    "Theo's 118k follow-up argues Codium's Composer 2.5 small-code-model release outpaces what Gemini 3.5 Flash actually shipped, framing Google as a step behind a smaller competitor on the small-code-model axis."
+  ],
+  "creator_recommendation": {
+    "angle": "Side-by-side: run the same agentic code workflow through Gemini 3.5 Flash + Antigravity 2.0 and Codium's Composer 2.5; settle Theo's 'should have been Gemini' claim with shipped output, not vibes.",
+    "format": "comparison",
+    "hook": "Theo says Codium's Composer 2.5 is the model Gemini 3.5 Flash should have been. I gave both eight hours on the same Next.js feature. Here is what they actually built."
+  }
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "captured_at": "2026-05-15T17:25:00.000Z",
+    "engagement": 18420,
+    "meta": {
+      "author": "aiexplainedhq",
+      "comments": 612,
+      "likes": 11200,
+      "media": "https://www.tiktok.com/@aiexplainedhq/video/7397822541098273029",
+      "plays": 482000,
+      "shares": 1180
+    },
+    "raw_text": "Claude Code just shipped agent view — one list of every session. Three minute demo, the workflow is wild. #ai #claude #aicoding #agenticai",
+    "source": "tiktok",
+    "title": "@aiexplainedhq: Claude Code just shipped agent view — one list of every session. Three minute demo, the workflow is wild. #ai #cl…",
+    "ts": "2026-05-13T14:02:11.000Z",
+    "url": "https://www.tiktok.com/@aiexplainedhq/video/7397822541098273029"
+  },
+  {
+    "captured_at": "2026-05-15T17:25:00.000Z",
+    "engagement": 9870,
+    "meta": {
+      "author": "promptlab",
+      "comments": 318,
+      "likes": 6420,
+      "media": "https://www.tiktok.com/@promptlab/video/7396941822558372117",
+      "plays": 271000,
+      "shares": 612
+    },
+    "raw_text": "Claude for Excel is real. Built a P&L from one prompt, formatted it, posted to Slack. The end of busywork? #ai #claude #aitools #productivity",
+    "source": "tiktok",
+    "title": "@promptlab: Claude for Excel is real. Built a P&L from one prompt, formatted it, posted to Slack. The end of busywork? #ai #cla…",
+    "ts": "2026-05-12T19:41:55.000Z",
+    "url": "https://www.tiktok.com/@promptlab/video/7396941822558372117"
+  },
+  {
+    "captured_at": "2026-05-15T17:25:00.000Z",
+    "engagement": 5640,
+    "meta": {
+      "author": "gptcrafted",
+      "comments": 184,
+      "likes": 3920,
+      "media": "https://www.tiktok.com/@gptcrafted/video/7396388841257382111",
+      "plays": 132000,
+      "shares": 240
+    },
+    "raw_text": "GPT-5 codex one-shotted my entire test suite — 412 lines, all green on first run. Walking through the prompt. #ai #gpt5 #llm #aicoding",
+    "source": "tiktok",
+    "title": "@gptcrafted: GPT-5 codex one-shotted my entire test suite — 412 lines, all green on first run. Walking through the prompt. #ai …",
+    "ts": "2026-05-11T08:17:32.000Z",
+    "url": "https://www.tiktok.com/@gptcrafted/video/7396388841257382111"
+  },
+  {
+    "captured_at": "2026-05-15T17:25:00.000Z",
+    "engagement": 3260,
+    "meta": {
+      "author": "agenticdaily",
+      "comments": 92,
+      "likes": 2310,
+      "media": "https://www.tiktok.com/@agenticdaily/video/7395710998837622219",
+      "plays": 68000,
+      "shares": 116
+    },
+    "raw_text": "Built an agentic harness in one weekend. Reads my email, drafts replies, schedules calls. Sharing the stack. #ai #agenticai #llm #aiapps",
+    "source": "tiktok",
+    "title": "@agenticdaily: Built an agentic harness in one weekend. Reads my email, drafts replies, schedules calls. Sharing the stack. #ai #ag…",
+    "ts": "2026-05-10T11:34:09.000Z",
+    "url": "https://www.tiktok.com/@agenticdaily/video/7395710998837622219"
+  }
+]

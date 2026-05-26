@@ -1,0 +1,36 @@
+[
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 0,
+    "meta": {},
+    "raw_text": "",
+    "source": "arxiv",
+    "title": "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data",
+    "ts": "2026-05-13T17:59:52Z",
+    "url": "https://arxiv.org/abs/2605.13846v1"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": -5,
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.13846v1"
+    },
+    "raw_text": "🤖🤖🤖",
+    "source": "arxiv",
+    "title": "🤖 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise 语言模型 nÃ¶ise ",
+    "ts": "2026-05-13T17:59:52Z",
+    "url": "https://arxiv.org/abs/2605.13846v1"
+  },
+  {
+    "captured_at": "2026-05-14T11:26:07.730Z",
+    "engagement": 0,
+    "meta": {
+      "id": "http://arxiv.org/abs/2605.13846v1"
+    },
+    "raw_text": "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data This paper introduces WARDEN, an early language model system capable of transcribing and translating Wardaman, an endangered Australian indigenous language into English. The significant challenge we face is the lack of large-scale training data: in fact, we only have 6 hours of annotated audio. Therefore, while it is common practice to train a single model for transcription and translation using l",
+    "source": "arxiv",
+    "title": "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data",
+    "ts": "2026-05-13T17:59:52Z",
+    "url": "https://arxiv.org/abs/2605.13846v1"
+  }
+]

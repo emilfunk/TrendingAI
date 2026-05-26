@@ -1,0 +1,711 @@
+[
+  {
+    "feature_id": "fr-64d3b9098e0e",
+    "lab": "lab",
+    "title": "[Google AI] Gemini 3.5: frontier intelligence with action",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "ts": "2026-05-19T17:45:00.000Z",
+    "entities": [
+      "Gemini 3.5"
+    ],
+    "responses": [
+      {
+        "source": "youtube",
+        "author": "",
+        "url": "https://www.youtube.com/watch?v=1p334v40npw",
+        "title": "[Theo - t3.gg] I'm scared to make this video",
+        "match_in": "raw_text",
+        "matched_entity": "Gemini 3.5",
+        "engagement": 187300
+      },
+      {
+        "source": "youtube",
+        "author": "",
+        "url": "https://www.youtube.com/watch?v=UvUzpSlXKtg",
+        "title": "[Theo - t3.gg] Cursor just crushed Claude Code",
+        "match_in": "raw_text",
+        "matched_entity": "Gemini 3.5",
+        "engagement": 118112
+      },
+      {
+        "source": "youtube",
+        "author": "",
+        "url": "https://www.youtube.com/watch?v=_0vFE4Ti1Gs",
+        "title": "[Cognitive Revolution] The Model Eats the Scaffolding: DeepMind's Logan Kilpatrick & Tulsee Doshi on 3.5 Flash, Omni & More",
+        "match_in": "raw_text",
+        "matched_entity": "Gemini 3.5",
+        "engagement": 14470
+      },
+      {
+        "source": "youtube",
+        "author": "",
+        "url": "https://www.youtube.com/watch?v=3OuXRxh3JNw",
+        "title": "[Hard Fork] Is Google Doing Enough to Win the A.I. Race?",
+        "match_in": "raw_text",
+        "matched_entity": "Gemini 3.5",
+        "engagement": 10606
+      },
+      {
+        "source": "youtube",
+        "author": "",
+        "url": "https://www.youtube.com/watch?v=G2HX30CelNk",
+        "title": "[AI Daily Brief] The Most Important AI News from Google I/O",
+        "match_in": "raw_text",
+        "matched_entity": "Gemini 3.5",
+        "engagement": 7157
+      },
+      {
+        "source": "tiktok",
+        "author": "kanekallaway",
+        "url": "https://www.tiktok.com/@kanekallaway/video/7643040317897313567",
+        "title": "@kanekallaway: @googlegemini just announced 3 massive releases at I/O #googlepartner #googleIO #ai #tech #google",
+        "match_in": "transcript",
+        "matched_entity": "Gemini 3.5",
+        "engagement": 1167
+      },
+      {
+        "source": "editorial",
+        "author": "",
+        "url": "https://lastweekin.ai/p/lwiai-podcast-246-gemini-35-omni",
+        "title": "[Last Week in AI] LWiAI Podcast #246 - Gemini 3.5 + Omni, Musk Loses, OpenAI vs Erdős",
+        "match_in": "title",
+        "matched_entity": "Gemini 3.5",
+        "engagement": 97
+      },
+      {
+        "source": "tiktok",
+        "author": "adam.digital",
+        "url": "https://www.tiktok.com/@adam.digital/video/7643667708453653780",
+        "title": "@adam.digital: Google Gemini Flash 3.5",
+        "match_in": "raw_text",
+        "matched_entity": "Gemini 3.5",
+        "engagement": 60
+      },
+      {
+        "source": "enterprise",
+        "author": "",
+        "url": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
+        "title": "[Ars Technica AI] Gemini 3.5 Flash might be fast enough for gen AI to make sense",
+        "match_in": "title",
+        "matched_entity": "Gemini 3.5",
+        "engagement": 19
+      },
+      {
+        "source": "instagram",
+        "author": "wgsystem",
+        "url": "https://www.instagram.com/p/DYy6sItGsOM/",
+        "title": "@wgsystem: 🤖 오늘의 AI 뉴스 | 2026-05-26 ======================================== 💡 오늘 AI 업계에서는 구글의 Gemini 3.5 모델 출시와 AI 에이전트 시대의 거버넌스…",
+        "match_in": "title",
+        "matched_entity": "Gemini 3.5",
+        "engagement": 0
+      },
+      {
+        "source": "instagram",
+        "author": "ranjith.with.ai",
+        "url": "https://www.instagram.com/p/DYyvnahDFY9/",
+        "title": "@ranjith.with.ai: I spent 3 months calling Vibe coding \"sloppy junior work.\" Then I tried it on a real project, and I couldn't say that an…",
+        "match_in": "raw_text",
+        "matched_entity": "Gemini 3.5",
+        "engagement": -1
+      }
+    ],
+    "distinct_platforms": 5,
+    "distinct_creators": 4,
+    "podcast_mentions": 0,
+    "score": 20,
+    "source_engagement": 0,
+    "is_lab_official": true
+  },
+  {
+    "feature_id": "xl-2058983299092009421",
+    "lab": "AnthropicAI",
+    "title": "@AnthropicAI: Anthropic co-founder Chris Olah was invited to speak at today's presentation of Pope Leo XIV's encyclical \"Magnifica hum…",
+    "url": "https://x.com/AnthropicAI/status/2058983299092009421",
+    "ts": "Mon May 25 18:47:27 +0000 2026",
+    "entities": [
+      "s presentation of Pope Leo XIV",
+      "Chris Olah",
+      "Pope Leo"
+    ],
+    "responses": [
+      {
+        "source": "tiktok",
+        "author": "cnn",
+        "url": "https://www.tiktok.com/@cnn/video/7643831428689546510",
+        "title": "@cnn: Pope Leo XIV called for AI to be \"disarmed\" during the presentation of his first encyclical document, \"Magnifica Humanit…",
+        "match_in": "title",
+        "matched_entity": "Pope Leo",
+        "engagement": 578758
+      },
+      {
+        "source": "x",
+        "author": "iScienceLuvr",
+        "url": "https://x.com/iScienceLuvr/status/2058890492172280143",
+        "title": "@iScienceLuvr: Pope Leo has written about AI in his first major released document! \"Humanity, created by God in all its grandeur, is to…",
+        "match_in": "title",
+        "matched_entity": "Pope Leo",
+        "engagement": 511
+      },
+      {
+        "source": "hn",
+        "author": "benwerd",
+        "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+        "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+        "match_in": "title",
+        "matched_entity": "Pope Leo",
+        "engagement": 406
+      },
+      {
+        "source": "x",
+        "author": "simonw",
+        "url": "https://x.com/simonw/status/2059065719086792804",
+        "title": "@simonw: When I woke up this morning I didn't think I'd be spending a bunch of time today getting familiar with Catholic theology…",
+        "match_in": "raw_text",
+        "matched_entity": "Pope Leo",
+        "engagement": 335
+      },
+      {
+        "source": "hn",
+        "author": "embedding-shape",
+        "url": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/",
+        "title": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
+        "match_in": "title",
+        "matched_entity": "Pope Leo",
+        "engagement": 166
+      },
+      {
+        "source": "enterprise",
+        "author": "",
+        "url": "https://www.theinformation.com/briefings/pope-leo-anthropic-co-founder-warn-ai-power-concentration-labor-displacement",
+        "title": "[The Information] Pope Leo, Anthropic Co-Founder Warn of AI Power Concentration, Labor Displacement",
+        "match_in": "title",
+        "matched_entity": "Pope Leo",
+        "engagement": 95
+      },
+      {
+        "source": "enterprise",
+        "author": "",
+        "url": "https://www.theregister.com/ai-ml/2026/05/26/pope-leo-warns-ai-boom-can-give-big-tech-and-the-people-who-run-it-too-much-power/5245883",
+        "title": "[The Register AI] Pope Leo warns AI boom can give Big Tech and the people who run it too much power",
+        "match_in": "title",
+        "matched_entity": "Pope Leo",
+        "engagement": 95
+      },
+      {
+        "source": "enterprise",
+        "author": "",
+        "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+        "title": "[TechCrunch] The pope’s AI encyclical isn’t really about AI",
+        "match_in": "raw_text",
+        "matched_entity": "Pope Leo",
+        "engagement": 90
+      },
+      {
+        "source": "enterprise",
+        "author": "",
+        "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+        "title": "[The Verge AI] Pope Leo calls for being ‘profoundly human’ in the age of AI",
+        "match_in": "title",
+        "matched_entity": "Pope Leo",
+        "engagement": 90
+      },
+      {
+        "source": "enterprise",
+        "author": "",
+        "url": "https://www.ft.com/content/12313f08-991d-4079-9631-9ce7ae70c3e3",
+        "title": "[FT AI] Pope Leo says AI ‘needs to be disarmed’",
+        "match_in": "title",
+        "matched_entity": "Pope Leo",
+        "engagement": 89
+      },
+      {
+        "source": "enterprise",
+        "author": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-25/pope-leo-warns-ai-should-be-prevented-from-dominating-humanity",
+        "title": "[Bloomberg Technology] Pope Says AI Should Be Disarmed to Avoid Dominating Humanity",
+        "match_in": "raw_text",
+        "matched_entity": "Pope Leo",
+        "engagement": 87
+      }
+    ],
+    "distinct_platforms": 4,
+    "distinct_creators": 5,
+    "podcast_mentions": 0,
+    "score": 20,
+    "source_engagement": 11572,
+    "is_lab_official": true
+  },
+  {
+    "feature_id": "seed-mcp",
+    "lab": "Anthropic",
+    "title": "[Anthropic] Introducing the Model Context Protocol",
+    "url": "https://www.anthropic.com/news/model-context-protocol",
+    "ts": "2026-05-07T20:07:05.000Z",
+    "entities": [
+      "model context protocol",
+      "mcp"
+    ],
+    "responses": [
+      {
+        "source": "tiktok",
+        "author": "rileybrown.ai",
+        "url": "https://www.tiktok.com/@rileybrown.ai/video/7481648510228499742",
+        "title": "@rileybrown.ai: AI Controlling Blender. Using MCP's on the Claude App.",
+        "match_in": "title",
+        "matched_entity": "mcp",
+        "engagement": 39388
+      },
+      {
+        "source": "tiktok",
+        "author": "raph.guilhem",
+        "url": "https://www.tiktok.com/@raph.guilhem/video/7642353908836322592",
+        "title": "@raph.guilhem: This is insane 😭 Comment « Claude » #pletormcp #claude #ai",
+        "match_in": "title",
+        "matched_entity": "mcp",
+        "engagement": 12627
+      },
+      {
+        "source": "tiktok",
+        "author": "sabrina_ramonov",
+        "url": "https://www.tiktok.com/@sabrina_ramonov/video/7617183596993940750",
+        "title": "@sabrina_ramonov: DM me \"SKILLS\" on Instagram to get the full AI skills breakdown. 12 AI skills the top 0.1% use to save 30+ hours every w…",
+        "match_in": "raw_text",
+        "matched_entity": "mcp",
+        "engagement": 8649
+      },
+      {
+        "source": "tiktok",
+        "author": "radnolan",
+        "url": "https://www.tiktok.com/@radnolan/video/7642715397149527326",
+        "title": "@radnolan: Annotate your Figma frame, paste the link into your coding agent, and let it fix the design. #figma #vibecoding #figmamc…",
+        "match_in": "raw_text",
+        "matched_entity": "mcp",
+        "engagement": 2586
+      },
+      {
+        "source": "tiktok",
+        "author": "bigpictureclub",
+        "url": "https://www.tiktok.com/@bigpictureclub/video/7640025072681389334",
+        "title": "@bigpictureclub: Three Claude security risks Anthropic warns about on their own website. 1: Cowork + Gmail MCP configured to send. 2: Cla…",
+        "match_in": "title",
+        "matched_entity": "mcp",
+        "engagement": 620
+      },
+      {
+        "source": "tiktok",
+        "author": "agentic.james",
+        "url": "https://www.tiktok.com/@agentic.james/video/7643452785177955597",
+        "title": "@agentic.james: Top 5 tips and tricks for vibe coding an iOS app with Claude code. #ios #claudecode #iosapp #claude #mobileapp",
+        "match_in": "raw_text",
+        "matched_entity": "mcp",
+        "engagement": 305
+      },
+      {
+        "source": "instagram",
+        "author": "handlytech",
+        "url": "https://www.instagram.com/p/DYZYlWHtY2_/",
+        "title": "@handlytech: Claude X Higgsfield Can Now Create AI Ads 🤯 Made with @higgsfield.ai MCP. Comment “AI” and I’ll send you the link. #Cla…",
+        "match_in": "title",
+        "matched_entity": "mcp",
+        "engagement": 213
+      },
+      {
+        "source": "tiktok",
+        "author": "agentic.james",
+        "url": "https://www.tiktok.com/@agentic.james/video/7642835625535638797",
+        "title": "@agentic.james: Here are the five levels of Claude Code and how you can move from level one to level five #claudecode #aiagents #claude …",
+        "match_in": "raw_text",
+        "matched_entity": "mcp",
+        "engagement": 183
+      },
+      {
+        "source": "instagram",
+        "author": "anatomyofai",
+        "url": "https://www.instagram.com/p/DYzG2hxCOsc/",
+        "title": "@anatomyofai: I have 3 prompts you can use to create Easy, Medium, and Hard financial tools using @claudeai , all while being extremel…",
+        "match_in": "raw_text",
+        "matched_entity": "mcp",
+        "engagement": 6
+      }
+    ],
+    "distinct_platforms": 2,
+    "distinct_creators": 8,
+    "podcast_mentions": 0,
+    "score": 16,
+    "source_engagement": 0,
+    "is_lab_official": true
+  },
+  {
+    "feature_id": "fr-2e138e9c1f38",
+    "lab": "lab",
+    "title": "[Meta] Introducing Business AI on WhatsApp for Small Businesses in India",
+    "url": "https://about.fb.com/news/2026/05/introducing-business-ai-on-whatsapp-for-small-businesses-in-india/",
+    "ts": "2026-05-15T04:59:51.000Z",
+    "entities": [
+      "Small Businesses",
+      "WhatsApp"
+    ],
+    "responses": [
+      {
+        "source": "instagram",
+        "author": "handlytech",
+        "url": "https://www.instagram.com/p/CybW5zct2AA/",
+        "title": "@handlytech: Never Trust Screenshots EVER Again!!😱#website #hack #whatsapp #whatsapptips #virus",
+        "match_in": "title",
+        "matched_entity": "WhatsApp",
+        "engagement": 1043820
+      },
+      {
+        "source": "tiktok",
+        "author": "rileybrown.ai",
+        "url": "https://www.tiktok.com/@rileybrown.ai/video/7309572377577393451",
+        "title": "@rileybrown.ai: Google has announced the launch of Gemini, a new artificial intelligence model. Gemini is a multimodal AI that can work …",
+        "match_in": "raw_text",
+        "matched_entity": "WhatsApp",
+        "engagement": 396974
+      },
+      {
+        "source": "instagram",
+        "author": "harpercarrollai",
+        "url": "https://www.instagram.com/p/DFwc-SUxekh/",
+        "title": "@harpercarrollai: One of my most-asked questions is, Should I still learn to code? Get a computer science degree, etc.? Here’s my answer. …",
+        "match_in": "raw_text",
+        "matched_entity": "Small Businesses",
+        "engagement": 30247
+      },
+      {
+        "source": "tiktok",
+        "author": "sabrina_ramonov",
+        "url": "https://www.tiktok.com/@sabrina_ramonov/video/7543098468148006174",
+        "title": "@sabrina_ramonov: NEVER send me money, investment, crypto, etc. I do NOT use telegram, WhatsApp, or signal. I do use discord but I’m never…",
+        "match_in": "title",
+        "matched_entity": "WhatsApp",
+        "engagement": 2877
+      },
+      {
+        "source": "instagram",
+        "author": "harpercarrollai",
+        "url": "https://www.instagram.com/p/DYSAr-FOilE/",
+        "title": "@harpercarrollai: BREAKING: Incognito Chat with Meta AI, completely private chats with AI! We’ve been waiting for this! I am *constantly* …",
+        "match_in": "raw_text",
+        "matched_entity": "WhatsApp",
+        "engagement": 1078
+      },
+      {
+        "source": "tiktok",
+        "author": "ray_fu",
+        "url": "https://www.tiktok.com/@ray_fu/video/7643684092189396255",
+        "title": "@ray_fu: 3 workflows you need with Claude for Small Businesses #ai #tech",
+        "match_in": "title",
+        "matched_entity": "Small Businesses",
+        "engagement": 246
+      },
+      {
+        "source": "instagram",
+        "author": "techmantraindia",
+        "url": "https://www.instagram.com/p/DYzIVQmmOA2/",
+        "title": "@techmantraindia: 🚀 FREE OFFLINE MASTER CLASS @ TECH MANTRA Step into the world of Applied AI, Agentic AI & Agent Skills with Claude 🤖⚡ …",
+        "match_in": "raw_text",
+        "matched_entity": "WhatsApp",
+        "engagement": 1
+      },
+      {
+        "source": "instagram",
+        "author": "akshatait",
+        "url": "https://www.instagram.com/p/DYzL6pfCelO/",
+        "title": "@akshatait: 🚀 Step into the future of digital protection with our Cyber Security with AI program by Akshata IT! Learn how Artificia…",
+        "match_in": "raw_text",
+        "matched_entity": "WhatsApp",
+        "engagement": 1
+      },
+      {
+        "source": "instagram",
+        "author": "todayinaii",
+        "url": "https://www.instagram.com/p/DYzDmnflX6T/",
+        "title": "@todayinaii: 📅 NEWS BREAK — May 26, 2026 🔥 AI JUDGES YOUR CODE: OPENAI EMPOWERS PMS TO SHIP SOFTWARE OpenAI is revolutionizing soft…",
+        "match_in": "raw_text",
+        "matched_entity": "WhatsApp",
+        "engagement": 0
+      }
+    ],
+    "distinct_platforms": 2,
+    "distinct_creators": 8,
+    "podcast_mentions": 0,
+    "score": 16,
+    "source_engagement": 0,
+    "is_lab_official": true
+  },
+  {
+    "feature_id": "fr-e46d28eec380",
+    "lab": "lab",
+    "title": "[OpenAI] Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
+    "ts": "2026-05-15T00:00:00.000Z",
+    "entities": [
+      "GPT-5.5"
+    ],
+    "responses": [
+      {
+        "source": "youtube",
+        "author": "",
+        "url": "https://www.youtube.com/watch?v=1p334v40npw",
+        "title": "[Theo - t3.gg] I'm scared to make this video",
+        "match_in": "transcript",
+        "matched_entity": "GPT-5.5",
+        "engagement": 187300
+      },
+      {
+        "source": "x",
+        "author": "itsolelehmann",
+        "url": "https://x.com/itsolelehmann/status/2057909733491937555",
+        "title": "@itsolelehmann: marc andreessen just went on Rogan and casually dropped a TON of AI alpha full pod is 3 hours and 20 minutes, but i pull…",
+        "match_in": "raw_text",
+        "matched_entity": "GPT-5.5",
+        "engagement": 35153
+      },
+      {
+        "source": "youtube",
+        "author": "",
+        "url": "https://www.youtube.com/watch?v=G2HX30CelNk",
+        "title": "[AI Daily Brief] The Most Important AI News from Google I/O",
+        "match_in": "transcript",
+        "matched_entity": "GPT-5.5",
+        "engagement": 7157
+      },
+      {
+        "source": "youtube",
+        "author": "",
+        "url": "https://www.youtube.com/watch?v=dB-Kbylgrdk",
+        "title": "[AI Daily Brief] 9 Codex Tips from the Codex Team",
+        "match_in": "transcript",
+        "matched_entity": "GPT-5.5",
+        "engagement": 4965
+      },
+      {
+        "source": "x",
+        "author": "romainhuet",
+        "url": "https://x.com/romainhuet/status/2059079172870586807",
+        "title": "@romainhuet: Pretty special to see this from DHH. Hard not to feel the same when you’re building with GPT-5.5.",
+        "match_in": "title",
+        "matched_entity": "GPT-5.5",
+        "engagement": 342
+      },
+      {
+        "source": "x",
+        "author": "theo",
+        "url": "https://x.com/theo/status/2059121546556571694",
+        "title": "@theo: I don’t think AGI is well defined. I would argue that current models with sufficient tools/harnesses would get close to …",
+        "match_in": "raw_text",
+        "matched_entity": "GPT-5.5",
+        "engagement": 294
+      },
+      {
+        "source": "x",
+        "author": "MervinPraison",
+        "url": "https://x.com/MervinPraison/status/2059174069497389267",
+        "title": "@MervinPraison: Cursor Composer 2.5 is making waves for coding performance at a surprisingly low cost. According to Cursor Bench: • Near…",
+        "match_in": "raw_text",
+        "matched_entity": "GPT-5.5",
+        "engagement": 45
+      },
+      {
+        "source": "instagram",
+        "author": "steady_ai",
+        "url": "https://www.instagram.com/p/DYyQy42EuMB/",
+        "title": "@steady_ai: 매달 Claude Code에 $200씩 쓰고 계신가요? 😅 Cursor가 5월 18일에 푼 Composer 2.5, 솔직히 게임체인저입니다. 벤치마크는 Opus 4.7과 0.6~1.6점 차이밖에 안 나는데, 태스크…",
+        "match_in": "raw_text",
+        "matched_entity": "GPT-5.5",
+        "engagement": 0
+      },
+      {
+        "source": "youtube",
+        "author": "",
+        "url": "https://www.youtube.com/watch?v=4D3hDmGhFhA",
+        "title": "[Lenny's Podcast] The AI paradox: More automation, more humans, more work",
+        "match_in": "transcript",
+        "matched_entity": "GPT-5.5",
+        "engagement": 0
+      }
+    ],
+    "distinct_platforms": 3,
+    "distinct_creators": 5,
+    "podcast_mentions": 4,
+    "score": 15,
+    "source_engagement": 0,
+    "is_lab_official": true
+  },
+  {
+    "feature_id": "fr-cf2c701f4b43",
+    "lab": "lab",
+    "title": "[HuggingFace] Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "ts": "2026-05-23T00:02:03.000Z",
+    "entities": [
+      "Language Models",
+      "Labs Diffusion",
+      "Towards Speed"
+    ],
+    "responses": [
+      {
+        "source": "tiktok",
+        "author": "justinfineberg",
+        "url": "https://www.tiktok.com/@justinfineberg/video/7630482037606075678",
+        "title": "@justinfineberg: AI investors biggest mistake…",
+        "match_in": "raw_text",
+        "matched_entity": "Language Models",
+        "engagement": 250
+      },
+      {
+        "source": "x",
+        "author": "iScienceLuvr",
+        "url": "https://x.com/iScienceLuvr/status/2059221770075562113",
+        "title": "@iScienceLuvr: Language Models Need Sleep \"Transformer-based large language models are increasingly used for long-horizon tasks; howeve…",
+        "match_in": "title",
+        "matched_entity": "Language Models",
+        "engagement": 20
+      },
+      {
+        "source": "instagram",
+        "author": "ssetinsta",
+        "url": "https://www.instagram.com/p/DYzBtghyGlm/",
+        "title": "@ssetinsta: Congratulations to Dr. Sindhya K. Nambiar, Associate Professor, Department of Artificial Intelligence and Data Science, …",
+        "match_in": "raw_text",
+        "matched_entity": "Language Models",
+        "engagement": 5
+      },
+      {
+        "source": "instagram",
+        "author": "acropolis_official",
+        "url": "https://www.instagram.com/p/DYzIIt8s4ev/",
+        "title": "@acropolis_official: 🚀 Excited to announce an insightful Expert Talk on Agentic AI, Generative AI & LLMs — shaping the future of intelligent…",
+        "match_in": "raw_text",
+        "matched_entity": "Language Models",
+        "engagement": 1
+      },
+      {
+        "source": "instagram",
+        "author": "thesyed.group",
+        "url": "https://www.instagram.com/p/DYzFHh6gX0j/",
+        "title": "@thesyed.group: 🚀 AI search is changing the internet — and businesses that aren’t optimized for machine-readable discovery risk becomin…",
+        "match_in": "raw_text",
+        "matched_entity": "Language Models",
+        "engagement": 0
+      }
+    ],
+    "distinct_platforms": 3,
+    "distinct_creators": 5,
+    "podcast_mentions": 0,
+    "score": 15,
+    "source_engagement": 0,
+    "is_lab_official": false
+  },
+  {
+    "feature_id": "xl-2056792333132460322",
+    "lab": "GeminiApp",
+    "title": "@GeminiApp: Gemini Spark is your new 24/7 personal AI agent. Give it a task and it works autonomously in the background, even if you…",
+    "url": "https://x.com/GeminiApp/status/2056792333132460322",
+    "ts": "Tue May 19 17:41:20 +0000 2026",
+    "entities": [
+      "Gemini Spark"
+    ],
+    "responses": [
+      {
+        "source": "youtube",
+        "author": "",
+        "url": "https://www.youtube.com/watch?v=8uCkUyRFUqY",
+        "title": "[AI Daily Brief] What Google Needs to Do at I/O This Week",
+        "match_in": "raw_text",
+        "matched_entity": "Gemini Spark",
+        "engagement": 4974
+      },
+      {
+        "source": "tiktok",
+        "author": "brandnat",
+        "url": "https://www.tiktok.com/@brandnat/video/7642003064978951445",
+        "title": "@brandnat: NEW Gemini Spark - 24/7 personal AI agent launches at @Google I/O #google #googleio #ai #artificialintelligence #brandna…",
+        "match_in": "title",
+        "matched_entity": "Gemini Spark",
+        "engagement": 1787
+      },
+      {
+        "source": "tiktok",
+        "author": "kanekallaway",
+        "url": "https://www.tiktok.com/@kanekallaway/video/7643040317897313567",
+        "title": "@kanekallaway: @googlegemini just announced 3 massive releases at I/O #googlepartner #googleIO #ai #tech #google",
+        "match_in": "raw_text",
+        "matched_entity": "Gemini Spark",
+        "engagement": 1167
+      }
+    ],
+    "distinct_platforms": 2,
+    "distinct_creators": 2,
+    "podcast_mentions": 0,
+    "score": 4,
+    "source_engagement": 10663,
+    "is_lab_official": true
+  },
+  {
+    "feature_id": "seed-claude-skills",
+    "lab": "Anthropic",
+    "title": "Claude Skills — reusable instruction sets Claude loads on demand",
+    "url": "https://code.claude.com/docs/en/skills",
+    "ts": "2026-05-01T00:00:00.000Z",
+    "entities": [
+      "claude skills"
+    ],
+    "responses": [
+      {
+        "source": "tiktok",
+        "author": "agentic.james",
+        "url": "https://www.tiktok.com/@agentic.james/video/7562250551602253111",
+        "title": "@agentic.james: Top use cases for Claude Skills: Skills unlocks a whole new level of modular context engineering for Claude code, allowi…",
+        "match_in": "title",
+        "matched_entity": "claude skills",
+        "engagement": 6126
+      },
+      {
+        "source": "reddit",
+        "author": "",
+        "url": "https://www.reddit.com/r/artificial/comments/1tnjhts/top_10_fastest_growing_ai_repos_this_week/",
+        "title": "[r/artificial] Top 10 Fastest Growing AI repos this week",
+        "match_in": "raw_text",
+        "matched_entity": "claude skills",
+        "engagement": 40
+      }
+    ],
+    "distinct_platforms": 2,
+    "distinct_creators": 1,
+    "podcast_mentions": 0,
+    "score": 2,
+    "source_engagement": 0,
+    "is_lab_official": true
+  },
+  {
+    "feature_id": "seed-finance-agents",
+    "lab": "Anthropic",
+    "title": "[Anthropic] Agents for financial services",
+    "url": "https://www.anthropic.com/news/finance-agents",
+    "ts": "2026-05-07T20:29:52.000Z",
+    "entities": [
+      "finance agents",
+      "agents for financial services"
+    ],
+    "responses": [
+      {
+        "source": "tiktok",
+        "author": "kanekallaway",
+        "url": "https://www.tiktok.com/@kanekallaway/video/7637886014270311710",
+        "title": "@kanekallaway: Claude just airdropped 10 new AI agents for Finance #ai #techtok #technology #finance #banking",
+        "match_in": "raw_text",
+        "matched_entity": "agents for financial services",
+        "engagement": 1010
+      }
+    ],
+    "distinct_platforms": 1,
+    "distinct_creators": 1,
+    "podcast_mentions": 0,
+    "score": 1,
+    "source_engagement": 0,
+    "is_lab_official": true
+  }
+]

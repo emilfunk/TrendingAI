@@ -1,0 +1,32 @@
+[
+  {
+    "narrative_id": "cursor-composer-2-5-challenges-frontier-labs",
+    "theme": "Cursor's Composer 2.5 outpaces frontier-lab launches on cost-per-task at near-parity benchmarks",
+    "implicated_feature_ids": [
+      "fr-64d3b9098e0e",
+      "fr-e46d28eec380"
+    ],
+    "substrate_sentence": "Theo's 118k YouTube argues Codium's Composer 2.5 is 'the small-but-effective code model Gemini 3.5 Flash should have been'; steady_ai's IG breakdown shows the same Composer 2.5 hitting near-parity against GPT-5.5 medium (SWE-bench 79.8 vs 80.5) at 60x lower per-task cost ($0.07 vs $4.10) — the same comparison shows up against both Google's and OpenAI's headline enterprise launches this cycle.",
+    "confidence": "high"
+  },
+  {
+    "narrative_id": "google-io-2026-agentic-stack-launch",
+    "theme": "Google I/O 2026 packaged Gemini 3.5 Flash and Gemini Spark as one agentic stack",
+    "implicated_feature_ids": [
+      "fr-64d3b9098e0e",
+      "xl-2056792333132460322"
+    ],
+    "substrate_sentence": "DeepMind's Logan Kilpatrick and Tulsee Doshi on Cognitive Revolution defend Gemini 3.5 Flash + Antigravity 2.0 + Gemini Spark as 'a connected agentic stack' rather than three separate products; kanekallaway's I/O explainer threads the same dependency ('Gemini Spark is your new 24/7 personal AI agent' powered by 'Gemini 3.5 Flash + Antigravity 2.0' as the secret sauce).",
+    "confidence": "high"
+  },
+  {
+    "narrative_id": "ai-power-concentration-warnings",
+    "theme": "Pope Leo XIV's encyclical and MCP-security commentary surface a same-cycle concern about AI power concentration and access scope",
+    "implicated_feature_ids": [
+      "xl-2058983299092009421",
+      "seed-mcp"
+    ],
+    "substrate_sentence": "Pope Leo XIV's first encyclical 'Magnifica Humanitas' warns AI should be 'disarmed' to avoid 'opaque AI run by few firms' (Variety) and labor displacement (The Information); on the consumer-side, bigpictureclub surfaces Anthropic's own MCP-security warnings — Cowork+Gmail send-access, Claude-for-Chrome full-site access, third-party Skills — as the same scope-of-power question at the protocol layer.",
+    "confidence": "med"
+  }
+]
