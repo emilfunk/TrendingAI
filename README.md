@@ -12,7 +12,7 @@ The included `out/features-confirmed.html` is the reference baseline from our in
 
 ## What you actually get
 
-Type `/trendingai` in a Claude Code session opened in this bundle. Twenty minutes later, `out/features-confirmed-runNNN-{date}.html` is on disk and in your browser:
+Type `/trendingai` in your agent session opened in this bundle. Twenty minutes later, `out/features-confirmed-runNNN-{date}.html` is on disk and in your browser:
 
 - **Features & Flags** — every named lab feature creators talked about this cycle, ranked across three tiers. A sentiment-by-feature heat-grid up top shows how the creator chorus reacted to each: landing hot, landing cold. Per-card: verbatim reactions, PRAISED / COMPLAINED summary synthesized inline, RATIOED callouts when engagement and sentiment disagree (a 35k-engagement post with 80% negative replies gets flagged).
 - **Hot in Podcasts** — we transcribe **hundreds of hours of AI podcasts** every cycle and cluster what podcasters keep returning to: model-quality vibes, governance shifts, AI doom narratives cracking. Themes, not product launches.
@@ -191,7 +191,7 @@ bun test
 
 | Symptom | Fix |
 |---|---|
-| `claude: command not found` | Install Claude Code from https://claude.ai/code |
+| `claude: command not found` (or other agent) | Install your preferred agent CLI (Claude Code, OpenAI Codex, Pi, OpenCode, or Google Antigravity) |
 | `bun: command not found` | `curl -fsSL https://bun.sh/install \| bash`, restart shell |
 | `yt-dlp` / `ffmpeg` missing | `brew install yt-dlp ffmpeg` |
 | Harvest fails with `401` / `402` | `APIFY_TOKEN` unset, typo'd, or out of credit — check `.env` and your Apify dashboard |
@@ -200,7 +200,7 @@ bun test
 | Rendered HTML empty | Substrate too thin this cycle (rare) — re-run fresh harvest |
 | `out/latest.html` symlink broken | Run any generation to recreate |
 
-For anything else, open Claude Code in the bundle and ask. The skill workflows document every recovery branch in `.claude/skills/TrendingAI/Workflows/Run.md`.
+For anything else, open your agent in the bundle and ask. The skill workflows document every recovery branch in `.agents/skills/trendingai/Workflows/Run.md`.
 
 ---
 
