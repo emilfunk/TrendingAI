@@ -1,8 +1,8 @@
 # TrendingAI
 
-A clone-and-run editorial intelligence pipeline for AI-creator content. Twelve harvesters run in parallel — **X, TikTok, Instagram, YouTube + AI podcasts, Reddit, Hacker News, GitHub, arXiv, Bluesky, editorial feeds, frontier-lab announcements, enterprise channels** — pulling thousands of items in five minutes. Deterministic TypeScript clusters them into named features. Then the magic: every confirmed feature gets **verbatim creator sentiment synthesized inline inside your Claude Code session**. Every cited tweet, TikTok, IG reel, and YouTube clip renders as a real embed. One self-contained HTML you can hand to anyone.
+A clone-and-run editorial intelligence pipeline for AI-creator content. Twelve harvesters run in parallel — **X, TikTok, Instagram, YouTube + AI podcasts, Reddit, Hacker News, GitHub, arXiv, Bluesky, editorial feeds, frontier-lab announcements, enterprise channels** — pulling thousands of items in five minutes. Deterministic TypeScript clusters them into named features. Then the magic: every confirmed feature gets **verbatim creator sentiment synthesized inline inside your agent session** (compatible with **Codex, Pi, OpenCode, Antigravity, and Claude Code**). Every cited tweet, TikTok, IG reel, and YouTube clip renders as a real embed. One self-contained HTML you can hand to anyone.
 
-**~21,000 lines of TypeScript across 85 source files · 6 synthesis prompts · 238 passing tests · 12 data sources · one Claude Code skill · one slash command: `/trendingai`.**
+**~21,000 lines of TypeScript across 85 source files · 6 synthesis prompts · 238 passing tests · 12 data sources · multi-agent support · one command: `/trendingai`.**
 
 ![Pipeline health — every stage instrumented in the report itself](docs/pipeline.png)
 
@@ -28,7 +28,7 @@ Every claim cites real URLs from the harvest. Every visible element is either de
 
 ## Install (~2 minutes)
 
-Requires macOS, [Claude Code](https://claude.ai/code) signed in on a **Pro or Max plan**, [Bun](https://bun.sh/), `yt-dlp`, `ffmpeg`.
+Requires macOS, [Bun](https://bun.sh/), `yt-dlp`, `ffmpeg`, and your choice of AI coding agent (**Claude Code, OpenAI Codex, Pi, OpenCode, or Google Antigravity**).
 
 ```bash
 git clone <repo-url>
@@ -55,23 +55,23 @@ The skill prompts you for two free-tier signup tokens on first run and writes th
 | `APIFY_TOKEN` | X / TikTok / Instagram / YouTube + reply threads + transcription | [console.apify.com](https://console.apify.com/account/integrations) — free tier ~$5 credit, no card. Covers ~15-25 fresh runs. |
 | `GROQ_API_KEY` | Whisper Large v3 Turbo for Instagram reel audio transcription | [console.groq.com](https://console.groq.com) — free tier covers our cadence indefinitely. |
 
-No Anthropic API key required. See **Anthropic authentication** below for why.
+No external LLM API keys required. The orchestrating agent session itself performs all synthesis inline via subscription OAuth.
 
 ---
 
 ## Run the report
 
-```bash
-claude
-```
+Open your agent of choice in the repository root:
 
-Then in the Claude Code prompt:
+| Agent | Launch CLI | Command / Prompt |
+|---|---|---|
+| **Codex** | `codex` | `$trendingai` or `run trendingai` |
+| **Pi** | `pi` | `/skill:trendingai` or `run trendingai` |
+| **OpenCode** | `opencode` | `/trendingai` or `run trendingai` |
+| **Antigravity** | `agy` | `/trendingai` or `run trendingai` |
+| **Claude Code** | `claude` | `/trendingai` |
 
-```
-/trendingai
-```
-
-The skill narrates the pipeline stage by stage: twelve scrapers fire in parallel, Whisper transcribes Instagram reels in the background, deterministic TypeScript clusters thousands of items into named features, six Opus synthesis passes happen inline inside the same Claude Code conversation — one window, no subagents, no subprocess forks. The renderer writes a single self-contained HTML and opens it in your browser.
+The skill narrates the pipeline stage by stage: twelve scrapers fire in parallel, Whisper transcribes Instagram reels in the background, deterministic TypeScript clusters thousands of items into named features, and synthesis passes happen inline inside the same agent conversation — one window, no subagents, no subprocess forks. The renderer writes a single self-contained HTML and opens it in your browser.
 
 The skill asks **fresh-harvest** vs **render-only** every time:
 
@@ -127,19 +127,27 @@ The bundle's defensive code explicitly deletes `ANTHROPIC_API_KEY` from the envi
 ```
 TrendingAI/
 ├── README.md                ← this file
-├── CLAUDE.md                ← project-level Claude Code rules
+├── AGENTS.md                ← universal multi-agent guidelines (Codex, Pi, OpenCode, Antigravity, Claude Code)
+├── CODEX.md                 ← Codex entrypoint and configuration
+├── GEMINI.md                ← Google Antigravity / Gemini CLI entrypoint
+├── OPENCODE.md              ← OpenCode entrypoint and configuration
+├── PI.md                    ← Pi entrypoint and configuration
+├── CLAUDE.md                ← Claude Code rules (imports AGENTS.md)
 ├── .env.example             ← env var template
 ├── .gitignore               ← excludes .env, data/raw/, node_modules
 ├── package.json             ← bun scripts
 ├── tsconfig.json
 ├── bun.lock
 │
-├── .claude/skills/TrendingAI/
-│   ├── SKILL.md             ← skill descriptor + trigger phrases
+├── .agents/skills/trendingai/  ← portable skill discoverable by Codex, Pi, OpenCode, Antigravity
+│   ├── SKILL.md             ← universal skill descriptor
 │   └── Workflows/
 │       ├── Run.md           ← full pipeline (fresh-harvest path)
 │       └── RenderOnly.md    ← cached-data fast path
 │
+├── .codex/                  ← Codex runtime configuration (config.toml)
+├── .opencode/               ← OpenCode commands & skills
+├── .claude/skills/TrendingAI/ ← Claude Code skill
 ├── prompts/                 ← 6 synthesis prompts (593 lines)
 │   ├── feature-sentiment.md
 │   ├── cross-narratives.md

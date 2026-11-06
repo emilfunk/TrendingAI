@@ -1,0 +1,3 @@
+# Full access for trusted TrendingAI workspace.
+approval_policy = "never"
+sandbox_mode = "danger-full-access"

@@ -1,5 +1,7 @@
 # TrendingAI — project rules for Claude Code
 
+@AGENTS.md
+
 Auto-loaded when Claude Code starts in the cloned bundle directory. Read these once; they govern every `/trendingai` run.
 
 ## First time using this bundle?

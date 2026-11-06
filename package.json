@@ -2,7 +2,7 @@
   "name": "trending-ai",
   "version": "1.0.0",
   "type": "module",
-  "//": "TrendingAI hackathon bundle. The canonical entry point is the /trendingai skill (.claude/skills/TrendingAI/). The scripts below are the building blocks the skill orchestrates. Synthesis stages (features:sentiment, features:creator-recs, features:podcast-themes, features:industry-news) are DEPRECATED for direct invocation post-2026-06-15 because they spawn `claude --print` which lost subscription billing. The skill orchestrator does the synthesis inline in Opus 4.7 instead. Run `claude` from this directory, then type /trendingai.",
+  "//": "TrendingAI bundle. Compatible with Codex, Pi, OpenCode, Antigravity, and Claude Code. Canonical entry point is the /trendingai skill (.agents/skills/trendingai/ or .claude/skills/TrendingAI/). Synthesis is performed inline by the active orchestrating agent session. Run codex, pi, opencode, agy, or claude from this directory, then invoke /trendingai.",
   "scripts": {
     "harvest:hn": "bun src/harvesters/hn.ts",
     "harvest:arxiv": "bun src/harvesters/arxiv.ts",
